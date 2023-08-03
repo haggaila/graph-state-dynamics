@@ -449,7 +449,6 @@ def run_experiment(
 
 
 def sort_groups_by_nu(groups, nu_freqs):
-
     # sort pairs by nu of target
     for group in groups:
         group.sort(
