@@ -1,0 +1,6343 @@
+#time	quantity	value
+0 	tr_rho	0.999999999999999
+0 	S_2	8.57067606704689
+0 	OSEE_center	-8.88178419700125e-15
+0 	max_bond_dim	3
+0 	duration_ms	364
+
+0.05 	tr_rho	0.999999999999999
+0.05 	S_2	8.57903289948294
+0.05 	OSEE_center	0.00120408612157341
+0.05 	max_bond_dim	38
+0.05 	duration_ms	6170
+
+0.1 	tr_rho	1
+0.1 	S_2	8.5873325811442
+0.1 	OSEE_center	0.00451834491628311
+0.1 	max_bond_dim	39
+0.1 	duration_ms	15136
+
+0.15 	tr_rho	0.9999996106616
+0.15 	S_2	8.59562633634965
+0.15 	OSEE_center	0.00955677905227681
+0.15 	max_bond_dim	37
+0.15 	duration_ms	24255
+
+0.2 	tr_rho	1
+0.2 	S_2	8.603841723566
+0.2 	OSEE_center	0.00450942991976255
+0.2 	max_bond_dim	48
+0.2 	duration_ms	36813
+
+0.25 	tr_rho	1
+0.25 	S_2	8.61205226551919
+0.25 	OSEE_center	0.00119599986705765
+0.25 	max_bond_dim	50
+0.25 	duration_ms	47900
+
+0.3 	tr_rho	1.00000011325522
+0.3 	S_2	8.62010777141576
+0.3 	OSEE_center	0.00450435382274961
+0.3 	max_bond_dim	49
+0.3 	duration_ms	63494
+
+0.35 	tr_rho	1
+0.35 	S_2	8.62816341567658
+0.35 	OSEE_center	0.00953758175642605
+0.35 	max_bond_dim	48
+0.35 	duration_ms	80523
+
+0.4 	tr_rho	1
+0.4 	S_2	8.63622077288616
+0.4 	OSEE_center	0.0160819723160888
+0.4 	max_bond_dim	49
+0.4 	duration_ms	99638
+
+0.45 	tr_rho	0.999999932226733
+0.45 	S_2	8.64435984470464
+0.45 	OSEE_center	0.0095214040829692
+0.45 	max_bond_dim	49
+0.45 	duration_ms	121205
+
+0.5 	tr_rho	1
+0.5 	S_2	8.6524993988026
+0.5 	OSEE_center	0.00448486427226769
+0.5 	max_bond_dim	49
+0.5 	duration_ms	143613
+
+0.55 	tr_rho	1.00000000020489
+0.55 	S_2	8.66064149950301
+0.55 	OSEE_center	2.75169806282319
+0.55 	max_bond_dim	98
+0.55 	duration_ms	163623
+
+0.6 	tr_rho	1.00000002231417
+0.6 	S_2	8.67081223457935
+0.6 	OSEE_center	2.75098777873757
+0.6 	max_bond_dim	95
+0.6 	duration_ms	257873
+
+0.65 	tr_rho	1
+0.65 	S_2	8.68097221966476
+0.65 	OSEE_center	2.74979012190334
+0.65 	max_bond_dim	77
+0.65 	duration_ms	322197
+
+0.7 	tr_rho	0.999999999999999
+0.7 	S_2	8.69112105998508
+0.7 	OSEE_center	2.74810498512822
+0.7 	max_bond_dim	76
+0.7 	duration_ms	379579
+
+0.75 	tr_rho	0.999999980623197
+0.75 	S_2	8.70113770017322
+0.75 	OSEE_center	2.74731529023345
+0.75 	max_bond_dim	84
+0.75 	duration_ms	435681
+
+0.8 	tr_rho	1
+0.8 	S_2	8.71114162692433
+0.8 	OSEE_center	2.74603822314336
+0.8 	max_bond_dim	71
+0.8 	duration_ms	499993
+
+0.85 	tr_rho	1
+0.85 	S_2	8.72102505413706
+0.85 	OSEE_center	2.743487365623
+0.85 	max_bond_dim	73
+0.85 	duration_ms	551502
+
+0.9 	tr_rho	0.999999920588653
+0.9 	S_2	8.73089628513262
+0.9 	OSEE_center	2.74045008813899
+0.9 	max_bond_dim	76
+0.9 	duration_ms	607759
+
+0.95 	tr_rho	1
+0.95 	S_2	8.74075491312691
+0.95 	OSEE_center	2.73692694586666
+0.95 	max_bond_dim	67
+0.95 	duration_ms	682314
+
+1 	tr_rho	1
+1 	S_2	8.75072473108426
+1 	OSEE_center	2.73491338972501
+1 	max_bond_dim	63
+1 	duration_ms	736981
+
+1.05 	tr_rho	1.00000003053903
+1.05 	S_2	8.7606804779242
+1.05 	OSEE_center	2.73241481953992
+1.05 	max_bond_dim	96
+1.05 	duration_ms	788033
+
+1.1 	tr_rho	1.00000001678175
+1.1 	S_2	8.77062178020584
+1.1 	OSEE_center	2.72943146637135
+1.1 	max_bond_dim	100
+1.1 	duration_ms	845780
+
+1.15 	tr_rho	0.999999999999999
+1.15 	S_2	8.78076772981673
+1.15 	OSEE_center	2.72532543700205
+1.15 	max_bond_dim	81
+1.15 	duration_ms	1085847
+
+1.2 	tr_rho	1.00000008518115
+1.2 	S_2	8.79090311517716
+1.2 	OSEE_center	2.72073822589542
+1.2 	max_bond_dim	100
+1.2 	duration_ms	1189272
+
+1.25 	tr_rho	1
+1.25 	S_2	8.80102787343193
+1.25 	OSEE_center	2.71567078910696
+1.25 	max_bond_dim	74
+1.25 	duration_ms	1303830
+
+1.3 	tr_rho	1
+1.3 	S_2	8.81114138605077
+1.3 	OSEE_center	2.71012419051381
+1.3 	max_bond_dim	74
+1.3 	duration_ms	1397169
+
+1.35 	tr_rho	1.00000008079942
+1.35 	S_2	8.82124353690367
+1.35 	OSEE_center	2.70409960492091
+1.35 	max_bond_dim	89
+1.35 	duration_ms	1489082
+
+1.4 	tr_rho	1
+1.4 	S_2	8.83133419067185
+1.4 	OSEE_center	2.69759832172309
+1.4 	max_bond_dim	73
+1.4 	duration_ms	1590444
+
+1.45 	tr_rho	1
+1.45 	S_2	8.84141272217771
+1.45 	OSEE_center	2.69062174906832
+1.45 	max_bond_dim	74
+1.45 	duration_ms	1667594
+
+1.5 	tr_rho	1.00000012321024
+1.5 	S_2	8.85147898237684
+1.5 	OSEE_center	2.68317141844455
+1.5 	max_bond_dim	82
+1.5 	duration_ms	1749837
+
+1.55 	tr_rho	0.999999999999999
+1.55 	S_2	8.86153290920642
+1.55 	OSEE_center	2.67524898962936
+1.55 	max_bond_dim	70
+1.55 	duration_ms	1845262
+
+1.6 	tr_rho	1
+1.6 	S_2	8.87157370150347
+1.6 	OSEE_center	2.6668562558926
+1.6 	max_bond_dim	71
+1.6 	duration_ms	1921039
+
+1.65 	tr_rho	1.00000023410368
+1.65 	S_2	8.8816012998981
+1.65 	OSEE_center	2.65799514934841
+1.65 	max_bond_dim	84
+1.65 	duration_ms	1986778
+
+1.7 	tr_rho	1
+1.7 	S_2	8.89161587297854
+1.7 	OSEE_center	2.64866774638116
+1.7 	max_bond_dim	67
+1.7 	duration_ms	2089452
+
+1.75 	tr_rho	1
+1.75 	S_2	8.9016161950762
+1.75 	OSEE_center	2.63887627304428
+1.75 	max_bond_dim	68
+1.75 	duration_ms	2165517
+
+1.8 	tr_rho	1.00000044929316
+1.8 	S_2	8.91160245678757
+1.8 	OSEE_center	2.62862311025019
+1.8 	max_bond_dim	76
+1.8 	duration_ms	2239920
+
+1.85 	tr_rho	0.999999999999999
+1.85 	S_2	8.92157529316324
+1.85 	OSEE_center	2.61791079873628
+1.85 	max_bond_dim	66
+1.85 	duration_ms	2343908
+
+1.9 	tr_rho	1
+1.9 	S_2	8.93153266225406
+1.9 	OSEE_center	2.60674204372606
+1.9 	max_bond_dim	67
+1.9 	duration_ms	2418925
+
+1.95 	tr_rho	1.00000049615705
+1.95 	S_2	8.94147523735844
+1.95 	OSEE_center	2.59511971899846
+1.95 	max_bond_dim	75
+1.95 	duration_ms	2498467
+
+2 	tr_rho	0.999999999999999
+2 	S_2	8.95140380803256
+2 	OSEE_center	2.58304687050735
+2 	max_bond_dim	65
+2 	duration_ms	2586470
+
+2.05 	tr_rho	1
+2.05 	S_2	8.96131621095348
+2.05 	OSEE_center	2.57052671936149
+2.05 	max_bond_dim	67
+2.05 	duration_ms	2659034
+
+2.1 	tr_rho	1.00000046338978
+2.1 	S_2	8.97121328583802
+2.1 	OSEE_center	2.55756266403959
+2.1 	max_bond_dim	78
+2.1 	duration_ms	2735420
+
+2.15 	tr_rho	1
+2.15 	S_2	8.98109583403862
+2.15 	OSEE_center	2.54415828190095
+2.15 	max_bond_dim	63
+2.15 	duration_ms	2820510
+
+2.2 	tr_rho	0.999999999999999
+2.2 	S_2	8.99096190368644
+2.2 	OSEE_center	2.53031732988141
+2.2 	max_bond_dim	64
+2.2 	duration_ms	2886476
+
+2.25 	tr_rho	1.00000033435908
+2.25 	S_2	9.00081235222605
+2.25 	OSEE_center	2.51604374429922
+2.25 	max_bond_dim	79
+2.25 	duration_ms	2958288
+
+2.3 	tr_rho	1
+2.3 	S_2	9.01064780684618
+2.3 	OSEE_center	2.50134163985123
+2.3 	max_bond_dim	66
+2.3 	duration_ms	3054733
+
+2.35 	tr_rho	1
+2.35 	S_2	9.02046691556125
+2.35 	OSEE_center	2.48621530777732
+2.35 	max_bond_dim	67
+2.35 	duration_ms	3134058
+
+2.4 	tr_rho	1.00000028929402
+2.4 	S_2	9.03027035925538
+2.4 	OSEE_center	2.4706692130975
+2.4 	max_bond_dim	76
+2.4 	duration_ms	3205313
+
+2.45 	tr_rho	1
+2.45 	S_2	9.04005875382867
+2.45 	OSEE_center	2.45470799111429
+2.45 	max_bond_dim	67
+2.45 	duration_ms	3298771
+
+2.5 	tr_rho	1
+2.5 	S_2	9.04983100128232
+2.5 	OSEE_center	2.43833644316289
+2.5 	max_bond_dim	69
+2.5 	duration_ms	3380538
+
+2.55 	tr_rho	1.00000047636422
+2.55 	S_2	9.05958775847061
+2.55 	OSEE_center	2.42155953160038
+2.55 	max_bond_dim	62
+2.55 	duration_ms	3460900
+
+2.6 	tr_rho	1
+2.6 	S_2	9.06921699127919
+2.6 	OSEE_center	2.43796528457397
+2.6 	max_bond_dim	65
+2.6 	duration_ms	3534688
+
+2.65 	tr_rho	1
+2.65 	S_2	9.0788416595742
+2.65 	OSEE_center	2.45397580152779
+2.65 	max_bond_dim	66
+2.65 	duration_ms	3602355
+
+2.7 	tr_rho	0.999999984778522
+2.7 	S_2	9.08846287842441
+2.7 	OSEE_center	2.46958694440505
+2.7 	max_bond_dim	77
+2.7 	duration_ms	3677370
+
+2.75 	tr_rho	0.999999999999999
+2.75 	S_2	9.0980807587396
+2.75 	OSEE_center	2.48479467269132
+2.75 	max_bond_dim	64
+2.75 	duration_ms	3772002
+
+2.8 	tr_rho	1
+2.8 	S_2	9.10769548376134
+2.8 	OSEE_center	2.49959503868678
+2.8 	max_bond_dim	64
+2.8 	duration_ms	3847893
+
+2.85 	tr_rho	0.999999717487664
+2.85 	S_2	9.11730712220585
+2.85 	OSEE_center	2.51398418347465
+2.85 	max_bond_dim	80
+2.85 	duration_ms	3917292
+
+2.9 	tr_rho	1
+2.9 	S_2	9.1269151837984
+2.9 	OSEE_center	2.52795833363237
+2.9 	max_bond_dim	64
+2.9 	duration_ms	4015137
+
+2.95 	tr_rho	1
+2.95 	S_2	9.1365208470551
+2.95 	OSEE_center	2.54151379855118
+2.95 	max_bond_dim	66
+2.95 	duration_ms	4094059
+
+3 	tr_rho	0.999999754163411
+3 	S_2	9.14612356961227
+3 	OSEE_center	2.55464696867077
+3 	max_bond_dim	81
+3 	duration_ms	4168286
+
+3.05 	tr_rho	0.999999999999999
+3.05 	S_2	9.1557228558573
+3.05 	OSEE_center	2.56735431441283
+3.05 	max_bond_dim	66
+3.05 	duration_ms	4273937
+
+3.1 	tr_rho	1
+3.1 	S_2	9.16531965853956
+3.1 	OSEE_center	2.57963238568007
+3.1 	max_bond_dim	67
+3.1 	duration_ms	4356943
+
+3.15 	tr_rho	0.999999464349176
+3.15 	S_2	9.1749134299129
+3.15 	OSEE_center	2.59147781230861
+3.15 	max_bond_dim	84
+3.15 	duration_ms	4443369
+
+3.2 	tr_rho	1
+3.2 	S_2	9.18450301735585
+3.2 	OSEE_center	2.6028873051053
+3.2 	max_bond_dim	68
+3.2 	duration_ms	4544751
+
+3.25 	tr_rho	1
+3.25 	S_2	9.19409045853505
+3.25 	OSEE_center	2.61385765729645
+3.25 	max_bond_dim	70
+3.25 	duration_ms	4628298
+
+3.3 	tr_rho	0.999999502512388
+3.3 	S_2	9.2036745551852
+3.3 	OSEE_center	2.62438574687999
+3.3 	max_bond_dim	82
+3.3 	duration_ms	4715035
+
+3.35 	tr_rho	1
+3.35 	S_2	9.21325416516204
+3.35 	OSEE_center	2.6344685393192
+3.35 	max_bond_dim	70
+3.35 	duration_ms	4825283
+
+3.4 	tr_rho	1
+3.4 	S_2	9.2228311126718
+3.4 	OSEE_center	2.64410309053942
+3.4 	max_bond_dim	70
+3.4 	duration_ms	4913590
+
+3.45 	tr_rho	0.999999746712939
+3.45 	S_2	9.23240422080499
+3.45 	OSEE_center	2.65328655051632
+3.45 	max_bond_dim	94
+3.45 	duration_ms	4998903
+
+3.5 	tr_rho	1
+3.5 	S_2	9.24197278753109
+3.5 	OSEE_center	2.66201616699525
+3.5 	max_bond_dim	70
+3.5 	duration_ms	5102053
+
+3.55 	tr_rho	1
+3.55 	S_2	9.25153761839518
+3.55 	OSEE_center	2.67028928943797
+3.55 	max_bond_dim	71
+3.55 	duration_ms	5195214
+
+3.6 	tr_rho	1.00000010793699
+3.6 	S_2	9.26109799001812
+3.6 	OSEE_center	2.67810337306098
+3.6 	max_bond_dim	81
+3.6 	duration_ms	5275015
+
+3.65 	tr_rho	1
+3.65 	S_2	9.27065389448252
+3.65 	OSEE_center	2.68545598289625
+3.65 	max_bond_dim	70
+3.65 	duration_ms	5380687
+
+3.7 	tr_rho	1
+3.7 	S_2	9.28020467133498
+3.7 	OSEE_center	2.69234479787888
+3.7 	max_bond_dim	72
+3.7 	duration_ms	5475229
+
+3.75 	tr_rho	0.99999997545582
+3.75 	S_2	9.28975030472795
+3.75 	OSEE_center	2.69876761464812
+3.75 	max_bond_dim	85
+3.75 	duration_ms	5561107
+
+3.8 	tr_rho	0.999999999999999
+3.8 	S_2	9.29929051273537
+3.8 	OSEE_center	2.70472235125908
+3.8 	max_bond_dim	74
+3.8 	duration_ms	5658373
+
+3.85 	tr_rho	1
+3.85 	S_2	9.30882516165125
+3.85 	OSEE_center	2.7102070505646
+3.85 	max_bond_dim	74
+3.85 	duration_ms	5741221
+
+3.9 	tr_rho	1.00000008383431
+3.9 	S_2	9.3183539723814
+3.9 	OSEE_center	2.71521988327889
+3.9 	max_bond_dim	84
+3.9 	duration_ms	5826554
+
+3.95 	tr_rho	0.999999999999999
+3.95 	S_2	9.32787688645732
+3.95 	OSEE_center	2.71975915065588
+3.95 	max_bond_dim	75
+3.95 	duration_ms	5940473
+
+4 	tr_rho	1
+4 	S_2	9.33733361577795
+4 	OSEE_center	2.71486706433926
+4 	max_bond_dim	74
+4 	duration_ms	6029888
+
+4.05 	tr_rho	1.00000004387932
+4.05 	S_2	9.3467783633714
+4.05 	OSEE_center	2.70949568722011
+4.05 	max_bond_dim	90
+4.05 	duration_ms	6115335
+
+4.1 	tr_rho	1
+4.1 	S_2	9.35621093699779
+4.1 	OSEE_center	2.70364621159306
+4.1 	max_bond_dim	74
+4.1 	duration_ms	6212610
+
+4.15 	tr_rho	1
+4.15 	S_2	9.36563087487559
+4.15 	OSEE_center	2.69731994750387
+4.15 	max_bond_dim	73
+4.15 	duration_ms	6297565
+
+4.2 	tr_rho	1.00000014884763
+4.2 	S_2	9.37503797478898
+4.2 	OSEE_center	2.69051832617673
+4.2 	max_bond_dim	86
+4.2 	duration_ms	6385434
+
+4.25 	tr_rho	1
+4.25 	S_2	9.38443224205796
+4.25 	OSEE_center	2.68324290380983
+4.25 	max_bond_dim	75
+4.25 	duration_ms	6498916
+
+4.3 	tr_rho	1
+4.3 	S_2	9.3938127891673
+4.3 	OSEE_center	2.67549536581128
+4.3 	max_bond_dim	75
+4.3 	duration_ms	6585063
+
+4.35 	tr_rho	0.999999790278858
+4.35 	S_2	9.40317962333094
+4.35 	OSEE_center	2.66727753113681
+4.35 	max_bond_dim	85
+4.35 	duration_ms	6669352
+
+4.4 	tr_rho	1
+4.4 	S_2	9.41253203944142
+4.4 	OSEE_center	2.65859135694004
+4.4 	max_bond_dim	75
+4.4 	duration_ms	6781135
+
+4.45 	tr_rho	1
+4.45 	S_2	9.42187059772087
+4.45 	OSEE_center	2.64943894319319
+4.45 	max_bond_dim	74
+4.45 	duration_ms	6877757
+
+4.5 	tr_rho	0.999999825335142
+4.5 	S_2	9.43119460945623
+4.5 	OSEE_center	2.63982253743348
+4.5 	max_bond_dim	87
+4.5 	duration_ms	6961009
+
+4.55 	tr_rho	1
+4.55 	S_2	9.44050346786352
+4.55 	OSEE_center	2.62974453938709
+4.55 	max_bond_dim	74
+4.55 	duration_ms	7074890
+
+4.6 	tr_rho	1
+4.6 	S_2	9.44979762876922
+4.6 	OSEE_center	2.61920750527269
+4.6 	max_bond_dim	73
+4.6 	duration_ms	7170377
+
+4.65 	tr_rho	1.00000006704105
+4.65 	S_2	9.45907651671422
+4.65 	OSEE_center	2.60821415201776
+4.65 	max_bond_dim	86
+4.65 	duration_ms	7259690
+
+4.7 	tr_rho	1
+4.7 	S_2	9.46834005869891
+4.7 	OSEE_center	2.5967673610451
+4.7 	max_bond_dim	71
+4.7 	duration_ms	7379023
+
+4.75 	tr_rho	1
+4.75 	S_2	9.47758780060865
+4.75 	OSEE_center	2.58487018146016
+4.75 	max_bond_dim	71
+4.75 	duration_ms	7469109
+
+4.8 	tr_rho	1.00000041522645
+4.8 	S_2	9.48681971333638
+4.8 	OSEE_center	2.57252583292712
+4.8 	max_bond_dim	83
+4.8 	duration_ms	7557984
+
+4.85 	tr_rho	1
+4.85 	S_2	9.49603648854828
+4.85 	OSEE_center	2.55973770781678
+4.85 	max_bond_dim	69
+4.85 	duration_ms	7672962
+
+4.9 	tr_rho	1
+4.9 	S_2	9.50523635209267
+4.9 	OSEE_center	2.54650937274688
+4.9 	max_bond_dim	68
+4.9 	duration_ms	7755983
+
+4.95 	tr_rho	1.00000011254175
+4.95 	S_2	9.51442004726489
+4.95 	OSEE_center	2.53284456937031
+4.95 	max_bond_dim	80
+4.95 	duration_ms	7845649
+
+5 	tr_rho	1
+5 	S_2	9.52358773846919
+5 	OSEE_center	2.518747214464
+5 	max_bond_dim	69
+5 	duration_ms	7956778
+
+5.05 	tr_rho	1
+5.05 	S_2	9.53273894160064
+5.05 	OSEE_center	2.50422139925563
+5.05 	max_bond_dim	70
+5.05 	duration_ms	8051094
+
+5.1 	tr_rho	1.00000008857388
+5.1 	S_2	9.54187387402488
+5.1 	OSEE_center	2.4892713879576
+5.1 	max_bond_dim	81
+5.1 	duration_ms	8131789
+
+5.15 	tr_rho	1
+5.15 	S_2	9.55099273007406
+5.15 	OSEE_center	2.47390161557279
+5.15 	max_bond_dim	69
+5.15 	duration_ms	8236619
+
+5.2 	tr_rho	1
+5.2 	S_2	9.56009519630545
+5.2 	OSEE_center	2.45811668493667
+5.2 	max_bond_dim	69
+5.2 	duration_ms	8328460
+
+5.25 	tr_rho	1.00000006915231
+5.25 	S_2	9.56918151268172
+5.25 	OSEE_center	2.44192136307107
+5.25 	max_bond_dim	82
+5.25 	duration_ms	8421603
+
+5.3 	tr_rho	1
+5.3 	S_2	9.57825189915711
+5.3 	OSEE_center	2.42532057688191
+5.3 	max_bond_dim	69
+5.3 	duration_ms	8545349
+
+5.35 	tr_rho	1
+5.35 	S_2	9.58730617776982
+5.35 	OSEE_center	2.40831940827266
+5.35 	max_bond_dim	69
+5.35 	duration_ms	8642719
+
+5.4 	tr_rho	1.00000027505306
+5.4 	S_2	9.59634459826646
+5.4 	OSEE_center	2.39092308873091
+5.4 	max_bond_dim	61
+5.4 	duration_ms	8740291
+
+5.45 	tr_rho	1
+5.45 	S_2	9.60555928642084
+5.45 	OSEE_center	2.40769937515857
+5.45 	max_bond_dim	66
+5.45 	duration_ms	8819820
+
+5.5 	tr_rho	1
+5.5 	S_2	9.61476976295264
+5.5 	OSEE_center	2.42408855318799
+5.5 	max_bond_dim	66
+5.5 	duration_ms	8890445
+
+5.55 	tr_rho	0.999999899652886
+5.55 	S_2	9.62397677362095
+5.55 	OSEE_center	2.44008637406029
+5.55 	max_bond_dim	81
+5.55 	duration_ms	8962369
+
+5.6 	tr_rho	1
+5.6 	S_2	9.63318030119383
+5.6 	OSEE_center	2.45568869363484
+5.6 	max_bond_dim	67
+5.6 	duration_ms	9056844
+
+5.65 	tr_rho	1
+5.65 	S_2	9.6423809158569
+5.65 	OSEE_center	2.47089146722601
+5.65 	max_bond_dim	67
+5.65 	duration_ms	9131640
+
+5.7 	tr_rho	0.999999938804872
+5.7 	S_2	9.651578567867
+5.7 	OSEE_center	2.48569074501376
+5.7 	max_bond_dim	79
+5.7 	duration_ms	9207631
+
+5.75 	tr_rho	1
+5.75 	S_2	9.66077326519398
+5.75 	OSEE_center	2.50008266805161
+5.75 	max_bond_dim	68
+5.75 	duration_ms	9306735
+
+5.8 	tr_rho	0.999999999999999
+5.8 	S_2	9.66996536066227
+5.8 	OSEE_center	2.51406346490215
+5.8 	max_bond_dim	67
+5.8 	duration_ms	9396294
+
+5.85 	tr_rho	1.00000009001743
+5.85 	S_2	9.67915481652402
+5.85 	OSEE_center	2.52762944895655
+5.85 	max_bond_dim	83
+5.85 	duration_ms	9477823
+
+5.9 	tr_rho	1
+5.9 	S_2	9.68834187215295
+5.9 	OSEE_center	2.54077701641359
+5.9 	max_bond_dim	72
+5.9 	duration_ms	9596582
+
+5.95 	tr_rho	1
+5.95 	S_2	9.69752620165703
+5.95 	OSEE_center	2.5535026449514
+5.95 	max_bond_dim	70
+5.95 	duration_ms	9692853
+
+6 	tr_rho	0.999999979754201
+6 	S_2	9.70670799385858
+6 	OSEE_center	2.56580289304006
+6 	max_bond_dim	85
+6 	duration_ms	9780825
+
+6.05 	tr_rho	1
+6.05 	S_2	9.71588719127944
+6.05 	OSEE_center	2.57767439996187
+6.05 	max_bond_dim	75
+6.05 	duration_ms	9898950
+
+6.1 	tr_rho	1
+6.1 	S_2	9.72506383308444
+6.1 	OSEE_center	2.58911388630754
+6.1 	max_bond_dim	75
+6.1 	duration_ms	10000228
+
+6.15 	tr_rho	0.999999355415612
+6.15 	S_2	9.73423781293722
+6.15 	OSEE_center	2.60011815522268
+6.15 	max_bond_dim	89
+6.15 	duration_ms	10095559
+
+6.2 	tr_rho	1
+6.2 	S_2	9.74340775250406
+6.2 	OSEE_center	2.61068409413549
+6.2 	max_bond_dim	72
+6.2 	duration_ms	10198880
+
+6.25 	tr_rho	1
+6.25 	S_2	9.75257611956919
+6.25 	OSEE_center	2.62080867678752
+6.25 	max_bond_dim	72
+6.25 	duration_ms	10287175
+
+6.3 	tr_rho	0.999999885606674
+6.3 	S_2	9.76174149428014
+6.3 	OSEE_center	2.63048896592969
+6.3 	max_bond_dim	88
+6.3 	duration_ms	10374814
+
+6.35 	tr_rho	1
+6.35 	S_2	9.77090349865164
+6.35 	OSEE_center	2.63972211618504
+6.35 	max_bond_dim	70
+6.35 	duration_ms	10496020
+
+6.4 	tr_rho	0.999999999999999
+6.4 	S_2	9.7800624244713
+6.4 	OSEE_center	2.64850537734545
+6.4 	max_bond_dim	70
+6.4 	duration_ms	10588914
+
+6.45 	tr_rho	1.0000000351478
+6.45 	S_2	9.78921786253373
+6.45 	OSEE_center	2.65683609765353
+6.45 	max_bond_dim	85
+6.45 	duration_ms	10676199
+
+6.5 	tr_rho	0.999999999999999
+6.5 	S_2	9.79836968984124
+6.5 	OSEE_center	2.66471172738363
+6.5 	max_bond_dim	71
+6.5 	duration_ms	10797802
+
+6.55 	tr_rho	1
+6.55 	S_2	9.80751756173763
+6.55 	OSEE_center	2.67212982240636
+6.55 	max_bond_dim	75
+6.55 	duration_ms	10887822
+
+6.6 	tr_rho	0.999999943980747
+6.6 	S_2	9.81666133544115
+6.6 	OSEE_center	2.67908804775357
+6.6 	max_bond_dim	98
+6.6 	duration_ms	10973370
+
+6.65 	tr_rho	1
+6.65 	S_2	9.82580067884361
+6.65 	OSEE_center	2.68558418109534
+6.65 	max_bond_dim	74
+6.65 	duration_ms	11097262
+
+6.7 	tr_rho	1
+6.7 	S_2	9.83493559010475
+6.7 	OSEE_center	2.6916161160529
+6.7 	max_bond_dim	73
+6.7 	duration_ms	11199412
+
+6.75 	tr_rho	0.999999898455675
+6.75 	S_2	9.84406572745746
+6.75 	OSEE_center	2.697181865304
+6.75 	max_bond_dim	89
+6.75 	duration_ms	11302018
+
+6.8 	tr_rho	1
+6.8 	S_2	9.85319065549622
+6.8 	OSEE_center	2.70227956342232
+6.8 	max_bond_dim	73
+6.8 	duration_ms	11431294
+
+6.85 	tr_rho	1
+6.85 	S_2	9.86231054637876
+6.85 	OSEE_center	2.70690746938286
+6.85 	max_bond_dim	73
+6.85 	duration_ms	11533524
+
+6.9 	tr_rho	0.999999896543728
+6.9 	S_2	9.87151423249734
+6.9 	OSEE_center	2.70200387550957
+6.9 	max_bond_dim	85
+6.9 	duration_ms	11629334
+
+6.95 	tr_rho	1
+6.95 	S_2	9.88070474598345
+6.95 	OSEE_center	2.69662258825436
+6.95 	max_bond_dim	73
+6.95 	duration_ms	11757750
+
+7 	tr_rho	1
+7 	S_2	9.88988221527936
+7 	OSEE_center	2.69076479006112
+7 	max_bond_dim	72
+7 	duration_ms	11853217
+
+7.05 	tr_rho	1.00000000436957
+7.05 	S_2	9.8990461473971
+7.05 	OSEE_center	2.68443178702972
+7.05 	max_bond_dim	83
+7.05 	duration_ms	11952210
+
+7.1 	tr_rho	1
+7.1 	S_2	9.90819626558842
+7.1 	OSEE_center	2.67762501215194
+7.1 	max_bond_dim	73
+7.1 	duration_ms	12079379
+
+7.15 	tr_rho	0.999999999999999
+7.15 	S_2	9.91733226965589
+7.15 	OSEE_center	2.67034602887281
+7.15 	max_bond_dim	74
+7.15 	duration_ms	12173383
+
+7.2 	tr_rho	1.00000006377832
+7.2 	S_2	9.9264538899653
+7.2 	OSEE_center	2.66259653490739
+7.2 	max_bond_dim	98
+7.2 	duration_ms	12268419
+
+7.25 	tr_rho	1
+7.25 	S_2	9.93556098202151
+7.25 	OSEE_center	2.65437836626583
+7.25 	max_bond_dim	75
+7.25 	duration_ms	12399905
+
+7.3 	tr_rho	1
+7.3 	S_2	9.94465302713731
+7.3 	OSEE_center	2.64569350138235
+7.3 	max_bond_dim	73
+7.3 	duration_ms	12505164
+
+7.35 	tr_rho	0.999999844751853
+7.35 	S_2	9.9537299000605
+7.35 	OSEE_center	2.63654406529175
+7.35 	max_bond_dim	87
+7.35 	duration_ms	12606452
+
+7.4 	tr_rho	1
+7.4 	S_2	9.96279105037012
+7.4 	OSEE_center	2.62693233376369
+7.4 	max_bond_dim	72
+7.4 	duration_ms	12733561
+
+7.45 	tr_rho	1
+7.45 	S_2	9.97183687391776
+7.45 	OSEE_center	2.6168607373549
+7.45 	max_bond_dim	70
+7.45 	duration_ms	12834789
+
+7.5 	tr_rho	0.999999693379015
+7.5 	S_2	9.98086685200536
+7.5 	OSEE_center	2.60633186517579
+7.5 	max_bond_dim	85
+7.5 	duration_ms	12928741
+
+7.55 	tr_rho	1
+7.55 	S_2	9.98988018207655
+7.55 	OSEE_center	2.59534846851367
+7.55 	max_bond_dim	71
+7.55 	duration_ms	13047410
+
+7.6 	tr_rho	1
+7.6 	S_2	9.99887792194504
+7.6 	OSEE_center	2.58391346377681
+7.6 	max_bond_dim	71
+7.6 	duration_ms	13150028
+
+7.65 	tr_rho	1.00000017946315
+7.65 	S_2	10.0078593120197
+7.65 	OSEE_center	2.57202993541595
+7.65 	max_bond_dim	86
+7.65 	duration_ms	13247418
+
+7.7 	tr_rho	0.999999999999999
+7.7 	S_2	10.0168245891544
+7.7 	OSEE_center	2.55970113809086
+7.7 	max_bond_dim	71
+7.7 	duration_ms	13366073
+
+7.75 	tr_rho	1
+7.75 	S_2	10.0257729373207
+7.75 	OSEE_center	2.5469304982951
+7.75 	max_bond_dim	71
+7.75 	duration_ms	13456204
+
+7.8 	tr_rho	1.00000002498258
+7.8 	S_2	10.0347046424075
+7.8 	OSEE_center	2.53372161542735
+7.8 	max_bond_dim	82
+7.8 	duration_ms	13541961
+
+7.85 	tr_rho	0.999999999999999
+7.85 	S_2	10.0436197072638
+7.85 	OSEE_center	2.52007826218173
+7.85 	max_bond_dim	70
+7.85 	duration_ms	13663338
+
+7.9 	tr_rho	1
+7.9 	S_2	10.052518010466
+7.9 	OSEE_center	2.50600438426373
+7.9 	max_bond_dim	70
+7.9 	duration_ms	13758899
+
+7.95 	tr_rho	1.00000004567072
+7.95 	S_2	10.0613996057091
+7.95 	OSEE_center	2.49150409942206
+7.95 	max_bond_dim	84
+7.95 	duration_ms	13847741
+
+8 	tr_rho	0.999999999999999
+8 	S_2	10.0702646124116
+8 	OSEE_center	2.47658169578206
+8 	max_bond_dim	71
+8 	duration_ms	13957366
+
+8.05 	tr_rho	1
+8.05 	S_2	10.0791128991846
+8.05 	OSEE_center	2.46124162951121
+8.05 	max_bond_dim	71
+8.05 	duration_ms	14055036
+
+8.1 	tr_rho	1.00000009191578
+8.1 	S_2	10.087944629933
+8.1 	OSEE_center	2.44548852180579
+8.1 	max_bond_dim	81
+8.1 	duration_ms	14151980
+
+8.15 	tr_rho	0.999999999999999
+8.15 	S_2	10.0967600801152
+8.15 	OSEE_center	2.429327155267
+8.15 	max_bond_dim	71
+8.15 	duration_ms	14276535
+
+8.2 	tr_rho	1
+8.2 	S_2	10.1055589905706
+8.2 	OSEE_center	2.41276246972097
+8.2 	max_bond_dim	69
+8.2 	duration_ms	14376162
+
+8.25 	tr_rho	1.0000000140389
+8.25 	S_2	10.1143416670918
+8.25 	OSEE_center	2.39579955749681
+8.25 	max_bond_dim	80
+8.25 	duration_ms	14466035
+
+8.3 	tr_rho	1
+8.3 	S_2	10.1231082694185
+8.3 	OSEE_center	2.37844365828093
+8.3 	max_bond_dim	69
+8.3 	duration_ms	14590515
+
+8.35 	tr_rho	1
+8.35 	S_2	10.131746379782
+8.35 	OSEE_center	2.39514329697429
+8.35 	max_bond_dim	70
+8.35 	duration_ms	14693558
+
+8.4 	tr_rho	1.00000014874821
+8.4 	S_2	10.1403810676353
+8.4 	OSEE_center	2.41145788065435
+8.4 	max_bond_dim	77
+8.4 	duration_ms	14791042
+
+8.45 	tr_rho	0.999999999999999
+8.45 	S_2	10.149012845762
+8.45 	OSEE_center	2.42738318843179
+8.45 	max_bond_dim	66
+8.45 	duration_ms	14889865
+
+8.5 	tr_rho	1
+8.5 	S_2	10.1576413257593
+8.5 	OSEE_center	2.4429151089285
+8.5 	max_bond_dim	65
+8.5 	duration_ms	14970879
+
+8.55 	tr_rho	0.999999934023378
+8.55 	S_2	10.166266999342
+8.55 	OSEE_center	2.45804963524407
+8.55 	max_bond_dim	75
+8.55 	duration_ms	15050390
+
+8.6 	tr_rho	1
+8.6 	S_2	10.174889913609
+8.6 	OSEE_center	2.47278286040335
+8.6 	max_bond_dim	65
+8.6 	duration_ms	15146292
+
+8.65 	tr_rho	1
+8.65 	S_2	10.1835104936131
+8.65 	OSEE_center	2.4871109733108
+8.65 	max_bond_dim	66
+8.65 	duration_ms	15235662
+
+8.7 	tr_rho	0.999999929996389
+8.7 	S_2	10.1921287481158
+8.7 	OSEE_center	2.50103025527195
+8.7 	max_bond_dim	80
+8.7 	duration_ms	15317866
+
+8.75 	tr_rho	1
+8.75 	S_2	10.2007446560347
+8.75 	OSEE_center	2.514537077089
+8.75 	max_bond_dim	67
+8.75 	duration_ms	15437336
+
+8.8 	tr_rho	1
+8.8 	S_2	10.2093585931511
+8.8 	OSEE_center	2.52762789673101
+8.8 	max_bond_dim	66
+8.8 	duration_ms	15534397
+
+8.85 	tr_rho	1.00000007389953
+8.85 	S_2	10.217970491019
+8.85 	OSEE_center	2.54029925763413
+8.85 	max_bond_dim	82
+8.85 	duration_ms	15629510
+
+8.9 	tr_rho	1
+8.9 	S_2	10.2265805440986
+8.9 	OSEE_center	2.55254778757149
+8.9 	max_bond_dim	73
+8.9 	duration_ms	15755277
+
+8.95 	tr_rho	1
+8.95 	S_2	10.2351884784526
+8.95 	OSEE_center	2.56437019812167
+8.95 	max_bond_dim	73
+8.95 	duration_ms	15851466
+
+9 	tr_rho	0.999999835731148
+9 	S_2	10.2437944385174
+9 	OSEE_center	2.5757632846704
+9 	max_bond_dim	86
+9 	duration_ms	15954110
+
+9.05 	tr_rho	0.999999999999999
+9.05 	S_2	10.2523980680326
+9.05 	OSEE_center	2.58672392701158
+9.05 	max_bond_dim	77
+9.05 	duration_ms	16086851
+
+9.1 	tr_rho	1
+9.1 	S_2	10.2609999721347
+9.1 	OSEE_center	2.59724909023396
+9.1 	max_bond_dim	75
+9.1 	duration_ms	16195249
+
+9.15 	tr_rho	0.999999883953266
+9.15 	S_2	10.26959974764
+9.15 	OSEE_center	2.60733582632396
+9.15 	max_bond_dim	87
+9.15 	duration_ms	16304167
+
+9.2 	tr_rho	1
+9.2 	S_2	10.2781970659349
+9.2 	OSEE_center	2.6169812759575
+9.2 	max_bond_dim	73
+9.2 	duration_ms	16435925
+
+9.25 	tr_rho	1
+9.25 	S_2	10.2867922740547
+9.25 	OSEE_center	2.62618267076478
+9.25 	max_bond_dim	71
+9.25 	duration_ms	16526076
+
+9.3 	tr_rho	1.00000001770558
+9.3 	S_2	10.2953850037025
+9.3 	OSEE_center	2.63493733572038
+9.3 	max_bond_dim	85
+9.3 	duration_ms	16625185
+
+9.35 	tr_rho	1
+9.35 	S_2	10.3039751362487
+9.35 	OSEE_center	2.64324269185554
+9.35 	max_bond_dim	70
+9.35 	duration_ms	16750366
+
+9.4 	tr_rho	1
+9.4 	S_2	10.3125624310895
+9.4 	OSEE_center	2.6510962590993
+9.4 	max_bond_dim	70
+9.4 	duration_ms	16846137
+
+9.45 	tr_rho	0.999999973809318
+9.45 	S_2	10.3211467391128
+9.45 	OSEE_center	2.65849565919748
+9.45 	max_bond_dim	85
+9.45 	duration_ms	16942176
+
+9.5 	tr_rho	0.999999999999999
+9.5 	S_2	10.329727810649
+9.5 	OSEE_center	2.66543861867289
+9.5 	max_bond_dim	72
+9.5 	duration_ms	17070116
+
+9.55 	tr_rho	1
+9.55 	S_2	10.3383055415522
+9.55 	OSEE_center	2.67192297174278
+9.55 	max_bond_dim	71
+9.55 	duration_ms	17172716
+
+9.6 	tr_rho	0.999999929692953
+9.6 	S_2	10.346879660925
+9.6 	OSEE_center	2.67794666315494
+9.6 	max_bond_dim	85
+9.6 	duration_ms	17267168
+
+9.65 	tr_rho	1
+9.65 	S_2	10.3554498008043
+9.65 	OSEE_center	2.68350775088793
+9.65 	max_bond_dim	72
+9.65 	duration_ms	17400092
+
+9.7 	tr_rho	1
+9.7 	S_2	10.3640160074647
+9.7 	OSEE_center	2.68860440863601
+9.7 	max_bond_dim	72
+9.7 	duration_ms	17498091
+
+9.75 	tr_rho	0.999999980209926
+9.75 	S_2	10.3725142394949
+9.75 	OSEE_center	2.68285588631032
+9.75 	max_bond_dim	87
+9.75 	duration_ms	17600070
+
+9.8 	tr_rho	1
+9.8 	S_2	10.3809982162549
+9.8 	OSEE_center	2.67663420750037
+9.8 	max_bond_dim	73
+9.8 	duration_ms	17716203
+
+9.85 	tr_rho	0.999999999999999
+9.85 	S_2	10.389467729084
+9.85 	OSEE_center	2.66994083923971
+9.85 	max_bond_dim	72
+9.85 	duration_ms	17804833
+
+9.9 	tr_rho	1.00000006661984
+9.9 	S_2	10.3979224564703
+9.9 	OSEE_center	2.662777380954
+9.9 	max_bond_dim	83
+9.9 	duration_ms	17898869
+
+9.95 	tr_rho	1
+9.95 	S_2	10.4063622561244
+9.95 	OSEE_center	2.65514556764959
+9.95 	max_bond_dim	70
+9.95 	duration_ms	18011724
+
+10 	tr_rho	0.999999999999999
+10 	S_2	10.414786594999
+10 	OSEE_center	2.64704727328992
+10 	max_bond_dim	70
+10 	duration_ms	18101519
+
+10.05 	tr_rho	1.00000005300406
+10.05 	S_2	10.4231953498553
+10.05 	OSEE_center	2.63848451427208
+10.05 	max_bond_dim	81
+10.05 	duration_ms	18187527
+
+10.1 	tr_rho	1
+10.1 	S_2	10.4315883823609
+10.1 	OSEE_center	2.62945945296264
+10.1 	max_bond_dim	70
+10.1 	duration_ms	18317537
+
+10.15 	tr_rho	1
+10.15 	S_2	10.4399652503541
+10.15 	OSEE_center	2.6199744012158
+10.15 	max_bond_dim	69
+10.15 	duration_ms	18411501
+
+10.2 	tr_rho	1.00000000999254
+10.2 	S_2	10.4483258454974
+10.2 	OSEE_center	2.61003182379381
+10.2 	max_bond_dim	84
+10.2 	duration_ms	18498806
+
+10.25 	tr_rho	1
+10.25 	S_2	10.4566699909575
+10.25 	OSEE_center	2.59963434160516
+10.25 	max_bond_dim	75
+10.25 	duration_ms	18623368
+
+10.3 	tr_rho	1
+10.3 	S_2	10.4649974695176
+10.3 	OSEE_center	2.58878473481578
+10.3 	max_bond_dim	73
+10.3 	duration_ms	18715688
+
+10.35 	tr_rho	0.9999999669404
+10.35 	S_2	10.473308144348
+10.35 	OSEE_center	2.57748594550172
+10.35 	max_bond_dim	88
+10.35 	duration_ms	18813549
+
+10.4 	tr_rho	1
+10.4 	S_2	10.4816018146499
+10.4 	OSEE_center	2.56574108010352
+10.4 	max_bond_dim	77
+10.4 	duration_ms	18945442
+
+10.45 	tr_rho	0.999999999999999
+10.45 	S_2	10.4898785023237
+10.45 	OSEE_center	2.55355341120594
+10.45 	max_bond_dim	75
+10.45 	duration_ms	19045147
+
+10.5 	tr_rho	1.00000001412168
+10.5 	S_2	10.4981380544082
+10.5 	OSEE_center	2.5409263791429
+10.5 	max_bond_dim	85
+10.5 	duration_ms	19151681
+
+10.55 	tr_rho	1
+10.55 	S_2	10.5063804368592
+10.55 	OSEE_center	2.52786359288818
+10.55 	max_bond_dim	72
+10.55 	duration_ms	19283706
+
+10.6 	tr_rho	1
+10.6 	S_2	10.5146055563587
+10.6 	OSEE_center	2.51436883041928
+10.6 	max_bond_dim	71
+10.6 	duration_ms	19382882
+
+10.65 	tr_rho	1.00000003092031
+10.65 	S_2	10.5228134294009
+10.65 	OSEE_center	2.50044603851063
+10.65 	max_bond_dim	82
+10.65 	duration_ms	19476554
+
+10.7 	tr_rho	1
+10.7 	S_2	10.5310041306811
+10.7 	OSEE_center	2.48609933191133
+10.7 	max_bond_dim	73
+10.7 	duration_ms	19599666
+
+10.75 	tr_rho	1
+10.75 	S_2	10.539177573333
+10.75 	OSEE_center	2.47133299192961
+10.75 	max_bond_dim	73
+10.75 	duration_ms	19697142
+
+10.8 	tr_rho	1.00000007189012
+10.8 	S_2	10.5473338788078
+10.8 	OSEE_center	2.45615146438694
+10.8 	max_bond_dim	81
+10.8 	duration_ms	19790150
+
+10.85 	tr_rho	1
+10.85 	S_2	10.5554732716753
+10.85 	OSEE_center	2.4405593569982
+10.85 	max_bond_dim	72
+10.85 	duration_ms	19905894
+
+10.9 	tr_rho	1
+10.9 	S_2	10.5635955642393
+10.9 	OSEE_center	2.42456143620561
+10.9 	max_bond_dim	73
+10.9 	duration_ms	20011968
+
+10.95 	tr_rho	0.999999999434889
+10.95 	S_2	10.5717010167294
+10.95 	OSEE_center	2.40816262346183
+10.95 	max_bond_dim	81
+10.95 	duration_ms	20099519
+
+11 	tr_rho	1
+11 	S_2	10.5797897583166
+11 	OSEE_center	2.39136799105873
+11 	max_bond_dim	72
+11 	duration_ms	20219152
+
+11.05 	tr_rho	1
+11.05 	S_2	10.5878619330085
+11.05 	OSEE_center	2.37418275755777
+11.05 	max_bond_dim	70
+11.05 	duration_ms	20317214
+
+11.1 	tr_rho	0.999999989718157
+11.1 	S_2	10.5959176878918
+11.1 	OSEE_center	2.35661228284661
+11.1 	max_bond_dim	82
+11.1 	duration_ms	20425518
+
+11.15 	tr_rho	0.999999999999999
+11.15 	S_2	10.6039571541904
+11.15 	OSEE_center	2.33866206294586
+11.15 	max_bond_dim	71
+11.15 	duration_ms	20557636
+
+11.2 	tr_rho	1
+11.2 	S_2	10.6121808988209
+11.2 	OSEE_center	2.35565005312995
+11.2 	max_bond_dim	69
+11.2 	duration_ms	20664157
+
+11.25 	tr_rho	1.00000000572304
+11.25 	S_2	10.620401357629
+11.25 	OSEE_center	2.37226315004382
+11.25 	max_bond_dim	77
+11.25 	duration_ms	20762336
+
+11.3 	tr_rho	0.999999999999999
+11.3 	S_2	10.6286187760308
+11.3 	OSEE_center	2.38849701278916
+11.3 	max_bond_dim	66
+11.3 	duration_ms	20871752
+
+11.35 	tr_rho	1
+11.35 	S_2	10.636833362037
+11.35 	OSEE_center	2.40434741644517
+11.35 	max_bond_dim	66
+11.35 	duration_ms	20954342
+
+11.4 	tr_rho	1.00000012383493
+11.4 	S_2	10.6450453522808
+11.4 	OSEE_center	2.41981024691508
+11.4 	max_bond_dim	81
+11.4 	duration_ms	21036293
+
+11.45 	tr_rho	1
+11.45 	S_2	10.6532552097431
+11.45 	OSEE_center	2.43488149613588
+11.45 	max_bond_dim	67
+11.45 	duration_ms	21153128
+
+11.5 	tr_rho	1
+11.5 	S_2	10.6614626409439
+11.5 	OSEE_center	2.4495572576794
+11.5 	max_bond_dim	67
+11.5 	duration_ms	21252837
+
+11.55 	tr_rho	0.999999954088756
+11.55 	S_2	10.669668079701
+11.55 	OSEE_center	2.46383372282091
+11.55 	max_bond_dim	78
+11.55 	duration_ms	21344267
+
+11.6 	tr_rho	1
+11.6 	S_2	10.67787160218
+11.6 	OSEE_center	2.47770717708165
+11.6 	max_bond_dim	71
+11.6 	duration_ms	21464511
+
+11.65 	tr_rho	1
+11.65 	S_2	10.6860735392477
+11.65 	OSEE_center	2.49117399726393
+11.65 	max_bond_dim	69
+11.65 	duration_ms	21569358
+
+11.7 	tr_rho	0.999999936244542
+11.7 	S_2	10.6942739247626
+11.7 	OSEE_center	2.50423064903646
+11.7 	max_bond_dim	81
+11.7 	duration_ms	21671367
+
+11.75 	tr_rho	0.999999999999998
+11.75 	S_2	10.7024727335326
+11.75 	OSEE_center	2.51687368504106
+11.75 	max_bond_dim	74
+11.75 	duration_ms	21797364
+
+11.8 	tr_rho	1
+11.8 	S_2	10.7106702984768
+11.8 	OSEE_center	2.52909974350939
+11.8 	max_bond_dim	73
+11.8 	duration_ms	21905792
+
+11.85 	tr_rho	1.00000013472509
+11.85 	S_2	10.7188665453161
+11.85 	OSEE_center	2.54090554743714
+11.85 	max_bond_dim	86
+11.85 	duration_ms	22012585
+
+11.9 	tr_rho	1
+11.9 	S_2	10.7270617718524
+11.9 	OSEE_center	2.55228790426223
+11.9 	max_bond_dim	80
+11.9 	duration_ms	22151110
+
+11.95 	tr_rho	1
+11.95 	S_2	10.735255441895
+11.95 	OSEE_center	2.56324370595621
+11.95 	max_bond_dim	77
+11.95 	duration_ms	22258883
+
+12 	tr_rho	0.999999750907345
+12 	S_2	10.7434478032123
+12 	OSEE_center	2.57376992966674
+12 	max_bond_dim	87
+12 	duration_ms	22369832
+
+12.05 	tr_rho	1
+12.05 	S_2	10.7516383115764
+12.05 	OSEE_center	2.58386363869844
+12.05 	max_bond_dim	76
+12.05 	duration_ms	22509550
+
+12.1 	tr_rho	0.999999999999999
+12.1 	S_2	10.7598278936331
+12.1 	OSEE_center	2.59352198388418
+12.1 	max_bond_dim	74
+12.1 	duration_ms	22613163
+
+12.15 	tr_rho	0.999999995208776
+12.15 	S_2	10.7680159588932
+12.15 	OSEE_center	2.60274220525154
+12.15 	max_bond_dim	90
+12.15 	duration_ms	22705534
+
+12.2 	tr_rho	1
+12.2 	S_2	10.7762023838319
+12.2 	OSEE_center	2.61152163398233
+12.2 	max_bond_dim	74
+12.2 	duration_ms	22839365
+
+12.25 	tr_rho	1
+12.25 	S_2	10.7843870531111
+12.25 	OSEE_center	2.61985769460512
+12.25 	max_bond_dim	73
+12.25 	duration_ms	22944293
+
+12.3 	tr_rho	0.999999992863239
+12.3 	S_2	10.7925698035194
+12.3 	OSEE_center	2.62774790732875
+12.3 	max_bond_dim	86
+12.3 	duration_ms	23045238
+
+12.35 	tr_rho	0.999999999999999
+12.35 	S_2	10.8007504494421
+12.35 	OSEE_center	2.63518989050809
+12.35 	max_bond_dim	75
+12.35 	duration_ms	23178296
+
+12.4 	tr_rho	1
+12.4 	S_2	10.8089288311796
+12.4 	OSEE_center	2.6421813631658
+12.4 	max_bond_dim	72
+12.4 	duration_ms	23284423
+
+12.45 	tr_rho	0.999999998187089
+12.45 	S_2	10.8171047310865
+12.45 	OSEE_center	2.64872014751671
+12.45 	max_bond_dim	100
+12.45 	duration_ms	23384336
+
+12.5 	tr_rho	1
+12.5 	S_2	10.8252779279273
+12.5 	OSEE_center	2.65480417146529
+12.5 	max_bond_dim	74
+12.5 	duration_ms	23518809
+
+12.55 	tr_rho	0.999999999999999
+12.55 	S_2	10.833448198529
+12.55 	OSEE_center	2.66043147099883
+12.55 	max_bond_dim	73
+12.55 	duration_ms	23611354
+
+12.6 	tr_rho	0.999999998336879
+12.6 	S_2	10.8416152971401
+12.6 	OSEE_center	2.66560019247755
+12.6 	max_bond_dim	64
+12.6 	duration_ms	23706873
+
+12.65 	tr_rho	1
+12.65 	S_2	10.8498730944806
+12.65 	OSEE_center	2.65979836304653
+12.65 	max_bond_dim	68
+12.65 	duration_ms	23786982
+
+12.7 	tr_rho	1
+12.7 	S_2	10.8581159349185
+12.7 	OSEE_center	2.65352749000436
+12.7 	max_bond_dim	73
+12.7 	duration_ms	23862047
+
+12.75 	tr_rho	0.999999982251404
+12.75 	S_2	10.8663435246065
+12.75 	OSEE_center	2.64678906295228
+12.75 	max_bond_dim	85
+12.75 	duration_ms	23941978
+
+12.8 	tr_rho	1
+12.8 	S_2	10.8745555470451
+12.8 	OSEE_center	2.63958470841129
+12.8 	max_bond_dim	71
+12.8 	duration_ms	24065161
+
+12.85 	tr_rho	1
+12.85 	S_2	10.8827518036344
+12.85 	OSEE_center	2.63191619272417
+12.85 	max_bond_dim	70
+12.85 	duration_ms	24158817
+
+12.9 	tr_rho	0.999999985845494
+12.9 	S_2	10.8909320020225
+12.9 	OSEE_center	2.62378542507347
+12.9 	max_bond_dim	86
+12.9 	duration_ms	24248819
+
+12.95 	tr_rho	1
+12.95 	S_2	10.8990958712827
+12.95 	OSEE_center	2.61519446054541
+12.95 	max_bond_dim	71
+12.95 	duration_ms	24376796
+
+13 	tr_rho	1
+13 	S_2	10.9072432416143
+13 	OSEE_center	2.60614550321363
+13 	max_bond_dim	71
+13 	duration_ms	24475473
+
+13.05 	tr_rho	1.00000000577384
+13.05 	S_2	10.9153738757781
+13.05 	OSEE_center	2.59664090914096
+13.05 	max_bond_dim	81
+13.05 	duration_ms	24573932
+
+13.1 	tr_rho	0.999999999999999
+13.1 	S_2	10.9234875952593
+13.1 	OSEE_center	2.58668318926486
+13.1 	max_bond_dim	74
+13.1 	duration_ms	24717398
+
+13.15 	tr_rho	1
+13.15 	S_2	10.9315842075588
+13.15 	OSEE_center	2.5762750121079
+13.15 	max_bond_dim	73
+13.15 	duration_ms	24827383
+
+13.2 	tr_rho	0.999999837489216
+13.2 	S_2	10.9396635764784
+13.2 	OSEE_center	2.56541920623245
+13.2 	max_bond_dim	88
+13.2 	duration_ms	24933733
+
+13.25 	tr_rho	0.999999999999998
+13.25 	S_2	10.9477252519253
+13.25 	OSEE_center	2.55411876240096
+13.25 	max_bond_dim	76
+13.25 	duration_ms	25067516
+
+13.3 	tr_rho	1
+13.3 	S_2	10.9557697829754
+13.3 	OSEE_center	2.54237683541474
+13.3 	max_bond_dim	74
+13.3 	duration_ms	25180809
+
+13.35 	tr_rho	1.00000000303223
+13.35 	S_2	10.9637967686018
+13.35 	OSEE_center	2.53019674547929
+13.35 	max_bond_dim	84
+13.35 	duration_ms	25292266
+
+13.4 	tr_rho	0.999999999999999
+13.4 	S_2	10.9718061633273
+13.4 	OSEE_center	2.51758197918104
+13.4 	max_bond_dim	77
+13.4 	duration_ms	25424218
+
+13.45 	tr_rho	0.999999999999999
+13.45 	S_2	10.9797979289369
+13.45 	OSEE_center	2.50453618987489
+13.45 	max_bond_dim	75
+13.45 	duration_ms	25517954
+
+13.5 	tr_rho	1.00000003913693
+13.5 	S_2	10.9877720706326
+13.5 	OSEE_center	2.49106319769227
+13.5 	max_bond_dim	86
+13.5 	duration_ms	25626325
+
+13.55 	tr_rho	1
+13.55 	S_2	10.9957286906208
+13.55 	OSEE_center	2.47716698894362
+13.55 	max_bond_dim	73
+13.55 	duration_ms	25752770
+
+13.6 	tr_rho	1
+13.6 	S_2	11.0036676802283
+13.6 	OSEE_center	2.46285171499051
+13.6 	max_bond_dim	74
+13.6 	duration_ms	25845724
+
+13.65 	tr_rho	1.00000007767654
+13.65 	S_2	11.0115891885212
+13.65 	OSEE_center	2.44812169058839
+13.65 	max_bond_dim	80
+13.65 	duration_ms	25950870
+
+13.7 	tr_rho	1
+13.7 	S_2	11.0194934627658
+13.7 	OSEE_center	2.43298139169165
+13.7 	max_bond_dim	74
+13.7 	duration_ms	26086537
+
+13.75 	tr_rho	1
+13.75 	S_2	11.0273803038164
+13.75 	OSEE_center	2.41743545276685
+13.75 	max_bond_dim	73
+13.75 	duration_ms	26189057
+
+13.8 	tr_rho	1.00000001003927
+13.8 	S_2	11.035249996007
+13.8 	OSEE_center	2.40148866359525
+13.8 	max_bond_dim	80
+13.8 	duration_ms	26282790
+
+13.85 	tr_rho	1
+13.85 	S_2	11.043102702445
+13.85 	OSEE_center	2.38514596564693
+13.85 	max_bond_dim	70
+13.85 	duration_ms	26408379
+
+13.9 	tr_rho	1
+13.9 	S_2	11.0509385377229
+13.9 	OSEE_center	2.36841244808604
+13.9 	max_bond_dim	71
+13.9 	duration_ms	26514153
+
+13.95 	tr_rho	0.999999974229233
+13.95 	S_2	11.0587576851393
+13.95 	OSEE_center	2.35129334339444
+13.95 	max_bond_dim	80
+13.95 	duration_ms	26613229
+
+14 	tr_rho	1
+14 	S_2	11.0665602607592
+14 	OSEE_center	2.33379402274423
+14 	max_bond_dim	69
+14 	duration_ms	26740997
+
+14.05 	tr_rho	0.999999999999999
+14.05 	S_2	11.0742345188321
+14.05 	OSEE_center	2.35025685201615
+14.05 	max_bond_dim	70
+14.05 	duration_ms	26843609
+
+14.1 	tr_rho	1.00000000924204
+14.1 	S_2	11.08190613986
+14.1 	OSEE_center	2.36634434764756
+14.1 	max_bond_dim	79
+14.1 	duration_ms	26942154
+
+14.15 	tr_rho	1
+14.15 	S_2	11.0895753879904
+14.15 	OSEE_center	2.38205231639572
+14.15 	max_bond_dim	69
+14.15 	duration_ms	27049884
+
+14.2 	tr_rho	1
+14.2 	S_2	11.0972424676928
+14.2 	OSEE_center	2.39737667988128
+14.2 	max_bond_dim	70
+14.2 	duration_ms	27133986
+
+14.25 	tr_rho	1.00000012752607
+14.25 	S_2	11.1049076318064
+14.25 	OSEE_center	2.41231346994944
+14.25 	max_bond_dim	78
+14.25 	duration_ms	27223564
+
+14.3 	tr_rho	1
+14.3 	S_2	11.1125713583311
+14.3 	OSEE_center	2.42685882437465
+14.3 	max_bond_dim	69
+14.3 	duration_ms	27341974
+
+14.35 	tr_rho	1
+14.35 	S_2	11.1202333466412
+14.35 	OSEE_center	2.4410089829101
+14.35 	max_bond_dim	69
+14.35 	duration_ms	27430301
+
+14.4 	tr_rho	0.999999959450639
+14.4 	S_2	11.1278940446057
+14.4 	OSEE_center	2.45476028378156
+14.4 	max_bond_dim	79
+14.4 	duration_ms	27516735
+
+14.45 	tr_rho	0.999999999999998
+14.45 	S_2	11.1355535452162
+14.45 	OSEE_center	2.46810916059757
+14.45 	max_bond_dim	71
+14.45 	duration_ms	27636759
+
+14.5 	tr_rho	1
+14.5 	S_2	11.1432121642262
+14.5 	OSEE_center	2.48105213967959
+14.5 	max_bond_dim	70
+14.5 	duration_ms	27746102
+
+14.55 	tr_rho	0.99999994361265
+14.55 	S_2	11.150869951649
+14.55 	OSEE_center	2.49358583790754
+14.55 	max_bond_dim	83
+14.55 	duration_ms	27851662
+
+14.6 	tr_rho	1
+14.6 	S_2	11.1585269025674
+14.6 	OSEE_center	2.50570696101233
+14.6 	max_bond_dim	72
+14.6 	duration_ms	27985560
+
+14.65 	tr_rho	0.999999999999999
+14.65 	S_2	11.1661833255907
+14.65 	OSEE_center	2.51741230228251
+14.65 	max_bond_dim	72
+14.65 	duration_ms	28077227
+
+14.7 	tr_rho	1.00000002618964
+14.7 	S_2	11.1738391662394
+14.7 	OSEE_center	2.5286987418029
+14.7 	max_bond_dim	87
+14.7 	duration_ms	28190059
+
+14.75 	tr_rho	1
+14.75 	S_2	11.1814945094277
+14.75 	OSEE_center	2.53956324613043
+14.75 	max_bond_dim	80
+14.75 	duration_ms	28325917
+
+14.8 	tr_rho	0.999999999999999
+14.8 	S_2	11.1891492575718
+14.8 	OSEE_center	2.55000286821022
+14.8 	max_bond_dim	78
+14.8 	duration_ms	28433505
+
+14.85 	tr_rho	0.999999893313928
+14.85 	S_2	11.1968034447584
+14.85 	OSEE_center	2.56001474791513
+14.85 	max_bond_dim	87
+14.85 	duration_ms	28533616
+
+14.9 	tr_rho	0.999999999999999
+14.9 	S_2	11.2044568142146
+14.9 	OSEE_center	2.56959611276764
+14.9 	max_bond_dim	74
+14.9 	duration_ms	28660773
+
+14.95 	tr_rho	1
+14.95 	S_2	11.2121097248196
+14.95 	OSEE_center	2.57874427896875
+14.95 	max_bond_dim	73
+14.95 	duration_ms	28765611
+
+15 	tr_rho	0.999999961098199
+15 	S_2	11.2197618714571
+15 	OSEE_center	2.58745665274991
+15 	max_bond_dim	89
+15 	duration_ms	28865446
+
+15.05 	tr_rho	1
+15.05 	S_2	11.22741306174
+15.05 	OSEE_center	2.59573073194135
+15.05 	max_bond_dim	73
+15.05 	duration_ms	28997194
+
+15.1 	tr_rho	1
+15.1 	S_2	11.2350633146747
+15.1 	OSEE_center	2.6035641077184
+15.1 	max_bond_dim	72
+15.1 	duration_ms	29107067
+
+15.15 	tr_rho	0.999999977393765
+15.15 	S_2	11.2427123947219
+15.15 	OSEE_center	2.61095446651068
+15.15 	max_bond_dim	87
+15.15 	duration_ms	29213768
+
+15.2 	tr_rho	1
+15.2 	S_2	11.250360078964
+15.2 	OSEE_center	2.61789959198821
+15.2 	max_bond_dim	73
+15.2 	duration_ms	29352027
+
+15.25 	tr_rho	0.999999999999999
+15.25 	S_2	11.2580062611723
+15.25 	OSEE_center	2.62439736709901
+15.25 	max_bond_dim	75
+15.25 	duration_ms	29457223
+
+15.3 	tr_rho	0.999999968624779
+15.3 	S_2	11.2656506813709
+15.3 	OSEE_center	2.63044577614485
+15.3 	max_bond_dim	87
+15.3 	duration_ms	29563642
+
+15.35 	tr_rho	0.999999999999998
+15.35 	S_2	11.2732930452754
+15.35 	OSEE_center	2.63604290682883
+15.35 	max_bond_dim	75
+15.35 	duration_ms	29696460
+
+15.4 	tr_rho	0.999999999999999
+15.4 	S_2	11.2809332312826
+15.4 	OSEE_center	2.64118695222182
+15.4 	max_bond_dim	74
+15.4 	duration_ms	29806002
+
+15.45 	tr_rho	0.999999998226105
+15.45 	S_2	11.2885709146287
+15.45 	OSEE_center	2.64587621266694
+15.45 	max_bond_dim	66
+15.45 	duration_ms	29903301
+
+15.5 	tr_rho	1
+15.5 	S_2	11.2961386005337
+15.5 	OSEE_center	2.64011649311506
+15.5 	max_bond_dim	69
+15.5 	duration_ms	29985045
+
+15.55 	tr_rho	1
+15.55 	S_2	11.3036908914767
+15.55 	OSEE_center	2.63389262604099
+15.55 	max_bond_dim	70
+15.55 	duration_ms	30057813
+
+15.6 	tr_rho	0.999999988597758
+15.6 	S_2	11.3112274810363
+15.6 	OSEE_center	2.62720615184257
+15.6 	max_bond_dim	88
+15.6 	duration_ms	30140974
+
+15.65 	tr_rho	1
+15.65 	S_2	11.3187480556299
+15.65 	OSEE_center	2.62005874909356
+15.65 	max_bond_dim	72
+15.65 	duration_ms	30261226
+
+15.7 	tr_rho	1
+15.7 	S_2	11.3262523843068
+15.7 	OSEE_center	2.61245223696115
+15.7 	max_bond_dim	71
+15.7 	duration_ms	30356222
+
+15.75 	tr_rho	1.00000000625635
+15.75 	S_2	11.3337401827004
+15.75 	OSEE_center	2.60438857770262
+15.75 	max_bond_dim	92
+15.75 	duration_ms	30446108
+
+15.8 	tr_rho	0.999999999999999
+15.8 	S_2	11.3412112184708
+15.8 	OSEE_center	2.5958698791873
+15.8 	max_bond_dim	71
+15.8 	duration_ms	30581575
+
+15.85 	tr_rho	1
+15.85 	S_2	11.3486652395701
+15.85 	OSEE_center	2.58689839741764
+15.85 	max_bond_dim	70
+15.85 	duration_ms	30685841
+
+15.9 	tr_rho	1.00000000223783
+15.9 	S_2	11.3561020507585
+15.9 	OSEE_center	2.57747653899918
+15.9 	max_bond_dim	82
+15.9 	duration_ms	30785700
+
+15.95 	tr_rho	1
+15.95 	S_2	11.3635214693053
+15.95 	OSEE_center	2.56760686349851
+15.95 	max_bond_dim	69
+15.95 	duration_ms	30924134
+
+16 	tr_rho	0.999999999999999
+16 	S_2	11.3709233206941
+16 	OSEE_center	2.55729208564346
+16 	max_bond_dim	69
+16 	duration_ms	31023324
+
+16.05 	tr_rho	1.00000001728488
+16.05 	S_2	11.3783074664315
+16.05 	OSEE_center	2.54653507729483
+16.05 	max_bond_dim	84
+16.05 	duration_ms	31124130
+
+16.1 	tr_rho	1
+16.1 	S_2	11.3856738219448
+16.1 	OSEE_center	2.53533886916968
+16.1 	max_bond_dim	75
+16.1 	duration_ms	31267708
+
+16.15 	tr_rho	1
+16.15 	S_2	11.3930222233309
+16.15 	OSEE_center	2.52370665232106
+16.15 	max_bond_dim	74
+16.15 	duration_ms	31374711
+
+16.2 	tr_rho	1.00000004970109
+16.2 	S_2	11.4003526357186
+16.2 	OSEE_center	2.51164177919851
+16.2 	max_bond_dim	90
+16.2 	duration_ms	31478589
+
+16.25 	tr_rho	1
+16.25 	S_2	11.4076651144521
+16.25 	OSEE_center	2.49914776435024
+16.25 	max_bond_dim	77
+16.25 	duration_ms	31620681
+
+16.3 	tr_rho	1
+16.3 	S_2	11.4149594419371
+16.3 	OSEE_center	2.48622828467057
+16.3 	max_bond_dim	75
+16.3 	duration_ms	31729867
+
+16.35 	tr_rho	1.00000004075007
+16.35 	S_2	11.4222357239814
+16.35 	OSEE_center	2.47288717923548
+16.35 	max_bond_dim	85
+16.35 	duration_ms	31840273
+
+16.4 	tr_rho	1
+16.4 	S_2	11.4294940734164
+16.4 	OSEE_center	2.45912844865058
+16.4 	max_bond_dim	73
+16.4 	duration_ms	31977377
+
+16.45 	tr_rho	1
+16.45 	S_2	11.4367343826595
+16.45 	OSEE_center	2.44495625398863
+16.45 	max_bond_dim	74
+16.45 	duration_ms	32087435
+
+16.5 	tr_rho	1.00000009124747
+16.5 	S_2	11.4439568118243
+16.5 	OSEE_center	2.43037491519844
+16.5 	max_bond_dim	84
+16.5 	duration_ms	32194591
+
+16.55 	tr_rho	1
+16.55 	S_2	11.4511616431837
+16.55 	OSEE_center	2.41538890908789
+16.55 	max_bond_dim	73
+16.55 	duration_ms	32323649
+
+16.6 	tr_rho	1
+16.6 	S_2	11.4583486313004
+16.6 	OSEE_center	2.40000286690161
+16.6 	max_bond_dim	75
+16.6 	duration_ms	32421797
+
+16.65 	tr_rho	1.00000002052703
+16.65 	S_2	11.4655180956025
+16.65 	OSEE_center	2.38422157140545
+16.65 	max_bond_dim	84
+16.65 	duration_ms	32527145
+
+16.7 	tr_rho	1
+16.7 	S_2	11.4726702289617
+16.7 	OSEE_center	2.36804995362265
+16.7 	max_bond_dim	71
+16.7 	duration_ms	32654415
+
+16.75 	tr_rho	1
+16.75 	S_2	11.4798051134874
+16.75 	OSEE_center	2.35149308925287
+16.75 	max_bond_dim	71
+16.75 	duration_ms	32761466
+
+16.8 	tr_rho	0.999999970011921
+16.8 	S_2	11.4869229637045
+16.8 	OSEE_center	2.33455619472299
+16.8 	max_bond_dim	85
+16.8 	duration_ms	32857271
+
+16.85 	tr_rho	0.999999999999999
+16.85 	S_2	11.4940238987442
+16.85 	OSEE_center	2.31724462303377
+16.85 	max_bond_dim	72
+16.85 	duration_ms	32983250
+
+16.9 	tr_rho	1
+16.9 	S_2	11.5011082198015
+16.9 	OSEE_center	2.2995638594373
+16.9 	max_bond_dim	71
+16.9 	duration_ms	33083287
+
+16.95 	tr_rho	0.9999999733085
+16.95 	S_2	11.5083884803817
+16.95 	OSEE_center	2.31584755785025
+16.95 	max_bond_dim	83
+16.95 	duration_ms	33184548
+
+17 	tr_rho	1
+17 	S_2	11.5156664744263
+17 	OSEE_center	2.3317636217101
+17 	max_bond_dim	74
+17 	duration_ms	33318240
+
+17.05 	tr_rho	1
+17.05 	S_2	11.5229425618647
+17.05 	OSEE_center	2.34730786514636
+17.05 	max_bond_dim	73
+17.05 	duration_ms	33413716
+
+17.1 	tr_rho	1.00000001818464
+17.1 	S_2	11.5302169406974
+17.1 	OSEE_center	2.36247621771393
+17.1 	max_bond_dim	77
+17.1 	duration_ms	33509116
+
+17.15 	tr_rho	1
+17.15 	S_2	11.5374898935262
+17.15 	OSEE_center	2.37726472007021
+17.15 	max_bond_dim	69
+17.15 	duration_ms	33630196
+
+17.2 	tr_rho	1
+17.2 	S_2	11.5447615848176
+17.2 	OSEE_center	2.39166951990703
+17.2 	max_bond_dim	70
+17.2 	duration_ms	33722164
+
+17.25 	tr_rho	1.00000002106935
+17.25 	S_2	11.552032276469
+17.25 	OSEE_center	2.40568686820512
+17.25 	max_bond_dim	77
+17.25 	duration_ms	33810254
+
+17.3 	tr_rho	0.999999999999999
+17.3 	S_2	11.5593022214797
+17.3 	OSEE_center	2.41931311582751
+17.3 	max_bond_dim	70
+17.3 	duration_ms	33928375
+
+17.35 	tr_rho	1
+17.35 	S_2	11.5665715293617
+17.35 	OSEE_center	2.43254471045766
+17.35 	max_bond_dim	71
+17.35 	duration_ms	34022479
+
+17.4 	tr_rho	0.999999979374947
+17.4 	S_2	11.5738404166389
+17.4 	OSEE_center	2.44537819395997
+17.4 	max_bond_dim	82
+17.4 	duration_ms	34126221
+
+17.45 	tr_rho	1
+17.45 	S_2	11.5811089954419
+17.45 	OSEE_center	2.45781020012285
+17.45 	max_bond_dim	74
+17.45 	duration_ms	34259438
+
+17.5 	tr_rho	1
+17.5 	S_2	11.5883774789842
+17.5 	OSEE_center	2.46983745278196
+17.5 	max_bond_dim	75
+17.5 	duration_ms	34371663
+
+17.55 	tr_rho	0.999999987029509
+17.55 	S_2	11.5956459327489
+17.55 	OSEE_center	2.48145676439723
+17.55 	max_bond_dim	86
+17.55 	duration_ms	34475219
+
+17.6 	tr_rho	1
+17.6 	S_2	11.6029144127033
+17.6 	OSEE_center	2.49266503501273
+17.6 	max_bond_dim	78
+17.6 	duration_ms	34609199
+
+17.65 	tr_rho	1
+17.65 	S_2	11.6101830269402
+17.65 	OSEE_center	2.50345925157534
+17.65 	max_bond_dim	77
+17.65 	duration_ms	34711475
+
+17.7 	tr_rho	0.999999910145221
+17.7 	S_2	11.6174517799112
+17.7 	OSEE_center	2.51383648767145
+17.7 	max_bond_dim	87
+17.7 	duration_ms	34818464
+
+17.75 	tr_rho	1
+17.75 	S_2	11.6247204959073
+17.75 	OSEE_center	2.52379390358871
+17.75 	max_bond_dim	79
+17.75 	duration_ms	34942390
+
+17.8 	tr_rho	0.999999999999998
+17.8 	S_2	11.6319895120855
+17.8 	OSEE_center	2.53332874662229
+17.8 	max_bond_dim	77
+17.8 	duration_ms	35050375
+
+17.85 	tr_rho	0.999999987428555
+17.85 	S_2	11.639258600658
+17.85 	OSEE_center	2.54243835172688
+17.85 	max_bond_dim	85
+17.85 	duration_ms	35163613
+
+17.9 	tr_rho	0.999999999999999
+17.9 	S_2	11.6465276626544
+17.9 	OSEE_center	2.55112014240163
+17.9 	max_bond_dim	77
+17.9 	duration_ms	35295888
+
+17.95 	tr_rho	1
+17.95 	S_2	11.6537966493862
+17.95 	OSEE_center	2.55937163181386
+17.95 	max_bond_dim	77
+17.95 	duration_ms	35402923
+
+18 	tr_rho	0.999999998188129
+18 	S_2	11.6610654124684
+18 	OSEE_center	2.56719042413372
+18 	max_bond_dim	98
+18 	duration_ms	35502397
+
+18.05 	tr_rho	1
+18.05 	S_2	11.6683338011538
+18.05 	OSEE_center	2.57457421602541
+18.05 	max_bond_dim	75
+18.05 	duration_ms	35644580
+
+18.1 	tr_rho	1
+18.1 	S_2	11.6756016527409
+18.1 	OSEE_center	2.5815207982207
+18.1 	max_bond_dim	75
+18.1 	duration_ms	35750830
+
+18.15 	tr_rho	0.999999966993675
+18.15 	S_2	11.6828687714169
+18.15 	OSEE_center	2.58802805719529
+18.15 	max_bond_dim	88
+18.15 	duration_ms	35853134
+
+18.2 	tr_rho	1
+18.2 	S_2	11.6901348779131
+18.2 	OSEE_center	2.59409397692612
+18.2 	max_bond_dim	76
+18.2 	duration_ms	35974721
+
+18.25 	tr_rho	1
+18.25 	S_2	11.6973998706946
+18.25 	OSEE_center	2.59971664062328
+18.25 	max_bond_dim	76
+18.25 	duration_ms	36077449
+
+18.3 	tr_rho	0.999999992428147
+18.3 	S_2	11.7046634307825
+18.3 	OSEE_center	2.60489423250413
+18.3 	max_bond_dim	96
+18.3 	duration_ms	36178688
+
+18.35 	tr_rho	1
+18.35 	S_2	11.7119252715573
+18.35 	OSEE_center	2.60962503949133
+18.35 	max_bond_dim	74
+18.35 	duration_ms	36302582
+
+18.4 	tr_rho	1
+18.4 	S_2	11.7192855604141
+18.4 	OSEE_center	2.60379364710412
+18.4 	max_bond_dim	75
+18.4 	duration_ms	36410752
+
+18.45 	tr_rho	1.00000001999251
+18.45 	S_2	11.7266299559704
+18.45 	OSEE_center	2.59750512023043
+18.45 	max_bond_dim	85
+18.45 	duration_ms	36517388
+
+18.5 	tr_rho	0.999999999999999
+18.5 	S_2	11.7339581904396
+18.5 	OSEE_center	2.59076103873644
+18.5 	max_bond_dim	75
+18.5 	duration_ms	36645553
+
+18.55 	tr_rho	1
+18.55 	S_2	11.7412698928889
+18.55 	OSEE_center	2.5835631234578
+18.55 	max_bond_dim	76
+18.55 	duration_ms	36749338
+
+18.6 	tr_rho	1.00000003661529
+18.6 	S_2	11.7485648302358
+18.6 	OSEE_center	2.57591323834832
+18.6 	max_bond_dim	86
+18.6 	duration_ms	36846879
+
+18.65 	tr_rho	1
+18.65 	S_2	11.7558428215864
+18.65 	OSEE_center	2.56781339265229
+18.65 	max_bond_dim	72
+18.65 	duration_ms	36974713
+
+18.7 	tr_rho	1
+18.7 	S_2	11.7631034864318
+18.7 	OSEE_center	2.55926574307224
+18.7 	max_bond_dim	75
+18.7 	duration_ms	37075343
+
+18.75 	tr_rho	1.00000000110781
+18.75 	S_2	11.7703466852261
+18.75 	OSEE_center	2.55027259584383
+18.75 	max_bond_dim	83
+18.75 	duration_ms	37165385
+
+18.8 	tr_rho	1
+18.8 	S_2	11.7775722298957
+18.8 	OSEE_center	2.54083640878993
+18.8 	max_bond_dim	73
+18.8 	duration_ms	37297597
+
+18.85 	tr_rho	1
+18.85 	S_2	11.7847799488545
+18.85 	OSEE_center	2.53095979321796
+18.85 	max_bond_dim	72
+18.85 	duration_ms	37405600
+
+18.9 	tr_rho	1.00000001335266
+18.9 	S_2	11.7919697014737
+18.9 	OSEE_center	2.52064551559677
+18.9 	max_bond_dim	84
+18.9 	duration_ms	37493473
+
+18.95 	tr_rho	0.999999999999999
+18.95 	S_2	11.7991413965987
+18.95 	OSEE_center	2.5098964990352
+18.95 	max_bond_dim	76
+18.95 	duration_ms	37626219
+
+19 	tr_rho	1
+19 	S_2	11.8062948884865
+19 	OSEE_center	2.49871582453178
+19 	max_bond_dim	74
+19 	duration_ms	37736989
+
+19.05 	tr_rho	0.999999921611832
+19.05 	S_2	11.8134301375125
+19.05 	OSEE_center	2.48710673192049
+19.05 	max_bond_dim	86
+19.05 	duration_ms	37840838
+
+19.1 	tr_rho	1
+19.1 	S_2	11.8205469467709
+19.1 	OSEE_center	2.47507262054044
+19.1 	max_bond_dim	78
+19.1 	duration_ms	37973897
+
+19.15 	tr_rho	1
+19.15 	S_2	11.8276456157786
+19.15 	OSEE_center	2.46261704938022
+19.15 	max_bond_dim	76
+19.15 	duration_ms	38080200
+
+19.2 	tr_rho	1.00000002902321
+19.2 	S_2	11.8347259995995
+19.2 	OSEE_center	2.4497437369933
+19.2 	max_bond_dim	87
+19.2 	duration_ms	38191020
+
+19.25 	tr_rho	1
+19.25 	S_2	11.8417881934628
+19.25 	OSEE_center	2.43645656089631
+19.25 	max_bond_dim	74
+19.25 	duration_ms	38323767
+
+19.3 	tr_rho	1
+19.3 	S_2	11.8488321429529
+19.3 	OSEE_center	2.42275955667934
+19.3 	max_bond_dim	74
+19.3 	duration_ms	38425144
+
+19.35 	tr_rho	1.00000001475859
+19.35 	S_2	11.8558579914506
+19.35 	OSEE_center	2.40865691657668
+19.35 	max_bond_dim	85
+19.35 	duration_ms	38530274
+
+19.4 	tr_rho	1
+19.4 	S_2	11.862865875765
+19.4 	OSEE_center	2.39415298771877
+19.4 	max_bond_dim	76
+19.4 	duration_ms	38653807
+
+19.45 	tr_rho	1
+19.45 	S_2	11.8698558643496
+19.45 	OSEE_center	2.37925227004134
+19.45 	max_bond_dim	77
+19.45 	duration_ms	38755033
+
+19.5 	tr_rho	1.00000001053133
+19.5 	S_2	11.8768281321053
+19.5 	OSEE_center	2.36395941371803
+19.5 	max_bond_dim	83
+19.5 	duration_ms	38856904
+
+19.55 	tr_rho	0.999999999999999
+19.55 	S_2	11.8837828614074
+19.55 	OSEE_center	2.34827921630196
+19.55 	max_bond_dim	79
+19.55 	duration_ms	38986483
+
+19.6 	tr_rho	0.999999999999999
+19.6 	S_2	11.8907201847167
+19.6 	OSEE_center	2.33221661959548
+19.6 	max_bond_dim	78
+19.6 	duration_ms	39090715
+
+19.65 	tr_rho	0.999999986088362
+19.65 	S_2	11.8976403079238
+19.65 	OSEE_center	2.31577670615304
+19.65 	max_bond_dim	85
+19.65 	duration_ms	39190082
+
+19.7 	tr_rho	1
+19.7 	S_2	11.9045433949433
+19.7 	OSEE_center	2.29896469560109
+19.7 	max_bond_dim	75
+19.7 	duration_ms	39330316
+
+19.75 	tr_rho	1
+19.75 	S_2	11.9114296967586
+19.75 	OSEE_center	2.28178594081211
+19.75 	max_bond_dim	76
+19.75 	duration_ms	39436441
+
+19.8 	tr_rho	0.999999987856067
+19.8 	S_2	11.918187351491
+19.8 	OSEE_center	2.29746155761746
+19.8 	max_bond_dim	85
+19.8 	duration_ms	39546489
+
+19.85 	tr_rho	1
+19.85 	S_2	11.9249434504739
+19.85 	OSEE_center	2.31277116364893
+19.85 	max_bond_dim	75
+19.85 	duration_ms	39678682
+
+19.9 	tr_rho	1
+19.9 	S_2	11.931698302759
+19.9 	OSEE_center	2.3277107355341
+19.9 	max_bond_dim	75
+19.9 	duration_ms	39784186
+
+19.95 	tr_rho	1.0000000463769
+19.95 	S_2	11.938452141042
+19.95 	OSEE_center	2.34227636423469
+19.95 	max_bond_dim	82
+19.95 	duration_ms	39886424
+
+20 	tr_rho	1
+20 	S_2	11.9452053085367
+20 	OSEE_center	2.35646425114872
+20 	max_bond_dim	71
+20 	duration_ms	40018905
+
+20.05 	tr_rho	1
+20.05 	S_2	11.9519578601918
+20.05 	OSEE_center	2.37027070442935
+20.05 	max_bond_dim	72
+20.05 	duration_ms	40116676
+
+20.1 	tr_rho	0.999999995150242
+20.1 	S_2	11.9587101164645
+20.1 	OSEE_center	2.38369213561073
+20.1 	max_bond_dim	80
+20.1 	duration_ms	40214461
+
+20.15 	tr_rho	1
+20.15 	S_2	11.9654622798116
+20.15 	OSEE_center	2.39672505652236
+20.15 	max_bond_dim	73
+20.15 	duration_ms	40341591
+
+20.2 	tr_rho	1
+20.2 	S_2	11.9722145639076
+20.2 	OSEE_center	2.40936607649741
+20.2 	max_bond_dim	74
+20.2 	duration_ms	40444538
+
+20.25 	tr_rho	1.00000001164627
+20.25 	S_2	11.9789671334224
+20.25 	OSEE_center	2.42161189996939
+20.25 	max_bond_dim	84
+20.25 	duration_ms	40553008
+
+20.3 	tr_rho	1
+20.3 	S_2	11.9857201642278
+20.3 	OSEE_center	2.43345932439049
+20.3 	max_bond_dim	73
+20.3 	duration_ms	40687104
+
+20.35 	tr_rho	1
+20.35 	S_2	11.9924737390018
+20.35 	OSEE_center	2.44490523847216
+20.35 	max_bond_dim	74
+20.35 	duration_ms	40790000
+
+20.4 	tr_rho	0.999999979219821
+20.4 	S_2	11.9992279857882
+20.4 	OSEE_center	2.45594662084436
+20.4 	max_bond_dim	85
+20.4 	duration_ms	40905747
+
+20.45 	tr_rho	1
+20.45 	S_2	12.0059829422626
+20.45 	OSEE_center	2.46658053903951
+20.45 	max_bond_dim	78
+20.45 	duration_ms	41045601
+
+20.5 	tr_rho	1
+20.5 	S_2	12.0127387444187
+20.5 	OSEE_center	2.47680414873271
+20.5 	max_bond_dim	76
+20.5 	duration_ms	41163507
+
+20.55 	tr_rho	0.999999985428474
+20.55 	S_2	12.019495376829
+20.55 	OSEE_center	2.48661469341208
+20.55 	max_bond_dim	86
+20.55 	duration_ms	41283059
+
+20.6 	tr_rho	1
+20.6 	S_2	12.0262528092644
+20.6 	OSEE_center	2.49600950424197
+20.6 	max_bond_dim	75
+20.6 	duration_ms	41424334
+
+20.65 	tr_rho	1
+20.65 	S_2	12.0330110717455
+20.65 	OSEE_center	2.50498600013955
+20.65 	max_bond_dim	75
+20.65 	duration_ms	41529331
+
+20.7 	tr_rho	0.999999984208144
+20.7 	S_2	12.0397700795885
+20.7 	OSEE_center	2.51354168816565
+20.7 	max_bond_dim	85
+20.7 	duration_ms	41639603
+
+20.75 	tr_rho	1
+20.75 	S_2	12.0465297188876
+20.75 	OSEE_center	2.52167416414643
+20.75 	max_bond_dim	74
+20.75 	duration_ms	41765047
+
+20.8 	tr_rho	1
+20.8 	S_2	12.0532899438342
+20.8 	OSEE_center	2.52938111349808
+20.8 	max_bond_dim	74
+20.8 	duration_ms	41880168
+
+20.85 	tr_rho	0.999999993550488
+20.85 	S_2	12.0600505877217
+20.85 	OSEE_center	2.53666031225646
+20.85 	max_bond_dim	85
+20.85 	duration_ms	41994820
+
+20.9 	tr_rho	1
+20.9 	S_2	12.0668114770442
+20.9 	OSEE_center	2.54350962820183
+20.9 	max_bond_dim	76
+20.9 	duration_ms	42132615
+
+20.95 	tr_rho	0.999999999999999
+20.95 	S_2	12.0735724520933
+20.95 	OSEE_center	2.54992702207545
+20.95 	max_bond_dim	77
+20.95 	duration_ms	42245042
+
+21 	tr_rho	0.999999995414981
+21 	S_2	12.0803332903097
+21 	OSEE_center	2.55591054897006
+21 	max_bond_dim	97
+21 	duration_ms	42352149
+
+21.05 	tr_rho	0.999999999999999
+21.05 	S_2	12.0870937494855
+21.05 	OSEE_center	2.56145835977006
+21.05 	max_bond_dim	77
+21.05 	duration_ms	42475858
+
+21.1 	tr_rho	1
+21.1 	S_2	12.0938535922844
+21.1 	OSEE_center	2.56656870260399
+21.1 	max_bond_dim	77
+21.1 	duration_ms	42574576
+
+21.15 	tr_rho	0.999999990200253
+21.15 	S_2	12.1006125318682
+21.15 	OSEE_center	2.57123992433924
+21.15 	max_bond_dim	90
+21.15 	duration_ms	42684140
+
+21.2 	tr_rho	1
+21.2 	S_2	12.1073702499829
+21.2 	OSEE_center	2.57547047206329
+21.2 	max_bond_dim	73
+21.2 	duration_ms	42821909
+
+21.25 	tr_rho	0.999999999999999
+21.25 	S_2	12.1140560905703
+21.25 	OSEE_center	2.56964022169032
+21.25 	max_bond_dim	72
+21.25 	duration_ms	42927845
+
+21.3 	tr_rho	0.999999997920595
+21.3 	S_2	12.1207258484199
+21.3 	OSEE_center	2.56336084855532
+21.3 	max_bond_dim	97
+21.3 	duration_ms	43030402
+
+21.35 	tr_rho	1
+21.35 	S_2	12.1273791939301
+21.35 	OSEE_center	2.55663399535223
+21.35 	max_bond_dim	74
+21.35 	duration_ms	43152264
+
+21.4 	tr_rho	1
+21.4 	S_2	12.1340158288768
+21.4 	OSEE_center	2.54946144534897
+21.4 	max_bond_dim	74
+21.4 	duration_ms	43249643
+
+21.45 	tr_rho	0.999999969113162
+21.45 	S_2	12.1406354628886
+21.45 	OSEE_center	2.54184512418813
+21.45 	max_bond_dim	86
+21.45 	duration_ms	43342464
+
+21.5 	tr_rho	1
+21.5 	S_2	12.1472377690909
+21.5 	OSEE_center	2.53378710167685
+21.5 	max_bond_dim	74
+21.5 	duration_ms	43471125
+
+21.55 	tr_rho	0.999999999999999
+21.55 	S_2	12.1538226281447
+21.55 	OSEE_center	2.52528959350622
+21.55 	max_bond_dim	74
+21.55 	duration_ms	43573135
+
+21.6 	tr_rho	1.00000000445512
+21.6 	S_2	12.1603897584825
+21.6 	OSEE_center	2.51635496292519
+21.6 	max_bond_dim	88
+21.6 	duration_ms	43682153
+
+21.65 	tr_rho	1
+21.65 	S_2	12.16693897337
+21.65 	OSEE_center	2.50698572229058
+21.65 	max_bond_dim	72
+21.65 	duration_ms	43797589
+
+21.7 	tr_rho	1
+21.7 	S_2	12.1734700841913
+21.7 	OSEE_center	2.49718453459003
+21.7 	max_bond_dim	72
+21.7 	duration_ms	43897302
+
+21.75 	tr_rho	1.00000000418357
+21.75 	S_2	12.1799829546357
+21.75 	OSEE_center	2.48695421471483
+21.75 	max_bond_dim	85
+21.75 	duration_ms	44001244
+
+21.8 	tr_rho	0.999999999999998
+21.8 	S_2	12.1864774741031
+21.8 	OSEE_center	2.47629773052257
+21.8 	max_bond_dim	72
+21.8 	duration_ms	44137079
+
+21.85 	tr_rho	1
+21.85 	S_2	12.1929535333969
+21.85 	OSEE_center	2.46521820370372
+21.85 	max_bond_dim	72
+21.85 	duration_ms	44240231
+
+21.9 	tr_rho	0.99999999809549
+21.9 	S_2	12.1994110752726
+21.9 	OSEE_center	2.45371891037651
+21.9 	max_bond_dim	100
+21.9 	duration_ms	44345320
+
+21.95 	tr_rho	1
+21.95 	S_2	12.2058500574255
+21.95 	OSEE_center	2.44180328144676
+21.95 	max_bond_dim	78
+21.95 	duration_ms	44489027
+
+22 	tr_rho	1
+22 	S_2	12.2122704758066
+22 	OSEE_center	2.42947490268577
+22 	max_bond_dim	77
+22 	duration_ms	44607873
+
+22.05 	tr_rho	1.00000001123613
+22.05 	S_2	12.2186723412758
+22.05 	OSEE_center	2.41673751431386
+22.05 	max_bond_dim	86
+22.05 	duration_ms	44722677
+
+22.1 	tr_rho	1
+22.1 	S_2	12.2250557168454
+22.1 	OSEE_center	2.40359501033873
+22.1 	max_bond_dim	75
+22.1 	duration_ms	44863432
+
+22.15 	tr_rho	1
+22.15 	S_2	12.231420623054
+22.15 	OSEE_center	2.39005143746236
+22.15 	max_bond_dim	75
+22.15 	duration_ms	44983609
+
+22.2 	tr_rho	1.00000001040251
+22.2 	S_2	12.2377671717198
+22.2 	OSEE_center	2.37611099371606
+22.2 	max_bond_dim	84
+22.2 	duration_ms	45090203
+
+22.25 	tr_rho	1
+22.25 	S_2	12.2440954956902
+22.25 	OSEE_center	2.36177802671666
+22.25 	max_bond_dim	76
+22.25 	duration_ms	45227911
+
+22.3 	tr_rho	0.999999999999999
+22.3 	S_2	12.250405685978
+22.3 	OSEE_center	2.34705703162796
+22.3 	max_bond_dim	77
+22.3 	duration_ms	45342324
+
+22.35 	tr_rho	1.00000000724156
+22.35 	S_2	12.2566979144701
+22.35 	OSEE_center	2.33195264878509
+22.35 	max_bond_dim	81
+22.35 	duration_ms	45458805
+
+22.4 	tr_rho	1
+22.4 	S_2	12.2629723633157
+22.4 	OSEE_center	2.31646966103627
+22.4 	max_bond_dim	77
+22.4 	duration_ms	45595602
+
+22.45 	tr_rho	1
+22.45 	S_2	12.2692291851541
+22.45 	OSEE_center	2.3006129908532
+22.45 	max_bond_dim	77
+22.45 	duration_ms	45708158
+
+22.5 	tr_rho	0.999999989205359
+22.5 	S_2	12.2754685872023
+22.5 	OSEE_center	2.28438769715219
+22.5 	max_bond_dim	84
+22.5 	duration_ms	45802150
+
+22.55 	tr_rho	1
+22.55 	S_2	12.2816907486504
+22.55 	OSEE_center	2.26779897194487
+22.55 	max_bond_dim	74
+22.55 	duration_ms	45937598
+
+22.6 	tr_rho	1
+22.6 	S_2	12.2878959182171
+22.6 	OSEE_center	2.25085213688094
+22.6 	max_bond_dim	74
+22.6 	duration_ms	46053085
+
+22.65 	tr_rho	0.99999996980744
+22.65 	S_2	12.2940842810658
+22.65 	OSEE_center	2.23355263960424
+22.65 	max_bond_dim	62
+22.65 	duration_ms	46163542
+
+22.7 	tr_rho	0.999999999999999
+22.7 	S_2	12.300480757626
+22.7 	OSEE_center	2.24895425125176
+22.7 	max_bond_dim	67
+22.7 	duration_ms	46251512
+
+22.75 	tr_rho	1
+22.75 	S_2	12.3068761192698
+22.75 	OSEE_center	2.26399953775667
+22.75 	max_bond_dim	72
+22.75 	duration_ms	46338206
+
+22.8 	tr_rho	1.00000000942136
+22.8 	S_2	12.3132705686795
+22.8 	OSEE_center	2.2786845016722
+22.8 	max_bond_dim	82
+22.8 	duration_ms	46418357
+
+22.85 	tr_rho	1
+22.85 	S_2	12.3196643865705
+22.85 	OSEE_center	2.29300525980938
+22.85 	max_bond_dim	74
+22.85 	duration_ms	46541019
+
+22.9 	tr_rho	1
+22.9 	S_2	12.3260577923165
+22.9 	OSEE_center	2.30695803960948
+22.9 	max_bond_dim	74
+22.9 	duration_ms	46632690
+
+22.95 	tr_rho	1.00000001824377
+22.95 	S_2	12.3324510538263
+22.95 	OSEE_center	2.32053917575347
+22.95 	max_bond_dim	81
+22.95 	duration_ms	46741005
+
+23 	tr_rho	1
+23 	S_2	12.3388444455982
+23 	OSEE_center	2.33374510697316
+23 	max_bond_dim	73
+23 	duration_ms	46872798
+
+23.05 	tr_rho	1
+23.05 	S_2	12.3452381188353
+23.05 	OSEE_center	2.34657237307638
+23.05 	max_bond_dim	74
+23.05 	duration_ms	46980893
+
+23.1 	tr_rho	1.00000000294825
+23.1 	S_2	12.3516323177842
+23.1 	OSEE_center	2.35901761229225
+23.1 	max_bond_dim	83
+23.1 	duration_ms	47083874
+
+23.15 	tr_rho	1
+23.15 	S_2	12.3580272374357
+23.15 	OSEE_center	2.37107755887104
+23.15 	max_bond_dim	74
+23.15 	duration_ms	47210705
+
+23.2 	tr_rho	1
+23.2 	S_2	12.3644230343263
+23.2 	OSEE_center	2.38274904094306
+23.2 	max_bond_dim	74
+23.2 	duration_ms	47312597
+
+23.25 	tr_rho	1.00000000188896
+23.25 	S_2	12.3708198603253
+23.25 	OSEE_center	2.39402897874139
+23.25 	max_bond_dim	84
+23.25 	duration_ms	47414220
+
+23.3 	tr_rho	1
+23.3 	S_2	12.3772178410835
+23.3 	OSEE_center	2.40491438310631
+23.3 	max_bond_dim	79
+23.3 	duration_ms	47552401
+
+23.35 	tr_rho	1
+23.35 	S_2	12.3836170656671
+23.35 	OSEE_center	2.41540235425257
+23.35 	max_bond_dim	79
+23.35 	duration_ms	47664561
+
+23.4 	tr_rho	0.999999983169319
+23.4 	S_2	12.3900176082235
+23.4 	OSEE_center	2.42549008088026
+23.4 	max_bond_dim	88
+23.4 	duration_ms	47771495
+
+23.45 	tr_rho	0.999999999999999
+23.45 	S_2	12.3964194783364
+23.45 	OSEE_center	2.43517483954144
+23.45 	max_bond_dim	80
+23.45 	duration_ms	47904881
+
+23.5 	tr_rho	1
+23.5 	S_2	12.4028227588012
+23.5 	OSEE_center	2.44445399424559
+23.5 	max_bond_dim	78
+23.5 	duration_ms	48017646
+
+23.55 	tr_rho	0.999999995374594
+23.55 	S_2	12.4092274034728
+23.55 	OSEE_center	2.45332499623115
+23.55 	max_bond_dim	86
+23.55 	duration_ms	48129071
+
+23.6 	tr_rho	0.999999999999998
+23.6 	S_2	12.4156333622733
+23.6 	OSEE_center	2.46178538399429
+23.6 	max_bond_dim	75
+23.6 	duration_ms	48254301
+
+23.65 	tr_rho	1
+23.65 	S_2	12.4220405844683
+23.65 	OSEE_center	2.46983278354684
+23.65 	max_bond_dim	75
+23.65 	duration_ms	48365459
+
+23.7 	tr_rho	0.999999998658528
+23.7 	S_2	12.428448963358
+23.7 	OSEE_center	2.47746490892682
+23.7 	max_bond_dim	92
+23.7 	duration_ms	48467525
+
+23.75 	tr_rho	1
+23.75 	S_2	12.4348583708494
+23.75 	OSEE_center	2.48467956288299
+23.75 	max_bond_dim	74
+23.75 	duration_ms	48596519
+
+23.8 	tr_rho	1
+23.8 	S_2	12.44126865921
+23.8 	OSEE_center	2.49147463765114
+23.8 	max_bond_dim	79
+23.8 	duration_ms	48708668
+
+23.85 	tr_rho	0.99999997434643
+23.85 	S_2	12.447679645552
+23.85 	OSEE_center	2.49784811584503
+23.85 	max_bond_dim	88
+23.85 	duration_ms	48808935
+
+23.9 	tr_rho	0.999999999999999
+23.9 	S_2	12.454091071669
+23.9 	OSEE_center	2.50379807156601
+23.9 	max_bond_dim	77
+23.9 	duration_ms	48949105
+
+23.95 	tr_rho	1
+23.95 	S_2	12.4605028073475
+23.95 	OSEE_center	2.50932267155402
+23.95 	max_bond_dim	77
+23.95 	duration_ms	49069718
+
+24 	tr_rho	0.999999987600376
+24 	S_2	12.4669145430706
+24 	OSEE_center	2.51442017645908
+24 	max_bond_dim	88
+24 	duration_ms	49172561
+
+24.05 	tr_rho	1
+24.05 	S_2	12.4733259711707
+24.05 	OSEE_center	2.51908894212486
+24.05 	max_bond_dim	76
+24.05 	duration_ms	49301896
+
+24.1 	tr_rho	1
+24.1 	S_2	12.4797368346787
+24.1 	OSEE_center	2.52332742090613
+24.1 	max_bond_dim	76
+24.1 	duration_ms	49411758
+
+24.15 	tr_rho	0.999999989345788
+24.15 	S_2	12.4862541631446
+24.15 	OSEE_center	2.51743042551365
+24.15 	max_bond_dim	87
+24.15 	duration_ms	49517099
+
+24.2 	tr_rho	0.999999999999999
+24.2 	S_2	12.4927550830551
+24.2 	OSEE_center	2.51109443359671
+24.2 	max_bond_dim	74
+24.2 	duration_ms	49637608
+
+24.25 	tr_rho	1
+24.25 	S_2	12.4992393090008
+24.25 	OSEE_center	2.50432113932732
+24.25 	max_bond_dim	78
+24.25 	duration_ms	49742239
+
+24.3 	tr_rho	1.00000001361978
+24.3 	S_2	12.5057065141548
+24.3 	OSEE_center	2.49711237801308
+24.3 	max_bond_dim	86
+24.3 	duration_ms	49835417
+
+24.35 	tr_rho	0.999999999999999
+24.35 	S_2	12.5121564434265
+24.35 	OSEE_center	2.48947012764191
+24.35 	max_bond_dim	75
+24.35 	duration_ms	49967162
+
+24.4 	tr_rho	1
+24.4 	S_2	12.5185887843587
+24.4 	OSEE_center	2.4813965103978
+24.4 	max_bond_dim	78
+24.4 	duration_ms	50070591
+
+24.45 	tr_rho	1.00000000801738
+24.45 	S_2	12.5250033312792
+24.45 	OSEE_center	2.47289379406289
+24.45 	max_bond_dim	85
+24.45 	duration_ms	50164313
+
+24.5 	tr_rho	1
+24.5 	S_2	12.5313998931319
+24.5 	OSEE_center	2.4639643932914
+24.5 	max_bond_dim	75
+24.5 	duration_ms	50289728
+
+24.55 	tr_rho	1
+24.55 	S_2	12.5377782574721
+24.55 	OSEE_center	2.45461087080928
+24.55 	max_bond_dim	75
+24.55 	duration_ms	50389149
+
+24.6 	tr_rho	0.999999999430997
+24.6 	S_2	12.5441382870725
+24.6 	OSEE_center	2.4448359385577
+24.6 	max_bond_dim	85
+24.6 	duration_ms	50482933
+
+24.65 	tr_rho	0.999999999999998
+24.65 	S_2	12.5504798551954
+24.65 	OSEE_center	2.43464245855808
+24.65 	max_bond_dim	73
+24.65 	duration_ms	50604100
+
+24.7 	tr_rho	0.999999999999999
+24.7 	S_2	12.5568028665244
+24.7 	OSEE_center	2.42403344357022
+24.7 	max_bond_dim	73
+24.7 	duration_ms	50722117
+
+24.75 	tr_rho	1.00000000150582
+24.75 	S_2	12.5631072503738
+24.75 	OSEE_center	2.41301205751741
+24.75 	max_bond_dim	85
+24.75 	duration_ms	50825422
+
+24.8 	tr_rho	1
+24.8 	S_2	12.5693929682069
+24.8 	OSEE_center	2.40158161571619
+24.8 	max_bond_dim	76
+24.8 	duration_ms	50965523
+
+24.85 	tr_rho	1
+24.85 	S_2	12.5756600003868
+24.85 	OSEE_center	2.38974558489098
+24.85 	max_bond_dim	76
+24.85 	duration_ms	51071371
+
+24.9 	tr_rho	1.00000000111792
+24.9 	S_2	12.5819083636506
+24.9 	OSEE_center	2.37750758286549
+24.9 	max_bond_dim	87
+24.9 	duration_ms	51178001
+
+24.95 	tr_rho	0.999999999999999
+24.95 	S_2	12.5881381007241
+24.95 	OSEE_center	2.36487137779111
+24.95 	max_bond_dim	78
+24.95 	duration_ms	51317987
+
+25 	tr_rho	1
+25 	S_2	12.5943492734078
+25 	OSEE_center	2.35184088722116
+25 	max_bond_dim	76
+25 	duration_ms	51426677
+
+25.05 	tr_rho	1.0000000040908
+25.05 	S_2	12.6005419747268
+25.05 	OSEE_center	2.33842017677813
+25.05 	max_bond_dim	85
+25.05 	duration_ms	51528493
+
+25.1 	tr_rho	0.999999999999999
+25.1 	S_2	12.6067163271576
+25.1 	OSEE_center	2.32461345855723
+25.1 	max_bond_dim	76
+25.1 	duration_ms	51667809
+
+25.15 	tr_rho	1
+25.15 	S_2	12.6128724500483
+25.15 	OSEE_center	2.31042508931639
+25.15 	max_bond_dim	77
+25.15 	duration_ms	51778449
+
+25.2 	tr_rho	1.00000000827704
+25.2 	S_2	12.6190105067554
+25.2 	OSEE_center	2.29585956830922
+25.2 	max_bond_dim	85
+25.2 	duration_ms	51885922
+
+25.25 	tr_rho	0.999999999999999
+25.25 	S_2	12.6251306864424
+25.25 	OSEE_center	2.28092153491876
+25.25 	max_bond_dim	77
+25.25 	duration_ms	52005342
+
+25.3 	tr_rho	1
+25.3 	S_2	12.6312331435719
+25.3 	OSEE_center	2.26561576610805
+25.3 	max_bond_dim	79
+25.3 	duration_ms	52105061
+
+25.35 	tr_rho	0.999999991495929
+25.35 	S_2	12.6373180945033
+25.35 	OSEE_center	2.24994717358081
+25.35 	max_bond_dim	87
+25.35 	duration_ms	52213967
+
+25.4 	tr_rho	1
+25.4 	S_2	12.6433857313813
+25.4 	OSEE_center	2.23392080081891
+25.4 	max_bond_dim	75
+25.4 	duration_ms	52340931
+
+25.45 	tr_rho	1
+25.45 	S_2	12.6494363034578
+25.45 	OSEE_center	2.21754182002239
+25.45 	max_bond_dim	76
+25.45 	duration_ms	52439742
+
+25.5 	tr_rho	0.999999973439777
+25.5 	S_2	12.6554700118126
+25.5 	OSEE_center	2.200815528874
+25.5 	max_bond_dim	63
+25.5 	duration_ms	52530979
+
+25.55 	tr_rho	1
+25.55 	S_2	12.66137565134
+25.55 	OSEE_center	2.21552795495329
+25.55 	max_bond_dim	68
+25.55 	duration_ms	52616174
+
+25.6 	tr_rho	1
+25.6 	S_2	12.6672807714402
+25.6 	OSEE_center	2.22988792792303
+25.6 	max_bond_dim	71
+25.6 	duration_ms	52692183
+
+25.65 	tr_rho	1.00000000985023
+25.65 	S_2	12.6731855853594
+25.65 	OSEE_center	2.24389162965477
+25.65 	max_bond_dim	83
+25.65 	duration_ms	52762882
+
+25.7 	tr_rho	0.999999999999999
+25.7 	S_2	12.6790903762817
+25.7 	OSEE_center	2.25753535487635
+25.7 	max_bond_dim	77
+25.7 	duration_ms	52902131
+
+25.75 	tr_rho	0.999999999999999
+25.75 	S_2	12.6849953620454
+25.75 	OSEE_center	2.27081550788406
+25.75 	max_bond_dim	75
+25.75 	duration_ms	53011653
+
+25.8 	tr_rho	1.00000001751793
+25.8 	S_2	12.6909008102386
+25.8 	OSEE_center	2.28372859947955
+25.8 	max_bond_dim	83
+25.8 	duration_ms	53120104
+
+25.85 	tr_rho	0.999999999999999
+25.85 	S_2	12.6968069915202
+25.85 	OSEE_center	2.29627124407296
+25.85 	max_bond_dim	76
+25.85 	duration_ms	53254105
+
+25.9 	tr_rho	0.999999999999999
+25.9 	S_2	12.702714056459
+25.9 	OSEE_center	2.30844015696219
+25.9 	max_bond_dim	75
+25.9 	duration_ms	53366992
+
+25.95 	tr_rho	1.00000006290334
+25.95 	S_2	12.7086222433486
+25.95 	OSEE_center	2.32023215190764
+25.95 	max_bond_dim	85
+25.95 	duration_ms	53473198
+
+26 	tr_rho	1
+26 	S_2	12.7145318616467
+26 	OSEE_center	2.33164413891822
+26 	max_bond_dim	75
+26 	duration_ms	53609398
+
+26.05 	tr_rho	0.999999999999999
+26.05 	S_2	12.7204428217527
+26.05 	OSEE_center	2.34267312225198
+26.05 	max_bond_dim	76
+26.05 	duration_ms	53712255
+
+26.1 	tr_rho	0.999999972132927
+26.1 	S_2	12.7263553881404
+26.1 	OSEE_center	2.35331619875949
+26.1 	max_bond_dim	84
+26.1 	duration_ms	53818039
+
+26.15 	tr_rho	1
+26.15 	S_2	12.7322696189074
+26.15 	OSEE_center	2.36357055647449
+26.15 	max_bond_dim	78
+26.15 	duration_ms	53951862
+
+26.2 	tr_rho	1
+26.2 	S_2	12.7381857131218
+26.2 	OSEE_center	2.37343347335801
+26.2 	max_bond_dim	77
+26.2 	duration_ms	54070517
+
+26.25 	tr_rho	0.999999998486536
+26.25 	S_2	12.7441036755147
+26.25 	OSEE_center	2.38290231640229
+26.25 	max_bond_dim	86
+26.25 	duration_ms	54183366
+
+26.3 	tr_rho	1
+26.3 	S_2	12.7500235354969
+26.3 	OSEE_center	2.39197454098836
+26.3 	max_bond_dim	76
+26.3 	duration_ms	54313683
+
+26.35 	tr_rho	0.999999999999998
+26.35 	S_2	12.7559453027013
+26.35 	OSEE_center	2.40064769023141
+26.35 	max_bond_dim	76
+26.35 	duration_ms	54420548
+
+26.4 	tr_rho	0.999999998960329
+26.4 	S_2	12.7618689485796
+26.4 	OSEE_center	2.40891939463853
+26.4 	max_bond_dim	87
+26.4 	duration_ms	54529538
+
+26.45 	tr_rho	1
+26.45 	S_2	12.7677944160353
+26.45 	OSEE_center	2.41678737199441
+26.45 	max_bond_dim	77
+26.45 	duration_ms	54665945
+
+26.5 	tr_rho	1
+26.5 	S_2	12.7737216246432
+26.5 	OSEE_center	2.42424942745889
+26.5 	max_bond_dim	77
+26.5 	duration_ms	54766835
+
+26.55 	tr_rho	0.999999997778005
+26.55 	S_2	12.7796504581491
+26.55 	OSEE_center	2.43130345391364
+26.55 	max_bond_dim	89
+26.55 	duration_ms	54873033
+
+26.6 	tr_rho	0.999999999999999
+26.6 	S_2	12.7855807683784
+26.6 	OSEE_center	2.43794743239859
+26.6 	max_bond_dim	76
+26.6 	duration_ms	55000431
+
+26.65 	tr_rho	1
+26.65 	S_2	12.791512391486
+26.65 	OSEE_center	2.44417943258745
+26.65 	max_bond_dim	76
+26.65 	duration_ms	55096514
+
+26.7 	tr_rho	0.999999997718959
+26.7 	S_2	12.7974451214902
+26.7 	OSEE_center	2.44999761360387
+26.7 	max_bond_dim	91
+26.7 	duration_ms	55202027
+
+26.75 	tr_rho	0.999999999999998
+26.75 	S_2	12.8033787240445
+26.75 	OSEE_center	2.45540022494319
+26.75 	max_bond_dim	75
+26.75 	duration_ms	55330575
+
+26.8 	tr_rho	1
+26.8 	S_2	12.8093129507568
+26.8 	OSEE_center	2.46038560745328
+26.8 	max_bond_dim	75
+26.8 	duration_ms	55429473
+
+26.85 	tr_rho	0.999999986017251
+26.85 	S_2	12.8152475125435
+26.85 	OSEE_center	2.46495219443263
+26.85 	max_bond_dim	88
+26.85 	duration_ms	55528816
+
+26.9 	tr_rho	0.999999999999999
+26.9 	S_2	12.8211820705799
+26.9 	OSEE_center	2.46909851279359
+26.9 	max_bond_dim	73
+26.9 	duration_ms	55655730
+
+26.95 	tr_rho	1
+26.95 	S_2	12.8271163444392
+26.95 	OSEE_center	2.47282318428221
+26.95 	max_bond_dim	73
+26.95 	duration_ms	55757932
+
+27 	tr_rho	0.999999987182007
+27 	S_2	12.8329771616533
+27 	OSEE_center	2.4669102597325
+27 	max_bond_dim	86
+27 	duration_ms	55858720
+
+27.05 	tr_rho	1
+27.05 	S_2	12.8388216067769
+27.05 	OSEE_center	2.46056959179786
+27.05 	max_bond_dim	74
+27.05 	duration_ms	55983813
+
+27.1 	tr_rho	1
+27.1 	S_2	12.8446493834351
+27.1 	OSEE_center	2.45380294412407
+27.1 	max_bond_dim	76
+27.1 	duration_ms	56084303
+
+27.15 	tr_rho	1.00000000931764
+27.15 	S_2	12.8504601427161
+27.15 	OSEE_center	2.44661221889974
+27.15 	max_bond_dim	88
+27.15 	duration_ms	56185995
+
+27.2 	tr_rho	1
+27.2 	S_2	12.8562536049362
+27.2 	OSEE_center	2.43899945814101
+27.2 	max_bond_dim	74
+27.2 	duration_ms	56308431
+
+27.25 	tr_rho	1
+27.25 	S_2	12.8620294604344
+27.25 	OSEE_center	2.43096684490894
+27.25 	max_bond_dim	74
+27.25 	duration_ms	56412457
+
+27.3 	tr_rho	1.00000000819904
+27.3 	S_2	12.8677874821877
+27.3 	OSEE_center	2.42251670441828
+27.3 	max_bond_dim	87
+27.3 	duration_ms	56508203
+
+27.35 	tr_rho	1
+27.35 	S_2	12.8735274683555
+27.35 	OSEE_center	2.41365150503278
+27.35 	max_bond_dim	75
+27.35 	duration_ms	56636143
+
+27.4 	tr_rho	1
+27.4 	S_2	12.8792491960145
+27.4 	OSEE_center	2.40437385906758
+27.4 	max_bond_dim	75
+27.4 	duration_ms	56747883
+
+27.45 	tr_rho	1.00000000617427
+27.45 	S_2	12.8849525199733
+27.45 	OSEE_center	2.39468652352335
+27.45 	max_bond_dim	86
+27.45 	duration_ms	56855967
+
+27.5 	tr_rho	1
+27.5 	S_2	12.8906373199057
+27.5 	OSEE_center	2.38459240076799
+27.5 	max_bond_dim	72
+27.5 	duration_ms	56975226
+
+27.55 	tr_rho	1
+27.55 	S_2	12.8963034675662
+27.55 	OSEE_center	2.3740945389152
+27.55 	max_bond_dim	73
+27.55 	duration_ms	57085207
+
+27.6 	tr_rho	1.0000000019328
+27.6 	S_2	12.9019509008952
+27.6 	OSEE_center	2.3631961319312
+27.6 	max_bond_dim	85
+27.6 	duration_ms	57185300
+
+27.65 	tr_rho	0.999999999999998
+27.65 	S_2	12.9075795783921
+27.65 	OSEE_center	2.35190051957653
+27.65 	max_bond_dim	74
+27.65 	duration_ms	57314044
+
+27.7 	tr_rho	1
+27.7 	S_2	12.9131894756731
+27.7 	OSEE_center	2.34021118717866
+27.7 	max_bond_dim	74
+27.7 	duration_ms	57415766
+
+27.75 	tr_rho	0.999999989677571
+27.75 	S_2	12.9187806081086
+27.75 	OSEE_center	2.32813176519142
+27.75 	max_bond_dim	86
+27.75 	duration_ms	57528581
+
+27.8 	tr_rho	1
+27.8 	S_2	12.9243529940667
+27.8 	OSEE_center	2.3156660284029
+27.8 	max_bond_dim	77
+27.8 	duration_ms	57657170
+
+27.85 	tr_rho	1
+27.85 	S_2	12.9299067402808
+27.85 	OSEE_center	2.30281789473374
+27.85 	max_bond_dim	76
+27.85 	duration_ms	57769724
+
+27.9 	tr_rho	1.00000000112166
+27.9 	S_2	12.9354419169073
+27.9 	OSEE_center	2.2895914239268
+27.9 	max_bond_dim	89
+27.9 	duration_ms	57877667
+
+27.95 	tr_rho	0.999999999999998
+27.95 	S_2	12.9409586409042
+27.95 	OSEE_center	2.27599081591029
+27.95 	max_bond_dim	77
+27.95 	duration_ms	58018340
+
+28 	tr_rho	1
+28 	S_2	12.9464570446824
+28 	OSEE_center	2.26202040896631
+28 	max_bond_dim	77
+28 	duration_ms	58127860
+
+28.05 	tr_rho	1.0000000068487
+28.05 	S_2	12.9519372876723
+28.05 	OSEE_center	2.24768467764115
+28.05 	max_bond_dim	86
+28.05 	duration_ms	58237268
+
+28.1 	tr_rho	1
+28.1 	S_2	12.9573995588755
+28.1 	OSEE_center	2.23298823048769
+28.1 	max_bond_dim	80
+28.1 	duration_ms	58366497
+
+28.15 	tr_rho	1
+28.15 	S_2	12.9628440220289
+28.15 	OSEE_center	2.21793580766752
+28.15 	max_bond_dim	80
+28.15 	duration_ms	58476066
+
+28.2 	tr_rho	0.999999994777248
+28.2 	S_2	12.968270895149
+28.2 	OSEE_center	2.20253227831878
+28.2 	max_bond_dim	90
+28.2 	duration_ms	58580649
+
+28.25 	tr_rho	1
+28.25 	S_2	12.9736803824497
+28.25 	OSEE_center	2.18678263783037
+28.25 	max_bond_dim	78
+28.25 	duration_ms	58720701
+
+28.3 	tr_rho	1
+28.3 	S_2	12.9790727268715
+28.3 	OSEE_center	2.17069200505449
+28.3 	max_bond_dim	78
+28.3 	duration_ms	58826323
+
+28.35 	tr_rho	0.999999989055573
+28.35 	S_2	12.9844481441638
+28.35 	OSEE_center	2.1542656193648
+28.35 	max_bond_dim	89
+28.35 	duration_ms	58930539
+
+28.4 	tr_rho	0.999999999999999
+28.4 	S_2	12.9898068394142
+28.4 	OSEE_center	2.13750883772262
+28.4 	max_bond_dim	76
+28.4 	duration_ms	59054349
+
+28.45 	tr_rho	1
+28.45 	S_2	12.9953859645205
+28.45 	OSEE_center	2.15185535195228
+28.45 	max_bond_dim	74
+28.45 	duration_ms	59159603
+
+28.5 	tr_rho	0.999999998138004
+28.5 	S_2	13.0009647351914
+28.5 	OSEE_center	2.16586117991674
+28.5 	max_bond_dim	85
+28.5 	duration_ms	59260030
+
+28.55 	tr_rho	1
+28.55 	S_2	13.0065434130389
+28.55 	OSEE_center	2.17952254959765
+28.55 	max_bond_dim	72
+28.55 	duration_ms	59381223
+
+28.6 	tr_rho	1
+28.6 	S_2	13.0121222696384
+28.6 	OSEE_center	2.19283580079591
+28.6 	max_bond_dim	75
+28.6 	duration_ms	59478735
+
+28.65 	tr_rho	1.00000000507022
+28.65 	S_2	13.0177015608359
+28.65 	OSEE_center	2.20579738217373
+28.65 	max_bond_dim	80
+28.65 	duration_ms	59574198
+
+28.7 	tr_rho	1
+28.7 	S_2	13.0232815486366
+28.7 	OSEE_center	2.21840384845018
+28.7 	max_bond_dim	73
+28.7 	duration_ms	59706082
+
+28.75 	tr_rho	1
+28.75 	S_2	13.0288624539539
+28.75 	OSEE_center	2.23065185771628
+28.75 	max_bond_dim	74
+28.75 	duration_ms	59809183
+
+28.8 	tr_rho	1.00000000854294
+28.8 	S_2	13.034444514645
+28.8 	OSEE_center	2.24253816894447
+28.8 	max_bond_dim	85
+28.8 	duration_ms	59909111
+
+28.85 	tr_rho	1
+28.85 	S_2	13.0400279594745
+28.85 	OSEE_center	2.25405963966982
+28.85 	max_bond_dim	74
+28.85 	duration_ms	60041195
+
+28.9 	tr_rho	0.999999999999999
+28.9 	S_2	13.0456129475035
+28.9 	OSEE_center	2.26521322383671
+28.9 	max_bond_dim	74
+28.9 	duration_ms	60157131
+
+28.95 	tr_rho	1.00000001663119
+28.95 	S_2	13.0511996684761
+28.95 	OSEE_center	2.27599596990442
+28.95 	max_bond_dim	87
+28.95 	duration_ms	60265203
+
+29 	tr_rho	1
+29 	S_2	13.0567883057753
+29 	OSEE_center	2.28640501915189
+29 	max_bond_dim	77
+29 	duration_ms	60396135
+
+29.05 	tr_rho	1
+29.05 	S_2	13.0623789188248
+29.05 	OSEE_center	2.2964376041925
+29.05 	max_bond_dim	78
+29.05 	duration_ms	60500446
+
+29.1 	tr_rho	0.999999978875962
+29.1 	S_2	13.067971641048
+29.1 	OSEE_center	2.30609104772519
+29.1 	max_bond_dim	90
+29.1 	duration_ms	60614413
+
+29.15 	tr_rho	1
+29.15 	S_2	13.0735665033313
+29.15 	OSEE_center	2.31536276143859
+29.15 	max_bond_dim	80
+29.15 	duration_ms	60759748
+
+29.2 	tr_rho	1
+29.2 	S_2	13.0791636353036
+29.2 	OSEE_center	2.32425024525855
+29.2 	max_bond_dim	78
+29.2 	duration_ms	60867875
+
+29.25 	tr_rho	0.999999997317404
+29.25 	S_2	13.0847630108303
+29.25 	OSEE_center	2.33275108660551
+29.25 	max_bond_dim	87
+29.25 	duration_ms	60969543
+
+29.3 	tr_rho	0.999999999999999
+29.3 	S_2	13.0903646109994
+29.3 	OSEE_center	2.34086295977925
+29.3 	max_bond_dim	74
+29.3 	duration_ms	61096182
+
+29.35 	tr_rho	1
+29.35 	S_2	13.0959684028732
+29.35 	OSEE_center	2.34858362559029
+29.35 	max_bond_dim	78
+29.35 	duration_ms	61200190
+
+29.4 	tr_rho	0.999999998474962
+29.4 	S_2	13.1015743068657
+29.4 	OSEE_center	2.35591093126463
+29.4 	max_bond_dim	86
+29.4 	duration_ms	61299271
+
+29.45 	tr_rho	1
+29.45 	S_2	13.1071822150377
+29.45 	OSEE_center	2.36284281053771
+29.45 	max_bond_dim	74
+29.45 	duration_ms	61429187
+
+29.5 	tr_rho	1
+29.5 	S_2	13.112791997838
+29.5 	OSEE_center	2.369377283834
+29.5 	max_bond_dim	75
+29.5 	duration_ms	61526892
+
+29.55 	tr_rho	0.99999999000778
+29.55 	S_2	13.1184034861415
+29.55 	OSEE_center	2.37551245851478
+29.55 	max_bond_dim	93
+29.55 	duration_ms	61622588
+
+29.6 	tr_rho	1
+29.6 	S_2	13.1240164634669
+29.6 	OSEE_center	2.38124652942747
+29.6 	max_bond_dim	76
+29.6 	duration_ms	61742053
+
+29.65 	tr_rho	1
+29.65 	S_2	13.1296307433596
+29.65 	OSEE_center	2.38657777960282
+29.65 	max_bond_dim	76
+29.65 	duration_ms	61838352
+
+29.7 	tr_rho	0.999999987979316
+29.7 	S_2	13.1352460499205
+29.7 	OSEE_center	2.39150458108689
+29.7 	max_bond_dim	86
+29.7 	duration_ms	61942008
+
+29.75 	tr_rho	1
+29.75 	S_2	13.1408620742965
+29.75 	OSEE_center	2.39602539584136
+29.75 	max_bond_dim	76
+29.75 	duration_ms	62072483
+
+29.8 	tr_rho	1
+29.8 	S_2	13.1464785516177
+29.8 	OSEE_center	2.40013877673676
+29.8 	max_bond_dim	79
+29.8 	duration_ms	62174338
+
+29.85 	tr_rho	0.999999988698783
+29.85 	S_2	13.152208347443
+29.85 	OSEE_center	2.39377852233168
+29.85 	max_bond_dim	88
+29.85 	duration_ms	62280130
+
+29.9 	tr_rho	1
+29.9 	S_2	13.1579212786841
+29.9 	OSEE_center	2.38700505046323
+29.9 	max_bond_dim	75
+29.9 	duration_ms	62403844
+
+29.95 	tr_rho	1
+29.95 	S_2	13.1636170700936
+29.95 	OSEE_center	2.37982031155013
+29.95 	max_bond_dim	79
+29.95 	duration_ms	62516456
+
+30 	tr_rho	1.00000000462019
+30 	S_2	13.1692954062115
+30 	OSEE_center	2.3722263937902
+30 	max_bond_dim	87
+30 	duration_ms	62612286
+
+30.05 	tr_rho	1
+30.05 	S_2	13.1749560315631
+30.05 	OSEE_center	2.36422552412343
+30.05 	max_bond_dim	76
+30.05 	duration_ms	62742061
+
+30.1 	tr_rho	1
+30.1 	S_2	13.1805986918074
+30.1 	OSEE_center	2.35582006908546
+30.1 	max_bond_dim	76
+30.1 	duration_ms	62844161
+
+30.15 	tr_rho	1.00000000802335
+30.15 	S_2	13.1862231897861
+30.15 	OSEE_center	2.34701253550834
+30.15 	max_bond_dim	87
+30.15 	duration_ms	62940619
+
+30.2 	tr_rho	1
+30.2 	S_2	13.1918293650334
+30.2 	OSEE_center	2.33780557100405
+30.2 	max_bond_dim	72
+30.2 	duration_ms	63065044
+
+30.25 	tr_rho	1
+30.25 	S_2	13.1974170392101
+30.25 	OSEE_center	2.32820196442818
+30.25 	max_bond_dim	74
+30.25 	duration_ms	63170127
+
+30.3 	tr_rho	1.00000000423695
+30.3 	S_2	13.2029861124754
+30.3 	OSEE_center	2.31820464629494
+30.3 	max_bond_dim	94
+30.3 	duration_ms	63268012
+
+30.35 	tr_rho	1
+30.35 	S_2	13.2085365078011
+30.35 	OSEE_center	2.30781668882877
+30.35 	max_bond_dim	73
+30.35 	duration_ms	63370717
+
+30.4 	tr_rho	1
+30.4 	S_2	13.2140681529223
+30.4 	OSEE_center	2.29704130581308
+30.4 	max_bond_dim	73
+30.4 	duration_ms	63451352
+
+30.45 	tr_rho	1.00000000173266
+30.45 	S_2	13.2195810308332
+30.45 	OSEE_center	2.28588185224343
+30.45 	max_bond_dim	85
+30.45 	duration_ms	63534918
+
+30.5 	tr_rho	1
+30.5 	S_2	13.2250751487968
+30.5 	OSEE_center	2.27434182384915
+30.5 	max_bond_dim	74
+30.5 	duration_ms	63635239
+
+30.55 	tr_rho	0.999999999999999
+30.55 	S_2	13.2305505321465
+30.55 	OSEE_center	2.26242485648384
+30.55 	max_bond_dim	73
+30.55 	duration_ms	63713968
+
+30.6 	tr_rho	1.00000000824343
+30.6 	S_2	13.236007244144
+30.6 	OSEE_center	2.25013472506853
+30.6 	max_bond_dim	85
+30.6 	duration_ms	63795589
+
+30.65 	tr_rho	0.999999999999998
+30.65 	S_2	13.24144538736
+30.65 	OSEE_center	2.23747534216136
+30.65 	max_bond_dim	76
+30.65 	duration_ms	63898236
+
+30.7 	tr_rho	1
+30.7 	S_2	13.2468650398201
+30.7 	OSEE_center	2.22445075660989
+30.7 	max_bond_dim	76
+30.7 	duration_ms	63980138
+
+30.75 	tr_rho	1.00000000354701
+30.75 	S_2	13.2522663523551
+30.75 	OSEE_center	2.21106515178123
+30.75 	max_bond_dim	86
+30.75 	duration_ms	64059246
+
+30.8 	tr_rho	0.999999999999999
+30.8 	S_2	13.2576494877336
+30.8 	OSEE_center	2.19732284367175
+30.8 	max_bond_dim	76
+30.8 	duration_ms	64163673
+
+30.85 	tr_rho	1
+30.85 	S_2	13.2630146066752
+30.85 	OSEE_center	2.18322827891066
+30.85 	max_bond_dim	76
+30.85 	duration_ms	64238818
+
+30.9 	tr_rho	0.999999997983909
+30.9 	S_2	13.2683619081771
+30.9 	OSEE_center	2.16878603252598
+30.9 	max_bond_dim	85
+30.9 	duration_ms	64317685
+
+30.95 	tr_rho	1
+30.95 	S_2	13.2736915945836
+30.95 	OSEE_center	2.15400080563183
+30.95 	max_bond_dim	76
+30.95 	duration_ms	64419516
+
+31 	tr_rho	1
+31 	S_2	13.2790038920744
+31 	OSEE_center	2.13887742304857
+31 	max_bond_dim	78
+31 	duration_ms	64493576
+
+31.05 	tr_rho	0.999999993931508
+31.05 	S_2	13.2842990235687
+31.05 	OSEE_center	2.12342083075358
+31.05 	max_bond_dim	89
+31.05 	duration_ms	64575839
+
+31.1 	tr_rho	1
+31.1 	S_2	13.2895772096506
+31.1 	OSEE_center	2.10763609332261
+31.1 	max_bond_dim	76
+31.1 	duration_ms	64681956
+
+31.15 	tr_rho	0.999999999999999
+31.15 	S_2	13.2948387098194
+31.15 	OSEE_center	2.09152839138156
+31.15 	max_bond_dim	78
+31.15 	duration_ms	64764726
+
+31.2 	tr_rho	0.999999983974555
+31.2 	S_2	13.3000837463262
+31.2 	OSEE_center	2.0751030189785
+31.2 	max_bond_dim	87
+31.2 	duration_ms	64845218
+
+31.25 	tr_rho	1
+31.25 	S_2	13.3053125172225
+31.25 	OSEE_center	2.05836538103505
+31.25 	max_bond_dim	74
+31.25 	duration_ms	64950183
+
+31.3 	tr_rho	1
+31.3 	S_2	13.3104152017356
+31.3 	OSEE_center	2.07260357044103
+31.3 	max_bond_dim	73
+31.3 	duration_ms	65035604
+
+31.35 	tr_rho	0.999999998477188
+31.35 	S_2	13.3155175169249
+31.35 	OSEE_center	2.08651524573601
+31.35 	max_bond_dim	86
+31.35 	duration_ms	65116089
+
+31.4 	tr_rho	1
+31.4 	S_2	13.3206197224147
+31.4 	OSEE_center	2.10009660148582
+31.4 	max_bond_dim	73
+31.4 	duration_ms	65220103
+
+31.45 	tr_rho	0.999999999999999
+31.45 	S_2	13.3257220907691
+31.45 	OSEE_center	2.11334394757886
+31.45 	max_bond_dim	72
+31.45 	duration_ms	65301570
+
+31.5 	tr_rho	1.00000000807007
+31.5 	S_2	13.3308248856175
+31.5 	OSEE_center	2.12625370641957
+31.5 	max_bond_dim	83
+31.5 	duration_ms	65379965
+
+31.55 	tr_rho	1
+31.55 	S_2	13.3359283867473
+31.55 	OSEE_center	2.13882241021551
+31.55 	max_bond_dim	73
+31.55 	duration_ms	65488245
+
+31.6 	tr_rho	1
+31.6 	S_2	13.341032819256
+31.6 	OSEE_center	2.15104669831055
+31.6 	max_bond_dim	74
+31.6 	duration_ms	65571602
+
+31.65 	tr_rho	1.00000001672677
+31.65 	S_2	13.3461384473273
+31.65 	OSEE_center	2.16292331467585
+31.65 	max_bond_dim	85
+31.65 	duration_ms	65657259
+
+31.7 	tr_rho	1
+31.7 	S_2	13.351245540261
+31.7 	OSEE_center	2.17444910550292
+31.7 	max_bond_dim	74
+31.7 	duration_ms	65752897
+
+31.75 	tr_rho	1
+31.75 	S_2	13.3563542520797
+31.75 	OSEE_center	2.18562101689841
+31.75 	max_bond_dim	75
+31.75 	duration_ms	65822312
+
+31.8 	tr_rho	1.00000000502982
+31.8 	S_2	13.3614648197551
+31.8 	OSEE_center	2.19643609280508
+31.8 	max_bond_dim	84
+31.8 	duration_ms	65889550
+
+31.85 	tr_rho	1
+31.85 	S_2	13.3665774371774
+31.85 	OSEE_center	2.20689147306083
+31.85 	max_bond_dim	74
+31.85 	duration_ms	65980712
+
+31.9 	tr_rho	1
+31.9 	S_2	13.3716922462206
+31.9 	OSEE_center	2.21698439160221
+31.9 	max_bond_dim	74
+31.9 	duration_ms	66053255
+
+31.95 	tr_rho	0.999999992402876
+31.95 	S_2	13.3768093952387
+31.95 	OSEE_center	2.22671217495931
+31.95 	max_bond_dim	90
+31.95 	duration_ms	66118753
+
+32 	tr_rho	1
+32 	S_2	13.3819289819033
+32 	OSEE_center	2.23607224084544
+32 	max_bond_dim	78
+32 	duration_ms	66209980
+
+32.05 	tr_rho	1
+32.05 	S_2	13.3870511226341
+32.05 	OSEE_center	2.24506209683634
+32.05 	max_bond_dim	78
+32.05 	duration_ms	66288312
+
+32.1 	tr_rho	0.999999999063101
+32.1 	S_2	13.3921758601046
+32.1 	OSEE_center	2.25367933957819
+32.1 	max_bond_dim	87
+32.1 	duration_ms	66362583
+
+32.15 	tr_rho	1
+32.15 	S_2	13.3973032210532
+32.15 	OSEE_center	2.26192165382671
+32.15 	max_bond_dim	75
+32.15 	duration_ms	66447991
+
+32.2 	tr_rho	1
+32.2 	S_2	13.4024332077396
+32.2 	OSEE_center	2.26978681151639
+32.2 	max_bond_dim	75
+32.2 	duration_ms	66508737
+
+32.25 	tr_rho	1.00000000045542
+32.25 	S_2	13.4075657859658
+32.25 	OSEE_center	2.27727267121752
+32.25 	max_bond_dim	86
+32.25 	duration_ms	66577599
+
+32.3 	tr_rho	1
+32.3 	S_2	13.4127008930056
+32.3 	OSEE_center	2.28437717776786
+32.3 	max_bond_dim	74
+32.3 	duration_ms	66663686
+
+32.35 	tr_rho	1
+32.35 	S_2	13.417838431697
+32.35 	OSEE_center	2.291098362092
+32.35 	max_bond_dim	75
+32.35 	duration_ms	66726669
+
+32.4 	tr_rho	0.999999996043519
+32.4 	S_2	13.4229782757679
+32.4 	OSEE_center	2.29743434120286
+32.4 	max_bond_dim	88
+32.4 	duration_ms	66797387
+
+32.45 	tr_rho	1
+32.45 	S_2	13.42812025825
+32.45 	OSEE_center	2.30338331814345
+32.45 	max_bond_dim	78
+32.45 	duration_ms	66886836
+
+32.5 	tr_rho	1
+32.5 	S_2	13.4332642041741
+32.5 	OSEE_center	2.30894358224494
+32.5 	max_bond_dim	77
+32.5 	duration_ms	66952511
+
+32.55 	tr_rho	0.999999992055982
+32.55 	S_2	13.4384098833519
+32.55 	OSEE_center	2.31411350970626
+32.55 	max_bond_dim	89
+32.55 	duration_ms	67016290
+
+32.6 	tr_rho	1
+32.6 	S_2	13.4435570265456
+32.6 	OSEE_center	2.31889156420061
+32.6 	max_bond_dim	75
+32.6 	duration_ms	67094933
+
+32.65 	tr_rho	1
+32.65 	S_2	13.448705381653
+32.65 	OSEE_center	2.32327629758764
+32.65 	max_bond_dim	75
+32.65 	duration_ms	67158841
+
+32.7 	tr_rho	0.999999959726094
+32.7 	S_2	13.45385461904
+32.7 	OSEE_center	2.3272663507881
+32.7 	max_bond_dim	64
+32.7 	duration_ms	67219801
+
+32.75 	tr_rho	0.999999999999998
+32.75 	S_2	13.4589316204159
+32.75 	OSEE_center	2.32050012790616
+32.75 	max_bond_dim	69
+32.75 	duration_ms	67273769
+
+32.8 	tr_rho	1
+32.8 	S_2	13.4639917450858
+32.8 	OSEE_center	2.3133370215365
+32.8 	max_bond_dim	74
+32.8 	duration_ms	67320449
+
+32.85 	tr_rho	1.0000000155921
+32.85 	S_2	13.4690346011154
+32.85 	OSEE_center	2.30577918086674
+32.85 	max_bond_dim	88
+32.85 	duration_ms	67373722
+
+32.9 	tr_rho	1
+32.9 	S_2	13.4740599373633
+32.9 	OSEE_center	2.29782888848207
+32.9 	max_bond_dim	75
+32.9 	duration_ms	67456073
+
+32.95 	tr_rho	1
+32.95 	S_2	13.4790674391855
+32.95 	OSEE_center	2.28948856100716
+32.95 	max_bond_dim	75
+32.95 	duration_ms	67524975
+
+33 	tr_rho	1.00000001219676
+33 	S_2	13.4840569161464
+33 	OSEE_center	2.28076074958815
+33 	max_bond_dim	87
+33 	duration_ms	67592196
+
+33.05 	tr_rho	1
+33.05 	S_2	13.489028202058
+33.05 	OSEE_center	2.27164814021579
+33.05 	max_bond_dim	75
+33.05 	duration_ms	67672965
+
+33.1 	tr_rho	1
+33.1 	S_2	13.4939810889857
+33.1 	OSEE_center	2.26215355381994
+33.1 	max_bond_dim	75
+33.1 	duration_ms	67738060
+
+33.15 	tr_rho	1.0000000082689
+33.15 	S_2	13.498915473664
+33.15 	OSEE_center	2.25227994635869
+33.15 	max_bond_dim	86
+33.15 	duration_ms	67795012
+
+33.2 	tr_rho	1
+33.2 	S_2	13.5038312764536
+33.2 	OSEE_center	2.24203040887912
+33.2 	max_bond_dim	73
+33.2 	duration_ms	67871608
+
+33.25 	tr_rho	0.999999999999999
+33.25 	S_2	13.5087283993665
+33.25 	OSEE_center	2.23140816720711
+33.25 	max_bond_dim	74
+33.25 	duration_ms	67942641
+
+33.3 	tr_rho	1.00000000394421
+33.3 	S_2	13.5136068249134
+33.3 	OSEE_center	2.22041658137865
+33.3 	max_bond_dim	88
+33.3 	duration_ms	68006987
+
+33.35 	tr_rho	0.999999999999999
+33.35 	S_2	13.5184665571911
+33.35 	OSEE_center	2.20905914495824
+33.35 	max_bond_dim	72
+33.35 	duration_ms	68091599
+
+33.4 	tr_rho	1
+33.4 	S_2	13.5233076061804
+33.4 	OSEE_center	2.19733948426981
+33.4 	max_bond_dim	72
+33.4 	duration_ms	68157838
+
+33.45 	tr_rho	0.99999999980475
+33.45 	S_2	13.5281300339577
+33.45 	OSEE_center	2.18526135748408
+33.45 	max_bond_dim	87
+33.45 	duration_ms	68220958
+
+33.5 	tr_rho	1
+33.5 	S_2	13.5329339216096
+33.5 	OSEE_center	2.17282865324957
+33.5 	max_bond_dim	75
+33.5 	duration_ms	68299760
+
+33.55 	tr_rho	1
+33.55 	S_2	13.5377193772776
+33.55 	OSEE_center	2.16004538900615
+33.55 	max_bond_dim	75
+33.55 	duration_ms	68373217
+
+33.6 	tr_rho	1.00000000071199
+33.6 	S_2	13.5424865321894
+33.6 	OSEE_center	2.14691570944449
+33.6 	max_bond_dim	87
+33.6 	duration_ms	68444433
+
+33.65 	tr_rho	1
+33.65 	S_2	13.5472355418294
+33.65 	OSEE_center	2.13344388463029
+33.65 	max_bond_dim	76
+33.65 	duration_ms	68535245
+
+33.7 	tr_rho	0.999999999999999
+33.7 	S_2	13.5519665776633
+33.7 	OSEE_center	2.11963430804789
+33.7 	max_bond_dim	77
+33.7 	duration_ms	68601661
+
+33.75 	tr_rho	1.00000000006028
+33.75 	S_2	13.5566798335226
+33.75 	OSEE_center	2.10549149448685
+33.75 	max_bond_dim	87
+33.75 	duration_ms	68670524
+
+33.8 	tr_rho	1
+33.8 	S_2	13.5613755175883
+33.8 	OSEE_center	2.09102007787287
+33.8 	max_bond_dim	79
+33.8 	duration_ms	68756339
+
+33.85 	tr_rho	1
+33.85 	S_2	13.5660538506817
+33.85 	OSEE_center	2.07622480906928
+33.85 	max_bond_dim	79
+33.85 	duration_ms	68822794
+
+33.9 	tr_rho	0.999999996125965
+33.9 	S_2	13.5707150641699
+33.9 	OSEE_center	2.06111055354039
+33.9 	max_bond_dim	86
+33.9 	duration_ms	68891147
+
+33.95 	tr_rho	1
+33.95 	S_2	13.5753593887851
+33.95 	OSEE_center	2.04568228902914
+33.95 	max_bond_dim	77
+33.95 	duration_ms	68970569
+
+34 	tr_rho	1
+34 	S_2	13.5799870825943
+34 	OSEE_center	2.02994510326904
+34 	max_bond_dim	77
+34 	duration_ms	69035218
+
+34.05 	tr_rho	0.999999988545407
+34.05 	S_2	13.5845983813236
+34.05 	OSEE_center	2.01390419162825
+34.05 	max_bond_dim	87
+34.05 	duration_ms	69097487
+
+34.1 	tr_rho	0.999999999999999
+34.1 	S_2	13.5891935030822
+34.1 	OSEE_center	1.99756485484271
+34.1 	max_bond_dim	74
+34.1 	duration_ms	69177696
+
+34.15 	tr_rho	1
+34.15 	S_2	13.593772728832
+34.15 	OSEE_center	1.98093249686904
+34.15 	max_bond_dim	76
+34.15 	duration_ms	69248461
+
+34.2 	tr_rho	0.999999989389371
+34.2 	S_2	13.5985842591315
+34.2 	OSEE_center	1.99471132580727
+34.2 	max_bond_dim	89
+34.2 	duration_ms	69319725
+
+34.25 	tr_rho	1
+34.25 	S_2	13.6033955052656
+34.25 	OSEE_center	2.00817743519868
+34.25 	max_bond_dim	73
+34.25 	duration_ms	69401581
+
+34.3 	tr_rho	1
+34.3 	S_2	13.6082067675438
+34.3 	OSEE_center	2.02132708410821
+34.3 	max_bond_dim	75
+34.3 	duration_ms	69468537
+
+34.35 	tr_rho	1.00000000678172
+34.35 	S_2	13.6130182875708
+34.35 	OSEE_center	2.03415664397479
+34.35 	max_bond_dim	83
+34.35 	duration_ms	69528925
+
+34.4 	tr_rho	0.999999999999999
+34.4 	S_2	13.6178303433463
+34.4 	OSEE_center	2.04666259622792
+34.4 	max_bond_dim	73
+34.4 	duration_ms	69611837
+
+34.45 	tr_rho	0.999999999999999
+34.45 	S_2	13.6226431704249
+34.45 	OSEE_center	2.05884152991403
+34.45 	max_bond_dim	74
+34.45 	duration_ms	69680692
+
+34.5 	tr_rho	1.00000000751175
+34.5 	S_2	13.6274570400963
+34.5 	OSEE_center	2.0706901394044
+34.5 	max_bond_dim	85
+34.5 	duration_ms	69744435
+
+34.55 	tr_rho	1
+34.55 	S_2	13.6322722170785
+34.55 	OSEE_center	2.08220522217115
+34.55 	max_bond_dim	74
+34.55 	duration_ms	69825186
+
+34.6 	tr_rho	1
+34.6 	S_2	13.6370889100336
+34.6 	OSEE_center	2.09338367661729
+34.6 	max_bond_dim	75
+34.6 	duration_ms	69887626
+
+34.65 	tr_rho	1.00000000565368
+34.65 	S_2	13.6419073589685
+34.65 	OSEE_center	2.10422250006934
+34.65 	max_bond_dim	85
+34.65 	duration_ms	69950323
+
+34.7 	tr_rho	1
+34.7 	S_2	13.6467277838465
+34.7 	OSEE_center	2.11471878686083
+34.7 	max_bond_dim	74
+34.7 	duration_ms	70037326
+
+34.75 	tr_rho	1
+34.75 	S_2	13.6515503519557
+34.75 	OSEE_center	2.12486972652018
+34.75 	max_bond_dim	75
+34.75 	duration_ms	70113364
+
+34.8 	tr_rho	1.00000000926454
+34.8 	S_2	13.6563752435266
+34.8 	OSEE_center	2.13467260216797
+34.8 	max_bond_dim	89
+34.8 	duration_ms	70184753
+
+34.85 	tr_rho	1
+34.85 	S_2	13.6612026230304
+34.85 	OSEE_center	2.14412478906254
+34.85 	max_bond_dim	76
+34.85 	duration_ms	70265249
+
+34.9 	tr_rho	0.999999999999999
+34.9 	S_2	13.6660325744689
+34.9 	OSEE_center	2.1532237532125
+34.9 	max_bond_dim	75
+34.9 	duration_ms	70338184
+
+34.95 	tr_rho	1.00000000403994
+34.95 	S_2	13.6708652110147
+34.95 	OSEE_center	2.16196705008664
+34.95 	max_bond_dim	86
+34.95 	duration_ms	70401202
+
+35 	tr_rho	1
+35 	S_2	13.6757006074671
+35 	OSEE_center	2.17035232386457
+35 	max_bond_dim	76
+35 	duration_ms	70481952
+
+35.05 	tr_rho	1
+35.05 	S_2	13.6805387852335
+35.05 	OSEE_center	2.17837730642705
+35.05 	max_bond_dim	76
+35.05 	duration_ms	70554814
+
+35.1 	tr_rho	0.999999998409627
+35.1 	S_2	13.6853797598102
+35.1 	OSEE_center	2.18603981643248
+35.1 	max_bond_dim	87
+35.1 	duration_ms	70621403
+
+35.15 	tr_rho	1
+35.15 	S_2	13.6902235043657
+35.15 	OSEE_center	2.19333775861884
+35.15 	max_bond_dim	75
+35.15 	duration_ms	70707728
+
+35.2 	tr_rho	1
+35.2 	S_2	13.6950699699248
+35.2 	OSEE_center	2.20026912330791
+35.2 	max_bond_dim	75
+35.2 	duration_ms	70768867
+
+35.25 	tr_rho	0.999999997950957
+35.25 	S_2	13.6999190657573
+35.25 	OSEE_center	2.20683198617504
+35.25 	max_bond_dim	87
+35.25 	duration_ms	70824579
+
+35.3 	tr_rho	0.999999999999997
+35.3 	S_2	13.7047706677746
+35.3 	OSEE_center	2.21302450809016
+35.3 	max_bond_dim	75
+35.3 	duration_ms	70901295
+
+35.35 	tr_rho	1
+35.35 	S_2	13.7096246315359
+35.35 	OSEE_center	2.21884493486824
+35.35 	max_bond_dim	75
+35.35 	duration_ms	70972968
+
+35.4 	tr_rho	0.999999992304865
+35.4 	S_2	13.7144807677263
+35.4 	OSEE_center	2.2242915974136
+35.4 	max_bond_dim	86
+35.4 	duration_ms	71045545
+
+35.45 	tr_rho	0.999999999999999
+35.45 	S_2	13.7193388433117
+35.45 	OSEE_center	2.22936291213096
+35.45 	max_bond_dim	74
+35.45 	duration_ms	71123787
+
+35.5 	tr_rho	1
+35.5 	S_2	13.7241986394265
+35.5 	OSEE_center	2.23405738137587
+35.5 	max_bond_dim	81
+35.5 	duration_ms	71185349
+
+35.55 	tr_rho	0.999999968443785
+35.55 	S_2	13.7290598594041
+35.55 	OSEE_center	2.23837359406301
+35.55 	max_bond_dim	63
+35.55 	duration_ms	71250675
+
+35.6 	tr_rho	1
+35.6 	S_2	13.7340395016593
+35.6 	OSEE_center	2.23125738771892
+35.6 	max_bond_dim	68
+35.6 	duration_ms	71305507
+
+35.65 	tr_rho	1
+35.65 	S_2	13.7390019248814
+35.65 	OSEE_center	2.22376186121265
+35.65 	max_bond_dim	76
+35.65 	duration_ms	71345717
+
+35.7 	tr_rho	1.00000001145806
+35.7 	S_2	13.7439467915423
+35.7 	OSEE_center	2.2158893312966
+35.7 	max_bond_dim	84
+35.7 	duration_ms	71400446
+
+35.75 	tr_rho	1
+35.75 	S_2	13.7488738815708
+35.75 	OSEE_center	2.20764224394746
+35.75 	max_bond_dim	78
+35.75 	duration_ms	71483605
+
+35.8 	tr_rho	1
+35.8 	S_2	13.7537829381103
+35.8 	OSEE_center	2.19902317464588
+35.8 	max_bond_dim	77
+35.8 	duration_ms	71545949
+
+35.85 	tr_rho	1.00000001100523
+35.85 	S_2	13.7586738053805
+35.85 	OSEE_center	2.19003482845841
+35.85 	max_bond_dim	86
+35.85 	duration_ms	71609645
+
+35.9 	tr_rho	1
+35.9 	S_2	13.76354635917
+35.9 	OSEE_center	2.18068003988488
+35.9 	max_bond_dim	74
+35.9 	duration_ms	71687182
+
+35.95 	tr_rho	1
+35.95 	S_2	13.7684004417386
+35.95 	OSEE_center	2.17096177278866
+35.95 	max_bond_dim	78
+35.95 	duration_ms	71757201
+
+36 	tr_rho	1.00000000693341
+36 	S_2	13.7732359936604
+36 	OSEE_center	2.16088312028541
+36 	max_bond_dim	86
+36 	duration_ms	71824837
+
+36.05 	tr_rho	1
+36.05 	S_2	13.7780529792787
+36.05 	OSEE_center	2.15044730422491
+36.05 	max_bond_dim	73
+36.05 	duration_ms	71913831
+
+36.1 	tr_rho	1
+36.1 	S_2	13.7828513527033
+36.1 	OSEE_center	2.13965767450434
+36.1 	max_bond_dim	74
+36.1 	duration_ms	71985016
+
+36.15 	tr_rho	1.00000000286432
+36.15 	S_2	13.7876311402013
+36.15 	OSEE_center	2.1285177082317
+36.15 	max_bond_dim	85
+36.15 	duration_ms	72050261
+
+36.2 	tr_rho	0.999999999999998
+36.2 	S_2	13.7923923895348
+36.2 	OSEE_center	2.11703100883922
+36.2 	max_bond_dim	76
+36.2 	duration_ms	72132024
+
+36.25 	tr_rho	1
+36.25 	S_2	13.7971351597
+36.25 	OSEE_center	2.10520130515956
+36.25 	max_bond_dim	76
+36.25 	duration_ms	72198052
+
+36.3 	tr_rho	1.00000000841582
+36.3 	S_2	13.8018595539408
+36.3 	OSEE_center	2.09303244994752
+36.3 	max_bond_dim	87
+36.3 	duration_ms	72261873
+
+36.35 	tr_rho	1
+36.35 	S_2	13.8065657120642
+36.35 	OSEE_center	2.08052841811738
+36.35 	max_bond_dim	77
+36.35 	duration_ms	72351241
+
+36.4 	tr_rho	1
+36.4 	S_2	13.8112537470437
+36.4 	OSEE_center	2.06769330533652
+36.4 	max_bond_dim	77
+36.4 	duration_ms	72427346
+
+36.45 	tr_rho	1.00000000182622
+36.45 	S_2	13.8159238440709
+36.45 	OSEE_center	2.05453132616995
+36.45 	max_bond_dim	87
+36.45 	duration_ms	72496746
+
+36.5 	tr_rho	0.999999999999999
+36.5 	S_2	13.8205761946006
+36.5 	OSEE_center	2.04104681221187
+36.5 	max_bond_dim	77
+36.5 	duration_ms	72585982
+
+36.55 	tr_rho	1
+36.55 	S_2	13.8252109962525
+36.55 	OSEE_center	2.02724421020648
+36.55 	max_bond_dim	79
+36.55 	duration_ms	72648558
+
+36.6 	tr_rho	0.999999999455348
+36.6 	S_2	13.8298284721647
+36.6 	OSEE_center	2.01312808002302
+36.6 	max_bond_dim	87
+36.6 	duration_ms	72701468
+
+36.65 	tr_rho	1
+36.65 	S_2	13.8344288525945
+36.65 	OSEE_center	1.99870309265921
+36.65 	max_bond_dim	77
+36.65 	duration_ms	72758266
+
+36.7 	tr_rho	1
+36.7 	S_2	13.8390123800177
+36.7 	OSEE_center	1.9839740282499
+36.7 	max_bond_dim	79
+36.7 	duration_ms	72810823
+
+36.75 	tr_rho	0.99999999468217
+36.75 	S_2	13.8435792996166
+36.75 	OSEE_center	1.96894577401017
+36.75 	max_bond_dim	89
+36.75 	duration_ms	72862580
+
+36.8 	tr_rho	0.999999999999998
+36.8 	S_2	13.8481298498768
+36.8 	OSEE_center	1.95362332223963
+36.8 	max_bond_dim	75
+36.8 	duration_ms	72909838
+
+36.85 	tr_rho	1
+36.85 	S_2	13.8526643007979
+36.85 	OSEE_center	1.93801176841614
+36.85 	max_bond_dim	76
+36.85 	duration_ms	72955633
+
+36.9 	tr_rho	0.999999994047577
+36.9 	S_2	13.8571828868108
+36.9 	OSEE_center	1.92211630926654
+36.9 	max_bond_dim	88
+36.9 	duration_ms	72998465
+
+36.95 	tr_rho	0.999999999999999
+36.95 	S_2	13.8616858340615
+36.95 	OSEE_center	1.90594224097435
+36.95 	max_bond_dim	73
+36.95 	duration_ms	73054232
+
+37 	tr_rho	1
+37 	S_2	13.8661733940037
+37 	OSEE_center	1.88949495753829
+37 	max_bond_dim	76
+37 	duration_ms	73104210
+
+37.05 	tr_rho	0.999999994875629
+37.05 	S_2	13.8705378984041
+37.05 	OSEE_center	1.90305181263957
+37.05 	max_bond_dim	86
+37.05 	duration_ms	73158081
+
+37.1 	tr_rho	1
+37.1 	S_2	13.87490204447
+37.1 	OSEE_center	1.91631202794924
+37.1 	max_bond_dim	72
+37.1 	duration_ms	73216066
+
+37.15 	tr_rho	0.999999999999999
+37.15 	S_2	13.8792660985199
+37.15 	OSEE_center	1.92927184221223
+37.15 	max_bond_dim	75
+37.15 	duration_ms	73261613
+
+37.2 	tr_rho	1.00000000068214
+37.2 	S_2	13.8836303055266
+37.2 	OSEE_center	1.94192760740587
+37.2 	max_bond_dim	87
+37.2 	duration_ms	73309806
+
+37.25 	tr_rho	1
+37.25 	S_2	13.8879949280553
+37.25 	OSEE_center	1.95427578663567
+37.25 	max_bond_dim	72
+37.25 	duration_ms	73369985
+
+37.3 	tr_rho	1
+37.3 	S_2	13.8923602272177
+37.3 	OSEE_center	1.96631295199951
+37.3 	max_bond_dim	72
+37.3 	duration_ms	73422215
+
+37.35 	tr_rho	1.00000000734547
+37.35 	S_2	13.8967264675326
+37.35 	OSEE_center	1.97803578250367
+37.35 	max_bond_dim	86
+37.35 	duration_ms	73469194
+
+37.4 	tr_rho	0.999999999999999
+37.4 	S_2	13.9010939229612
+37.4 	OSEE_center	1.98944106200427
+37.4 	max_bond_dim	73
+37.4 	duration_ms	73521445
+
+37.45 	tr_rho	1
+37.45 	S_2	13.9054628163731
+37.45 	OSEE_center	2.00052567715434
+37.45 	max_bond_dim	74
+37.45 	duration_ms	73567726
+
+37.5 	tr_rho	1.00000000539265
+37.5 	S_2	13.9098334047869
+37.5 	OSEE_center	2.01128661548541
+37.5 	max_bond_dim	85
+37.5 	duration_ms	73615700
+
+37.55 	tr_rho	1
+37.55 	S_2	13.9142059285308
+37.55 	OSEE_center	2.02172096353404
+37.55 	max_bond_dim	75
+37.55 	duration_ms	73678935
+
+37.6 	tr_rho	1
+37.6 	S_2	13.9185805801235
+37.6 	OSEE_center	2.03182590501713
+37.6 	max_bond_dim	76
+37.6 	duration_ms	73728065
+
+37.65 	tr_rho	1.00000001465201
+37.65 	S_2	13.9229575664989
+37.65 	OSEE_center	2.04159871919462
+37.65 	max_bond_dim	89
+37.65 	duration_ms	73772176
+
+37.7 	tr_rho	1
+37.7 	S_2	13.9273370928441
+37.7 	OSEE_center	2.05103677931962
+37.7 	max_bond_dim	75
+37.7 	duration_ms	73812948
+
+37.75 	tr_rho	1
+37.75 	S_2	13.9317192540281
+37.75 	OSEE_center	2.06013755119432
+37.75 	max_bond_dim	75
+37.75 	duration_ms	73847239
+
+37.8 	tr_rho	0.999999990775693
+37.8 	S_2	13.9361042084863
+37.8 	OSEE_center	2.06889859186787
+37.8 	max_bond_dim	89
+37.8 	duration_ms	73880189
+
+37.85 	tr_rho	1
+37.85 	S_2	13.9404920407587
+37.85 	OSEE_center	2.07731754824038
+37.85 	max_bond_dim	77
+37.85 	duration_ms	73923434
+
+37.9 	tr_rho	0.999999999999999
+37.9 	S_2	13.9448828630878
+37.9 	OSEE_center	2.08539215640607
+37.9 	max_bond_dim	77
+37.9 	duration_ms	73958868
+
+37.95 	tr_rho	0.99999999909097
+37.95 	S_2	13.94927670325
+37.95 	OSEE_center	2.09312024062008
+37.95 	max_bond_dim	88
+37.95 	duration_ms	73993321
+
+38 	tr_rho	1
+38 	S_2	13.9536735754892
+38 	OSEE_center	2.10049971225051
+38 	max_bond_dim	76
+38 	duration_ms	74033430
+
+38.05 	tr_rho	1
+38.05 	S_2	13.9580734682843
+38.05 	OSEE_center	2.10752856897123
+38.05 	max_bond_dim	76
+38.05 	duration_ms	74067382
+
+38.1 	tr_rho	0.999999998458729
+38.1 	S_2	13.9624763326917
+38.1 	OSEE_center	2.11420489422065
+38.1 	max_bond_dim	89
+38.1 	duration_ms	74100112
+
+38.15 	tr_rho	1
+38.15 	S_2	13.9668820859283
+38.15 	OSEE_center	2.12052685684215
+38.15 	max_bond_dim	77
+38.15 	duration_ms	74137625
+
+38.2 	tr_rho	0.999999999999999
+38.2 	S_2	13.9712906214639
+38.2 	OSEE_center	2.12649271078964
+38.2 	max_bond_dim	78
+38.2 	duration_ms	74168729
+
+38.25 	tr_rho	0.999999998340031
+38.25 	S_2	13.9757017903265
+38.25 	OSEE_center	2.13210079477531
+38.25 	max_bond_dim	88
+38.25 	duration_ms	74197485
+
+38.3 	tr_rho	0.999999999999999
+38.3 	S_2	13.9801154100379
+38.3 	OSEE_center	2.13734953221864
+38.3 	max_bond_dim	76
+38.3 	duration_ms	74237129
+
+38.35 	tr_rho	1
+38.35 	S_2	13.9845312749512
+38.35 	OSEE_center	2.14223743152733
+38.35 	max_bond_dim	76
+38.35 	duration_ms	74270632
+
+38.4 	tr_rho	0.999999990464153
+38.4 	S_2	13.9889491366408
+38.4 	OSEE_center	2.14676308647526
+38.4 	max_bond_dim	91
+38.4 	duration_ms	74304844
+
+38.45 	tr_rho	1
+38.45 	S_2	13.9933686985337
+38.45 	OSEE_center	2.15092517666068
+38.45 	max_bond_dim	76
+38.45 	duration_ms	74349180
+
+38.5 	tr_rho	1
+38.5 	S_2	13.9977186228957
+38.5 	OSEE_center	2.14349268018426
+38.5 	max_bond_dim	74
+38.5 	duration_ms	74382643
+
+38.55 	tr_rho	1.00000000017795
+38.55 	S_2	14.0020513820979
+38.55 	OSEE_center	2.13570007117674
+38.55 	max_bond_dim	87
+38.55 	duration_ms	74412114
+
+38.6 	tr_rho	1
+38.6 	S_2	14.0063667156591
+38.6 	OSEE_center	2.12754982945986
+38.6 	max_bond_dim	75
+38.6 	duration_ms	74447277
+
+38.65 	tr_rho	1
+38.65 	S_2	14.0106643946007
+38.65 	OSEE_center	2.11904455658324
+38.65 	max_bond_dim	73
+38.65 	duration_ms	74479625
+
+38.7 	tr_rho	1.00000000611112
+38.7 	S_2	14.0149442238975
+38.7 	OSEE_center	2.11018697579624
+38.7 	max_bond_dim	87
+38.7 	duration_ms	74510576
+
+38.75 	tr_rho	1
+38.75 	S_2	14.0192060535108
+38.75 	OSEE_center	2.10097993183055
+38.75 	max_bond_dim	73
+38.75 	duration_ms	74550461
+
+38.8 	tr_rho	1
+38.8 	S_2	14.0234497299327
+38.8 	OSEE_center	2.09142639046999
+38.8 	max_bond_dim	73
+38.8 	duration_ms	74585216
+
+38.85 	tr_rho	1.00000000398093
+38.85 	S_2	14.0276751693249
+38.85 	OSEE_center	2.08152943821738
+38.85 	max_bond_dim	83
+38.85 	duration_ms	74614709
+
+38.9 	tr_rho	1
+38.9 	S_2	14.0318823162861
+38.9 	OSEE_center	2.07129228195962
+38.9 	max_bond_dim	71
+38.9 	duration_ms	74655051
+
+38.95 	tr_rho	1
+38.95 	S_2	14.0360711237039
+38.95 	OSEE_center	2.06071824823571
+38.95 	max_bond_dim	71
+38.95 	duration_ms	74686550
+
+39 	tr_rho	1.00000000204204
+39 	S_2	14.0402415997586
+39 	OSEE_center	2.049810782289
+39 	max_bond_dim	85
+39 	duration_ms	74716629
+
+39.05 	tr_rho	1
+39.05 	S_2	14.0443937792537
+39.05 	OSEE_center	2.03857344706883
+39.05 	max_bond_dim	72
+39.05 	duration_ms	74758003
+
+39.1 	tr_rho	1
+39.1 	S_2	14.048527714098
+39.1 	OSEE_center	2.02700992222069
+39.1 	max_bond_dim	72
+39.1 	duration_ms	74788667
+
+39.15 	tr_rho	0.999999995884144
+39.15 	S_2	14.0526434964738
+39.15 	OSEE_center	2.01512400302845
+39.15 	max_bond_dim	86
+39.15 	duration_ms	74826571
+
+39.2 	tr_rho	1
+39.2 	S_2	14.0567412327354
+39.2 	OSEE_center	2.00291959886523
+39.2 	max_bond_dim	76
+39.2 	duration_ms	74872807
+
+39.25 	tr_rho	1
+39.25 	S_2	14.0608210786608
+39.25 	OSEE_center	1.99040073131157
+39.25 	max_bond_dim	77
+39.25 	duration_ms	74909472
+
+39.3 	tr_rho	1.00000000060268
+39.3 	S_2	14.064883188195
+39.3 	OSEE_center	1.97757153275951
+39.3 	max_bond_dim	86
+39.3 	duration_ms	74944941
+
+39.35 	tr_rho	1
+39.35 	S_2	14.0689277454349
+39.35 	OSEE_center	1.96443624465826
+39.35 	max_bond_dim	78
+39.35 	duration_ms	74990008
+
+39.4 	tr_rho	1
+39.4 	S_2	14.0729549491776
+39.4 	OSEE_center	1.95099921574978
+39.4 	max_bond_dim	78
+39.4 	duration_ms	75027741
+
+39.45 	tr_rho	0.99999999975729
+39.45 	S_2	14.0769650178215
+39.45 	OSEE_center	1.93726490023114
+39.45 	max_bond_dim	87
+39.45 	duration_ms	75060776
+
+39.5 	tr_rho	1
+39.5 	S_2	14.0809581813622
+39.5 	OSEE_center	1.9232378559477
+39.5 	max_bond_dim	77
+39.5 	duration_ms	75103456
+
+39.55 	tr_rho	1
+39.55 	S_2	14.084934681789
+39.55 	OSEE_center	1.90892274263815
+39.55 	max_bond_dim	78
+39.55 	duration_ms	75138132
+
+39.6 	tr_rho	0.999999996951782
+39.6 	S_2	14.088894767287
+39.6 	OSEE_center	1.89432432011159
+39.6 	max_bond_dim	86
+39.6 	duration_ms	75168715
+
+39.65 	tr_rho	1
+39.65 	S_2	14.0928386850662
+39.65 	OSEE_center	1.87944744650902
+39.65 	max_bond_dim	76
+39.65 	duration_ms	75208992
+
+39.7 	tr_rho	1
+39.7 	S_2	14.0967667021448
+39.7 	OSEE_center	1.86429707666428
+39.7 	max_bond_dim	79
+39.7 	duration_ms	75240363
+
+39.75 	tr_rho	0.999999990872687
+39.75 	S_2	14.1006790656114
+39.75 	OSEE_center	1.84887826044274
+39.75 	max_bond_dim	87
+39.75 	duration_ms	75272610
+
+39.8 	tr_rho	1
+39.8 	S_2	14.1045760055386
+39.8 	OSEE_center	1.83319614121541
+39.8 	max_bond_dim	75
+39.8 	duration_ms	75315596
+
+39.85 	tr_rho	1
+39.85 	S_2	14.1084577986185
+39.85 	OSEE_center	1.81725595448707
+39.85 	max_bond_dim	75
+39.85 	duration_ms	75345794
+
+39.9 	tr_rho	0.999999988699761
+39.9 	S_2	14.11232465543
+39.9 	OSEE_center	1.80106302653909
+39.9 	max_bond_dim	61
+39.9 	duration_ms	75378244
+
+39.95 	tr_rho	1
+39.95 	S_2	14.1164345319096
+39.95 	OSEE_center	1.81408546013112
+39.95 	max_bond_dim	68
+39.95 	duration_ms	75406053
+
+40 	tr_rho	1
+40 	S_2	14.1205440980627
+40 	OSEE_center	1.82682663016432
+40 	max_bond_dim	75
+40 	duration_ms	75430604
+
+40.05 	tr_rho	1.0000000012423
+40.05 	S_2	14.124653569465
+40.05 	OSEE_center	1.83928285772512
+40.05 	max_bond_dim	89
+40.05 	duration_ms	75457759
+
+40.1 	tr_rho	1
+40.1 	S_2	14.1287631968753
+40.1 	OSEE_center	1.85145057224526
+40.1 	max_bond_dim	73
+40.1 	duration_ms	75499925
+
+40.15 	tr_rho	1
+40.15 	S_2	14.1328732303736
+40.15 	OSEE_center	1.86332630977139
+40.15 	max_bond_dim	74
+40.15 	duration_ms	75531597
+
+40.2 	tr_rho	1.00000000774304
+40.2 	S_2	14.1369839310014
+40.2 	OSEE_center	1.87490671128695
+40.2 	max_bond_dim	86
+40.2 	duration_ms	75563187
+
+40.25 	tr_rho	1
+40.25 	S_2	14.1410955730411
+40.25 	OSEE_center	1.88618852101831
+40.25 	max_bond_dim	74
+40.25 	duration_ms	75601447
+
+40.3 	tr_rho	1
+40.3 	S_2	14.1452083814097
+40.3 	OSEE_center	1.89716858471375
+40.3 	max_bond_dim	75
+40.3 	duration_ms	75634296
+
+40.35 	tr_rho	1.00000000575507
+40.35 	S_2	14.1493226214995
+40.35 	OSEE_center	1.90784384803097
+40.35 	max_bond_dim	89
+40.35 	duration_ms	75667293
+
+40.4 	tr_rho	0.999999999999999
+40.4 	S_2	14.1534385457837
+40.4 	OSEE_center	1.91821135493201
+40.4 	max_bond_dim	76
+40.4 	duration_ms	75708739
+
+40.45 	tr_rho	1
+40.45 	S_2	14.1575563604183
+40.45 	OSEE_center	1.92826824608665
+40.45 	max_bond_dim	77
+40.45 	duration_ms	75741349
+
+40.5 	tr_rho	1.00000000316594
+40.5 	S_2	14.1616762916173
+40.5 	OSEE_center	1.93801175742453
+40.5 	max_bond_dim	88
+40.5 	duration_ms	75774467
+
+40.55 	tr_rho	0.999999999999999
+40.55 	S_2	14.1657985433998
+40.55 	OSEE_center	1.94743921872587
+40.55 	max_bond_dim	74
+40.55 	duration_ms	75818059
+
+40.6 	tr_rho	1
+40.6 	S_2	14.1699232813889
+40.6 	OSEE_center	1.95654805227315
+40.6 	max_bond_dim	75
+40.6 	duration_ms	75851651
+
+40.65 	tr_rho	1.00000000036304
+40.65 	S_2	14.1740506685898
+40.65 	OSEE_center	1.96533577169836
+40.65 	max_bond_dim	89
+40.65 	duration_ms	75882701
+
+40.7 	tr_rho	1
+40.7 	S_2	14.1781808387858
+40.7 	OSEE_center	1.97379998079829
+40.7 	max_bond_dim	75
+40.7 	duration_ms	75926632
+
+40.75 	tr_rho	1
+40.75 	S_2	14.1823138981006
+40.75 	OSEE_center	1.98193837224639
+40.75 	max_bond_dim	76
+40.75 	duration_ms	75961721
+
+40.8 	tr_rho	0.999999998074496
+40.8 	S_2	14.1864499276858
+40.8 	OSEE_center	1.98974872715297
+40.8 	max_bond_dim	88
+40.8 	duration_ms	75991549
+
+40.85 	tr_rho	1
+40.85 	S_2	14.1905889755465
+40.85 	OSEE_center	1.997228914176
+40.85 	max_bond_dim	77
+40.85 	duration_ms	76031090
+
+40.9 	tr_rho	1
+40.9 	S_2	14.1947310714139
+40.9 	OSEE_center	2.00437688845362
+40.9 	max_bond_dim	77
+40.9 	duration_ms	76064402
+
+40.95 	tr_rho	0.999999999266633
+40.95 	S_2	14.1988762025086
+40.95 	OSEE_center	2.01119069093145
+40.95 	max_bond_dim	86
+40.95 	duration_ms	76096971
+
+41 	tr_rho	0.999999999999999
+41 	S_2	14.2030243266468
+41 	OSEE_center	2.01766844781455
+41 	max_bond_dim	76
+41 	duration_ms	76138560
+
+41.05 	tr_rho	0.999999999999999
+41.05 	S_2	14.2071753735807
+41.05 	OSEE_center	2.02380837016803
+41.05 	max_bond_dim	79
+41.05 	duration_ms	76169508
+
+41.1 	tr_rho	0.999999999189857
+41.1 	S_2	14.2113292357069
+41.1 	OSEE_center	2.02960875367618
+41.1 	max_bond_dim	89
+41.1 	duration_ms	76200854
+
+41.15 	tr_rho	1
+41.15 	S_2	14.2154857720031
+41.15 	OSEE_center	2.03506797820987
+41.15 	max_bond_dim	80
+41.15 	duration_ms	76239819
+
+41.2 	tr_rho	1
+41.2 	S_2	14.2196448129548
+41.2 	OSEE_center	2.04018450765041
+41.2 	max_bond_dim	79
+41.2 	duration_ms	76270770
+
+41.25 	tr_rho	0.999999993624653
+41.25 	S_2	14.2238061508652
+41.25 	OSEE_center	2.04495689015541
+41.25 	max_bond_dim	88
+41.25 	duration_ms	76302749
+
+41.3 	tr_rho	1
+41.3 	S_2	14.2279695338967
+41.3 	OSEE_center	2.04938375843153
+41.3 	max_bond_dim	77
+41.3 	duration_ms	76342779
+
+41.35 	tr_rho	1
+41.35 	S_2	14.2322554453756
+41.35 	OSEE_center	2.0417238613311
+41.35 	max_bond_dim	78
+41.35 	duration_ms	76376355
+
+41.4 	tr_rho	0.999999998436503
+41.4 	S_2	14.2365240621988
+41.4 	OSEE_center	2.03372359556069
+41.4 	max_bond_dim	88
+41.4 	duration_ms	76408141
+
+41.45 	tr_rho	1
+41.45 	S_2	14.2407751634043
+41.45 	OSEE_center	2.02538556586786
+41.45 	max_bond_dim	75
+41.45 	duration_ms	76443173
+
+41.5 	tr_rho	1
+41.5 	S_2	14.245008570876
+41.5 	OSEE_center	2.01671249169503
+41.5 	max_bond_dim	73
+41.5 	duration_ms	76472518
+
+41.55 	tr_rho	1.00000000377618
+41.55 	S_2	14.249224130661
+41.55 	OSEE_center	2.00770720682957
+41.55 	max_bond_dim	86
+41.55 	duration_ms	76500050
+
+41.6 	tr_rho	0.999999999999999
+41.6 	S_2	14.253421732995
+41.6 	OSEE_center	1.99837265882016
+41.6 	max_bond_dim	73
+41.6 	duration_ms	76539089
+
+41.65 	tr_rho	0.999999999999999
+41.65 	S_2	14.257601278724
+41.65 	OSEE_center	1.98871190859204
+41.65 	max_bond_dim	77
+41.65 	duration_ms	76570542
+
+41.7 	tr_rho	1.00000000242295
+41.7 	S_2	14.2617627241977
+41.7 	OSEE_center	1.97872813005049
+41.7 	max_bond_dim	86
+41.7 	duration_ms	76600322
+
+41.75 	tr_rho	0.999999999999999
+41.75 	S_2	14.2659060552293
+41.75 	OSEE_center	1.9684246092734
+41.75 	max_bond_dim	73
+41.75 	duration_ms	76640057
+
+41.8 	tr_rho	1
+41.8 	S_2	14.2700312744153
+41.8 	OSEE_center	1.95780474358238
+41.8 	max_bond_dim	73
+41.8 	duration_ms	76671394
+
+41.85 	tr_rho	1.00000000580606
+41.85 	S_2	14.2741384291874
+41.85 	OSEE_center	1.94687204053342
+41.85 	max_bond_dim	87
+41.85 	duration_ms	76702723
+
+41.9 	tr_rho	1
+41.9 	S_2	14.2782276028064
+41.9 	OSEE_center	1.93563011692276
+41.9 	max_bond_dim	73
+41.9 	duration_ms	76743379
+
+41.95 	tr_rho	1
+41.95 	S_2	14.2822988712579
+41.95 	OSEE_center	1.92408269786552
+41.95 	max_bond_dim	73
+41.95 	duration_ms	76777105
+
+42 	tr_rho	1.00000000549502
+42 	S_2	14.2863523713146
+42 	OSEE_center	1.91223361533276
+42 	max_bond_dim	86
+42 	duration_ms	76808456
+
+42.05 	tr_rho	1
+42.05 	S_2	14.2903882632431
+42.05 	OSEE_center	1.90008680632139
+42.05 	max_bond_dim	76
+42.05 	duration_ms	76848087
+
+42.1 	tr_rho	1
+42.1 	S_2	14.2944066964332
+42.1 	OSEE_center	1.88764631171692
+42.1 	max_bond_dim	76
+42.1 	duration_ms	76885130
+
+42.15 	tr_rho	1.00000000077339
+42.15 	S_2	14.2984078731426
+42.15 	OSEE_center	1.87491627473174
+42.15 	max_bond_dim	85
+42.15 	duration_ms	76922101
+
+42.2 	tr_rho	1
+42.2 	S_2	14.3023920036828
+42.2 	OSEE_center	1.86190093934976
+42.2 	max_bond_dim	74
+42.2 	duration_ms	76961649
+
+42.25 	tr_rho	1
+42.25 	S_2	14.3063593087502
+42.25 	OSEE_center	1.84860464884595
+42.25 	max_bond_dim	75
+42.25 	duration_ms	76990974
+
+42.3 	tr_rho	1.00000000000548
+42.3 	S_2	14.3103100260142
+42.3 	OSEE_center	1.83503184422776
+42.3 	max_bond_dim	83
+42.3 	duration_ms	77022666
+
+42.35 	tr_rho	1
+42.35 	S_2	14.3142444011832
+42.35 	OSEE_center	1.82118706276269
+42.35 	max_bond_dim	75
+42.35 	duration_ms	77061140
+
+42.4 	tr_rho	1
+42.4 	S_2	14.3181626865704
+42.4 	OSEE_center	1.80707493659102
+42.4 	max_bond_dim	75
+42.4 	duration_ms	77095768
+
+42.45 	tr_rho	0.999999995998567
+42.45 	S_2	14.3220651381993
+42.45 	OSEE_center	1.79270019130287
+42.45 	max_bond_dim	90
+42.45 	duration_ms	77128495
+
+42.5 	tr_rho	1
+42.5 	S_2	14.3259520046836
+42.5 	OSEE_center	1.77806764463132
+42.5 	max_bond_dim	74
+42.5 	duration_ms	77170571
+
+42.55 	tr_rho	1
+42.55 	S_2	14.3298235561137
+42.55 	OSEE_center	1.76318220527052
+42.55 	max_bond_dim	74
+42.55 	duration_ms	77202093
+
+42.6 	tr_rho	0.999999995718256
+42.6 	S_2	14.3336800329162
+42.6 	OSEE_center	1.74804887169585
+42.6 	max_bond_dim	91
+42.6 	duration_ms	77234982
+
+42.65 	tr_rho	0.999999999999999
+42.65 	S_2	14.337521666129
+42.65 	OSEE_center	1.73267273113348
+42.65 	max_bond_dim	73
+42.65 	duration_ms	77274498
+
+42.7 	tr_rho	1
+42.7 	S_2	14.3413487005159
+42.7 	OSEE_center	1.71705895869379
+42.7 	max_bond_dim	74
+42.7 	duration_ms	77309308
+
+42.75 	tr_rho	0.999999988724325
+42.75 	S_2	14.3451613400899
+42.75 	OSEE_center	1.70121281652492
+42.75 	max_bond_dim	61
+42.75 	duration_ms	77338247
+
+42.8 	tr_rho	1
+42.8 	S_2	14.3488551363492
+42.8 	OSEE_center	1.71391887116731
+42.8 	max_bond_dim	68
+42.8 	duration_ms	77366308
+
+42.85 	tr_rho	1
+42.85 	S_2	14.3525485071043
+42.85 	OSEE_center	1.72636109801014
+42.85 	max_bond_dim	73
+42.85 	duration_ms	77392583
+
+42.9 	tr_rho	1.00000000379347
+42.9 	S_2	14.3562416487763
+42.9 	OSEE_center	1.73853581440689
+42.9 	max_bond_dim	85
+42.9 	duration_ms	77418413
+
+42.95 	tr_rho	0.999999999999999
+42.95 	S_2	14.3599348016705
+42.95 	OSEE_center	1.7504394442818
+42.95 	max_bond_dim	73
+42.95 	duration_ms	77459878
+
+43 	tr_rho	1
+43 	S_2	14.3636281938866
+43 	OSEE_center	1.76206851670825
+43 	max_bond_dim	75
+43 	duration_ms	77494304
+
+43.05 	tr_rho	1.00000000432441
+43.05 	S_2	14.3673220835877
+43.05 	OSEE_center	1.77341966454041
+43.05 	max_bond_dim	87
+43.05 	duration_ms	77528559
+
+43.1 	tr_rho	1
+43.1 	S_2	14.3710167341095
+43.1 	OSEE_center	1.78448962301218
+43.1 	max_bond_dim	75
+43.1 	duration_ms	77568367
+
+43.15 	tr_rho	1
+43.15 	S_2	14.3747123837812
+43.15 	OSEE_center	1.79527522827911
+43.15 	max_bond_dim	75
+43.15 	duration_ms	77601325
+
+43.2 	tr_rho	1.00000000571851
+43.2 	S_2	14.3784092946989
+43.2 	OSEE_center	1.80577341606906
+43.2 	max_bond_dim	86
+43.2 	duration_ms	77635347
+
+43.25 	tr_rho	1
+43.25 	S_2	14.382107726526
+43.25 	OSEE_center	1.81598122030831
+43.25 	max_bond_dim	75
+43.25 	duration_ms	77678033
+
+43.3 	tr_rho	1
+43.3 	S_2	14.3858078964605
+43.3 	OSEE_center	1.82589577172383
+43.3 	max_bond_dim	76
+43.3 	duration_ms	77712801
+
+43.35 	tr_rho	1.00000000430969
+43.35 	S_2	14.3895100450199
+43.35 	OSEE_center	1.83551429658242
+43.35 	max_bond_dim	87
+43.35 	duration_ms	77745190
+
+43.4 	tr_rho	1
+43.4 	S_2	14.3932143962023
+43.4 	OSEE_center	1.84483411543492
+43.4 	max_bond_dim	76
+43.4 	duration_ms	77785791
+
+43.45 	tr_rho	0.999999999999999
+43.45 	S_2	14.3969211319101
+43.45 	OSEE_center	1.85385264187025
+43.45 	max_bond_dim	75
+43.45 	duration_ms	77819836
+
+43.5 	tr_rho	1.00000000105992
+43.5 	S_2	14.4006304412344
+43.5 	OSEE_center	1.8625673814482
+43.5 	max_bond_dim	91
+43.5 	duration_ms	77851111
+
+43.55 	tr_rho	0.999999999999999
+43.55 	S_2	14.4043424858454
+43.55 	OSEE_center	1.87097593069323
+43.55 	max_bond_dim	77
+43.55 	duration_ms	77891714
+
+43.6 	tr_rho	1
+43.6 	S_2	14.408057398048
+43.6 	OSEE_center	1.87907597595566
+43.6 	max_bond_dim	78
+43.6 	duration_ms	77924754
+
+43.65 	tr_rho	1.00000000570338
+43.65 	S_2	14.4117752916439
+43.65 	OSEE_center	1.88686529233569
+43.65 	max_bond_dim	90
+43.65 	duration_ms	77957280
+
+43.7 	tr_rho	1
+43.7 	S_2	14.4154962630856
+43.7 	OSEE_center	1.89434174342159
+43.7 	max_bond_dim	76
+43.7 	duration_ms	78000097
+
+43.75 	tr_rho	1
+43.75 	S_2	14.4192203465113
+43.75 	OSEE_center	1.90150328038844
+43.75 	max_bond_dim	76
+43.75 	duration_ms	78034881
+
+43.8 	tr_rho	1.00000000065169
+43.8 	S_2	14.4229475808198
+43.8 	OSEE_center	1.90834794110203
+43.8 	max_bond_dim	89
+43.8 	duration_ms	78067220
+
+43.85 	tr_rho	1
+43.85 	S_2	14.426677964197
+43.85 	OSEE_center	1.91487384942731
+43.85 	max_bond_dim	78
+43.85 	duration_ms	78105113
+
+43.9 	tr_rho	1
+43.9 	S_2	14.4304114594168
+43.9 	OSEE_center	1.92107921468726
+43.9 	max_bond_dim	78
+43.9 	duration_ms	78134966
+
+43.95 	tr_rho	1.00000000058543
+43.95 	S_2	14.4341480008939
+43.95 	OSEE_center	1.92696233135444
+43.95 	max_bond_dim	87
+43.95 	duration_ms	78167168
+
+44 	tr_rho	1
+44 	S_2	14.4378874900977
+44 	OSEE_center	1.93252157877313
+44 	max_bond_dim	77
+44 	duration_ms	78208543
+
+44.05 	tr_rho	1
+44.05 	S_2	14.4416297918355
+44.05 	OSEE_center	1.93775542065652
+44.05 	max_bond_dim	78
+44.05 	duration_ms	78243589
+
+44.1 	tr_rho	0.999999996441435
+44.1 	S_2	14.4453747411233
+44.1 	OSEE_center	1.94266240489234
+44.1 	max_bond_dim	87
+44.1 	duration_ms	78276478
+
+44.15 	tr_rho	1
+44.15 	S_2	14.4491221314181
+44.15 	OSEE_center	1.94724116373491
+44.15 	max_bond_dim	75
+44.15 	duration_ms	78313542
+
+44.2 	tr_rho	0.999999999999999
+44.2 	S_2	14.4528717445038
+44.2 	OSEE_center	1.95149041398882
+44.2 	max_bond_dim	75
+44.2 	duration_ms	78346009
+
+44.25 	tr_rho	0.999999995688231
+44.25 	S_2	14.4565554278669
+44.25 	OSEE_center	1.94363067752018
+44.25 	max_bond_dim	83
+44.25 	duration_ms	78379625
+
+44.3 	tr_rho	0.999999999999999
+44.3 	S_2	14.4602221678992
+44.3 	OSEE_center	1.93545157801817
+44.3 	max_bond_dim	72
+44.3 	duration_ms	78419743
+
+44.35 	tr_rho	1
+44.35 	S_2	14.4638717799693
+44.35 	OSEE_center	1.92695582817668
+44.35 	max_bond_dim	73
+44.35 	duration_ms	78451776
+
+44.4 	tr_rho	1.00000000302421
+44.4 	S_2	14.4675040871546
+44.4 	OSEE_center	1.91814624567093
+44.4 	max_bond_dim	82
+44.4 	duration_ms	78482995
+
+44.45 	tr_rho	1
+44.45 	S_2	14.4711189607522
+44.45 	OSEE_center	1.90902575258193
+44.45 	max_bond_dim	72
+44.45 	duration_ms	78520442
+
+44.5 	tr_rho	1
+44.5 	S_2	14.4747162873802
+44.5 	OSEE_center	1.89959737466068
+44.5 	max_bond_dim	73
+44.5 	duration_ms	78548630
+
+44.55 	tr_rho	1.00000000199037
+44.55 	S_2	14.4782960048831
+44.55 	OSEE_center	1.88986424081952
+44.55 	max_bond_dim	82
+44.55 	duration_ms	78572493
+
+44.6 	tr_rho	1
+44.6 	S_2	14.4818580815819
+44.6 	OSEE_center	1.87982958262941
+44.6 	max_bond_dim	72
+44.6 	duration_ms	78599146
+
+44.65 	tr_rho	1
+44.65 	S_2	14.4854025056627
+44.65 	OSEE_center	1.86949673344524
+44.65 	max_bond_dim	72
+44.65 	duration_ms	78622257
+
+44.7 	tr_rho	1.0000000010019
+44.7 	S_2	14.4889293081027
+44.7 	OSEE_center	1.85886912737946
+44.7 	max_bond_dim	85
+44.7 	duration_ms	78644608
+
+44.75 	tr_rho	1
+44.75 	S_2	14.4924385475943
+44.75 	OSEE_center	1.84795029829108
+44.75 	max_bond_dim	73
+44.75 	duration_ms	78673489
+
+44.8 	tr_rho	0.999999999999999
+44.8 	S_2	14.4959303051606
+44.8 	OSEE_center	1.83674387882734
+44.8 	max_bond_dim	73
+44.8 	duration_ms	78696628
+
+44.85 	tr_rho	0.999999997024035
+44.85 	S_2	14.4994046946332
+44.85 	OSEE_center	1.82525359950765
+44.85 	max_bond_dim	85
+44.85 	duration_ms	78722025
+
+44.9 	tr_rho	1
+44.9 	S_2	14.5028618469528
+44.9 	OSEE_center	1.81348328741269
+44.9 	max_bond_dim	75
+44.9 	duration_ms	78750508
+
+44.95 	tr_rho	0.999999999999999
+44.95 	S_2	14.5063019340795
+44.95 	OSEE_center	1.80143686443423
+44.95 	max_bond_dim	75
+44.95 	duration_ms	78776113
+
+45 	tr_rho	1.00000000078623
+45 	S_2	14.5097251311888
+45 	OSEE_center	1.78911834621659
+45 	max_bond_dim	88
+45 	duration_ms	78799431
+
+45.05 	tr_rho	1
+45.05 	S_2	14.5131316398051
+45.05 	OSEE_center	1.77653184089117
+45.05 	max_bond_dim	77
+45.05 	duration_ms	78826567
+
+45.1 	tr_rho	1
+45.1 	S_2	14.5165216731209
+45.1 	OSEE_center	1.76368154777809
+45.1 	max_bond_dim	78
+45.1 	duration_ms	78851731
+
+45.15 	tr_rho	0.999999999952753
+45.15 	S_2	14.5198954629343
+45.15 	OSEE_center	1.75057175606198
+45.15 	max_bond_dim	86
+45.15 	duration_ms	78875420
+
+45.2 	tr_rho	1
+45.2 	S_2	14.5232532505756
+45.2 	OSEE_center	1.73720684356526
+45.2 	max_bond_dim	78
+45.2 	duration_ms	78901363
+
+45.25 	tr_rho	1
+45.25 	S_2	14.5265952860899
+45.25 	OSEE_center	1.72359127562432
+45.25 	max_bond_dim	79
+45.25 	duration_ms	78923885
+
+45.3 	tr_rho	0.999999997882906
+45.3 	S_2	14.5299218247977
+45.3 	OSEE_center	1.70972960393265
+45.3 	max_bond_dim	89
+45.3 	duration_ms	78948845
+
+45.35 	tr_rho	1
+45.35 	S_2	14.5332331205121
+45.35 	OSEE_center	1.69562646550613
+45.35 	max_bond_dim	78
+45.35 	duration_ms	78977797
+
+45.4 	tr_rho	1
+45.4 	S_2	14.5365294393596
+45.4 	OSEE_center	1.68128658177618
+45.4 	max_bond_dim	78
+45.4 	duration_ms	79000931
+
+45.45 	tr_rho	0.99999999720616
+45.45 	S_2	14.5398110313688
+45.45 	OSEE_center	1.66671475767122
+45.45 	max_bond_dim	89
+45.45 	duration_ms	79021725
+
+45.5 	tr_rho	1
+45.5 	S_2	14.543078138774
+45.5 	OSEE_center	1.65191588085043
+45.5 	max_bond_dim	76
+45.5 	duration_ms	79046497
+
+45.55 	tr_rho	1
+45.55 	S_2	14.5463310111
+45.55 	OSEE_center	1.63689492107546
+45.55 	max_bond_dim	77
+45.55 	duration_ms	79068109
+
+45.6 	tr_rho	0.99999999623723
+45.6 	S_2	14.5495698686465
+45.6 	OSEE_center	1.62165692959759
+45.6 	max_bond_dim	89
+45.6 	duration_ms	79091509
+
+45.65 	tr_rho	1
+45.65 	S_2	14.5527949143739
+45.65 	OSEE_center	1.60620703870611
+45.65 	max_bond_dim	75
+45.65 	duration_ms	79118266
+
+45.7 	tr_rho	1
+45.7 	S_2	14.5562721444104
+45.7 	OSEE_center	1.61832900614677
+45.7 	max_bond_dim	75
+45.7 	duration_ms	79140580
+
+45.75 	tr_rho	0.999999999194663
+45.75 	S_2	14.5597488779809
+45.75 	OSEE_center	1.63020342260086
+45.75 	max_bond_dim	86
+45.75 	duration_ms	79162364
+
+45.8 	tr_rho	0.999999999999999
+45.8 	S_2	14.5632253231309
+45.8 	OSEE_center	1.6418267045441
+45.8 	max_bond_dim	72
+45.8 	duration_ms	79188326
+
+45.85 	tr_rho	1
+45.85 	S_2	14.5667017065816
+45.85 	OSEE_center	1.65319536844972
+45.85 	max_bond_dim	74
+45.85 	duration_ms	79209937
+
+45.9 	tr_rho	0.999999999595571
+45.9 	S_2	14.5701782610168
+45.9 	OSEE_center	1.66430602977926
+45.9 	max_bond_dim	84
+45.9 	duration_ms	79232537
+
+45.95 	tr_rho	1
+45.95 	S_2	14.5736552276162
+45.95 	OSEE_center	1.67515540200357
+45.95 	max_bond_dim	74
+45.95 	duration_ms	79260932
+
+46 	tr_rho	1
+46 	S_2	14.5771328545773
+46 	OSEE_center	1.68574029557606
+46 	max_bond_dim	75
+46 	duration_ms	79283338
+
+46.05 	tr_rho	1.00000000331555
+46.05 	S_2	14.5806113891972
+46.05 	OSEE_center	1.69605761695979
+46.05 	max_bond_dim	87
+46.05 	duration_ms	79305399
+
+46.1 	tr_rho	1
+46.1 	S_2	14.5840910847062
+46.1 	OSEE_center	1.70610436764365
+46.1 	max_bond_dim	76
+46.1 	duration_ms	79332193
+
+46.15 	tr_rho	1
+46.15 	S_2	14.5875721699748
+46.15 	OSEE_center	1.7158776431264
+46.15 	max_bond_dim	76
+46.15 	duration_ms	79355330
+
+46.2 	tr_rho	1.00000000239635
+46.2 	S_2	14.5910548864127
+46.2 	OSEE_center	1.72537463199577
+46.2 	max_bond_dim	86
+46.2 	duration_ms	79378460
+
+46.25 	tr_rho	1
+46.25 	S_2	14.5945394634469
+46.25 	OSEE_center	1.73459261500091
+46.25 	max_bond_dim	75
+46.25 	duration_ms	79406772
+
+46.3 	tr_rho	1
+46.3 	S_2	14.5980261033044
+46.3 	OSEE_center	1.74352896411485
+46.3 	max_bond_dim	76
+46.3 	duration_ms	79432386
+
+46.35 	tr_rho	1.00000001008297
+46.35 	S_2	14.6015150072409
+46.35 	OSEE_center	1.75218114172159
+46.35 	max_bond_dim	85
+46.35 	duration_ms	79456098
+
+46.4 	tr_rho	1
+46.4 	S_2	14.6050063741091
+46.4 	OSEE_center	1.76054669982685
+46.4 	max_bond_dim	75
+46.4 	duration_ms	79481295
+
+46.45 	tr_rho	1
+46.45 	S_2	14.6085003222508
+46.45 	OSEE_center	1.76862327930781
+46.45 	max_bond_dim	75
+46.45 	duration_ms	79502609
+
+46.5 	tr_rho	0.999999993991386
+46.5 	S_2	14.6119970084079
+46.5 	OSEE_center	1.77640860908187
+46.5 	max_bond_dim	87
+46.5 	duration_ms	79524257
+
+46.55 	tr_rho	0.999999999999999
+46.55 	S_2	14.6154965331053
+46.55 	OSEE_center	1.78390050528775
+46.55 	max_bond_dim	75
+46.55 	duration_ms	79549180
+
+46.6 	tr_rho	1
+46.6 	S_2	14.6189990071429
+46.6 	OSEE_center	1.79109687123523
+46.6 	max_bond_dim	76
+46.6 	duration_ms	79571728
+
+46.65 	tr_rho	0.999999998318438
+46.65 	S_2	14.6225044779768
+46.65 	OSEE_center	1.79799569678405
+46.65 	max_bond_dim	85
+46.65 	duration_ms	79593348
+
+46.7 	tr_rho	1
+46.7 	S_2	14.6260129730202
+46.7 	OSEE_center	1.80459505759189
+46.7 	max_bond_dim	75
+46.7 	duration_ms	79623272
+
+46.75 	tr_rho	0.999999999999999
+46.75 	S_2	14.6295244999155
+46.75 	OSEE_center	1.81089311454181
+46.75 	max_bond_dim	76
+46.75 	duration_ms	79650026
+
+46.8 	tr_rho	0.99999999914371
+46.8 	S_2	14.6330390253957
+46.8 	OSEE_center	1.81688811339885
+46.8 	max_bond_dim	87
+46.8 	duration_ms	79672718
+
+46.85 	tr_rho	0.999999999999999
+46.85 	S_2	14.6365564862172
+46.85 	OSEE_center	1.82257838456315
+46.85 	max_bond_dim	75
+46.85 	duration_ms	79699862
+
+46.9 	tr_rho	1
+46.9 	S_2	14.6400767921036
+46.9 	OSEE_center	1.82796234283103
+46.9 	max_bond_dim	77
+46.9 	duration_ms	79721712
+
+46.95 	tr_rho	0.999999997655455
+46.95 	S_2	14.643599815051
+46.95 	OSEE_center	1.83303848701021
+46.95 	max_bond_dim	88
+46.95 	duration_ms	79742977
+
+47 	tr_rho	1
+47 	S_2	14.6471253913371
+47 	OSEE_center	1.8378053996734
+47 	max_bond_dim	76
+47 	duration_ms	79769658
+
+47.05 	tr_rho	1
+47.05 	S_2	14.6506533385467
+47.05 	OSEE_center	1.84226174729431
+47.05 	max_bond_dim	81
+47.05 	duration_ms	79791810
+
+47.1 	tr_rho	0.999999997420022
+47.1 	S_2	14.6543065566888
+47.1 	OSEE_center	1.83430686630826
+47.1 	max_bond_dim	88
+47.1 	duration_ms	79814732
+
+47.15 	tr_rho	1
+47.15 	S_2	14.6579428960903
+47.15 	OSEE_center	1.82605339450976
+47.15 	max_bond_dim	78
+47.15 	duration_ms	79843112
+
+47.2 	tr_rho	1
+47.2 	S_2	14.6615622094234
+47.2 	OSEE_center	1.81750411267306
+47.2 	max_bond_dim	82
+47.2 	duration_ms	79866697
+
+47.25 	tr_rho	1.00000000222738
+47.25 	S_2	14.66516436719
+47.25 	OSEE_center	1.80866189780358
+47.25 	max_bond_dim	85
+47.25 	duration_ms	79887911
+
+47.3 	tr_rho	1
+47.3 	S_2	14.6687492825888
+47.3 	OSEE_center	1.79952972235681
+47.3 	max_bond_dim	76
+47.3 	duration_ms	79913121
+
+47.35 	tr_rho	0.999999999999999
+47.35 	S_2	14.6723168881268
+47.35 	OSEE_center	1.79011065377586
+47.35 	max_bond_dim	76
+47.35 	duration_ms	79935461
+
+47.4 	tr_rho	1.00000000172611
+47.4 	S_2	14.6758671617615
+47.4 	OSEE_center	1.7804078540192
+47.4 	max_bond_dim	84
+47.4 	duration_ms	79956511
+
+47.45 	tr_rho	0.999999999999999
+47.45 	S_2	14.6794001116902
+47.45 	OSEE_center	1.77042457872693
+47.45 	max_bond_dim	73
+47.45 	duration_ms	79985183
+
+47.5 	tr_rho	1
+47.5 	S_2	14.6829157660083
+47.5 	OSEE_center	1.76016417633675
+47.5 	max_bond_dim	74
+47.5 	duration_ms	80008374
+
+47.55 	tr_rho	1.00000000382887
+47.55 	S_2	14.686414192204
+47.55 	OSEE_center	1.74963008717782
+47.55 	max_bond_dim	86
+47.55 	duration_ms	80032279
+
+47.6 	tr_rho	1
+47.6 	S_2	14.6898954896266
+47.6 	OSEE_center	1.73882584264835
+47.6 	max_bond_dim	74
+47.6 	duration_ms	80060041
+
+47.65 	tr_rho	1
+47.65 	S_2	14.693359760676
+47.65 	OSEE_center	1.72775506452847
+47.65 	max_bond_dim	73
+47.65 	duration_ms	80082027
+
+47.7 	tr_rho	1.00000000077161
+47.7 	S_2	14.6968071549929
+47.7 	OSEE_center	1.71642146395431
+47.7 	max_bond_dim	87
+47.7 	duration_ms	80105614
+
+47.75 	tr_rho	0.999999999999999
+47.75 	S_2	14.7002378384299
+47.75 	OSEE_center	1.70482883976615
+47.75 	max_bond_dim	75
+47.75 	duration_ms	80134208
+
+47.8 	tr_rho	1
+47.8 	S_2	14.7036519924246
+47.8 	OSEE_center	1.69298107782346
+47.8 	max_bond_dim	75
+47.8 	duration_ms	80158004
+
+47.85 	tr_rho	1.00000000027167
+47.85 	S_2	14.7070498209999
+47.85 	OSEE_center	1.6808821500438
+47.85 	max_bond_dim	87
+47.85 	duration_ms	80181173
+
+47.9 	tr_rho	1
+47.9 	S_2	14.7104315427113
+47.9 	OSEE_center	1.6685361133926
+47.9 	max_bond_dim	74
+47.9 	duration_ms	80207929
+
+47.95 	tr_rho	0.999999999999999
+47.95 	S_2	14.7137973874925
+47.95 	OSEE_center	1.65594710898991
+47.95 	max_bond_dim	75
+47.95 	duration_ms	80231999
+
+48 	tr_rho	1.00000000044483
+48 	S_2	14.71714759729
+48 	OSEE_center	1.64311936119613
+48 	max_bond_dim	84
+48 	duration_ms	80253727
+
+48.05 	tr_rho	0.999999999999999
+48.05 	S_2	14.720482422019
+48.05 	OSEE_center	1.63005717681177
+48.05 	max_bond_dim	75
+48.05 	duration_ms	80280796
+
+48.1 	tr_rho	0.999999999999999
+48.1 	S_2	14.7238021137448
+48.1 	OSEE_center	1.61676494439026
+48.1 	max_bond_dim	75
+48.1 	duration_ms	80301425
+
+48.15 	tr_rho	0.999999997343394
+48.15 	S_2	14.727106929147
+48.15 	OSEE_center	1.60324713353651
+48.15 	max_bond_dim	86
+48.15 	duration_ms	80323472
+
+48.2 	tr_rho	1
+48.2 	S_2	14.7303971177234
+48.2 	OSEE_center	1.58950829433116
+48.2 	max_bond_dim	74
+48.2 	duration_ms	80347709
+
+48.25 	tr_rho	1
+48.25 	S_2	14.7336729409964
+48.25 	OSEE_center	1.5755530568857
+48.25 	max_bond_dim	75
+48.25 	duration_ms	80369707
+
+48.3 	tr_rho	0.999999998101816
+48.3 	S_2	14.7369346377221
+48.3 	OSEE_center	1.56138613088825
+48.3 	max_bond_dim	87
+48.3 	duration_ms	80391546
+
+48.35 	tr_rho	1
+48.35 	S_2	14.7401824384122
+48.35 	OSEE_center	1.54701230528638
+48.35 	max_bond_dim	74
+48.35 	duration_ms	80418659
+
+48.4 	tr_rho	1
+48.4 	S_2	14.7434165723573
+48.4 	OSEE_center	1.53243644810851
+48.4 	max_bond_dim	78
+48.4 	duration_ms	80439710
+
+48.45 	tr_rho	0.999999996530931
+48.45 	S_2	14.7466372420573
+48.45 	OSEE_center	1.51766350627156
+48.45 	max_bond_dim	90
+48.45 	duration_ms	80462068
+
+48.5 	tr_rho	0.999999999999999
+48.5 	S_2	14.7498446287582
+48.5 	OSEE_center	1.50269850553147
+48.5 	max_bond_dim	73
+48.5 	duration_ms	80493477
+
+48.55 	tr_rho	1
+48.55 	S_2	14.7529384902194
+48.55 	OSEE_center	1.51443527163353
+48.55 	max_bond_dim	72
+48.55 	duration_ms	80519872
+
+48.6 	tr_rho	0.99999999941552
+48.6 	S_2	14.7560317445433
+48.6 	OSEE_center	1.52594253326451
+48.6 	max_bond_dim	85
+48.6 	duration_ms	80541547
+
+48.65 	tr_rho	1
+48.65 	S_2	14.7591245764905
+48.65 	OSEE_center	1.53721672231417
+48.65 	max_bond_dim	70
+48.65 	duration_ms	80566873
+
+48.7 	tr_rho	1
+48.7 	S_2	14.76221719095
+48.7 	OSEE_center	1.5482543667745
+48.7 	max_bond_dim	74
+48.7 	duration_ms	80587808
+
+48.75 	tr_rho	1.00000000138317
+48.75 	S_2	14.7653098030468
+48.75 	OSEE_center	1.55905208999593
+48.75 	max_bond_dim	86
+48.75 	duration_ms	80608063
+
+48.8 	tr_rho	1
+48.8 	S_2	14.7684026426485
+48.8 	OSEE_center	1.56960660998684
+48.8 	max_bond_dim	71
+48.8 	duration_ms	80632265
+
+48.85 	tr_rho	0.999999999999999
+48.85 	S_2	14.771495939146
+48.85 	OSEE_center	1.57991473866975
+48.85 	max_bond_dim	75
+48.85 	duration_ms	80653534
+
+48.9 	tr_rho	1.00000000233079
+48.9 	S_2	14.7745899350841
+48.9 	OSEE_center	1.58997338119764
+48.9 	max_bond_dim	88
+48.9 	duration_ms	80673922
+
+48.95 	tr_rho	0.999999999999999
+48.95 	S_2	14.777684876784
+48.95 	OSEE_center	1.59977953526175
+48.95 	max_bond_dim	73
+48.95 	duration_ms	80701305
+
+49 	tr_rho	1
+49 	S_2	14.7807809955269
+49 	OSEE_center	1.60933029035699
+49 	max_bond_dim	74
+49 	duration_ms	80721832
+
+49.05 	tr_rho	1.00000000262053
+49.05 	S_2	14.7838785326351
+49.05 	OSEE_center	1.61862282714625
+49.05 	max_bond_dim	85
+49.05 	duration_ms	80741778
+
+49.1 	tr_rho	1
+49.1 	S_2	14.7869777232519
+49.1 	OSEE_center	1.62765441680699
+49.1 	max_bond_dim	72
+49.1 	duration_ms	80767035
+
+49.15 	tr_rho	1
+49.15 	S_2	14.790078777304
+49.15 	OSEE_center	1.63642242034298
+49.15 	max_bond_dim	73
+49.15 	duration_ms	80788964
+
+49.2 	tr_rho	1.00000000163283
+49.2 	S_2	14.7931819083331
+49.2 	OSEE_center	1.64492428802334
+49.2 	max_bond_dim	88
+49.2 	duration_ms	80811506
+
+49.25 	tr_rho	1
+49.25 	S_2	14.7962873132755
+49.25 	OSEE_center	1.65315755881123
+49.25 	max_bond_dim	74
+49.25 	duration_ms	80838661
+
+49.3 	tr_rho	1
+49.3 	S_2	14.7993951622766
+49.3 	OSEE_center	1.66111985979031
+49.3 	max_bond_dim	74
+49.3 	duration_ms	80863718
+
+49.35 	tr_rho	0.999999998641302
+49.35 	S_2	14.8025056160354
+49.35 	OSEE_center	1.66880890575559
+49.35 	max_bond_dim	87
+49.35 	duration_ms	80890374
+
+49.4 	tr_rho	1
+49.4 	S_2	14.8056188079699
+49.4 	OSEE_center	1.67622249849496
+49.4 	max_bond_dim	76
+49.4 	duration_ms	80918208
+
+49.45 	tr_rho	1
+49.45 	S_2	14.8087348563998
+49.45 	OSEE_center	1.68335852621684
+49.45 	max_bond_dim	76
+49.45 	duration_ms	80939917
+
+49.5 	tr_rho	0.999999997849371
+49.5 	S_2	14.8118538465415
+49.5 	OSEE_center	1.69021496385492
+49.5 	max_bond_dim	86
+49.5 	duration_ms	80962066
+
+49.55 	tr_rho	1
+49.55 	S_2	14.8149758354973
+49.55 	OSEE_center	1.6967898724984
+49.55 	max_bond_dim	75
+49.55 	duration_ms	80987966
+
+49.6 	tr_rho	1
+49.6 	S_2	14.8181008653563
+49.6 	OSEE_center	1.70308139876833
+49.6 	max_bond_dim	75
+49.6 	duration_ms	81010009
+
+49.65 	tr_rho	0.999999999972268
+49.65 	S_2	14.8212289362191
+49.65 	OSEE_center	1.70908777448911
+49.65 	max_bond_dim	88
+49.65 	duration_ms	81031294
+
+49.7 	tr_rho	1
+49.7 	S_2	14.8243600223503
+49.7 	OSEE_center	1.71480731642438
+49.7 	max_bond_dim	76
+49.7 	duration_ms	81056573
+
+49.75 	tr_rho	0.999999999999999
+49.75 	S_2	14.8274940672875
+49.75 	OSEE_center	1.72023842608538
+49.75 	max_bond_dim	76
+49.75 	duration_ms	81077955
+
+49.8 	tr_rho	0.999999997135734
+49.8 	S_2	14.830630982935
+49.8 	OSEE_center	1.72537958965081
+49.8 	max_bond_dim	85
+49.8 	duration_ms	81098378
+
+49.85 	tr_rho	1
+49.85 	S_2	14.8337706436411
+49.85 	OSEE_center	1.73022937760811
+49.85 	max_bond_dim	77
+49.85 	duration_ms	81127210
+
+49.9 	tr_rho	1
+49.9 	S_2	14.8369129088703
+49.9 	OSEE_center	1.73478644443768
+49.9 	max_bond_dim	77
+49.9 	duration_ms	81152424
+
+49.95 	tr_rho	0.999999995085371
+49.95 	S_2	14.8400575888023
+49.95 	OSEE_center	1.73904952883603
+49.95 	max_bond_dim	62
+49.95 	duration_ms	81172300
+
+50 	tr_rho	1
+50 	S_2	14.8431411749732
+50 	OSEE_center	1.73102090690565
+50 	max_bond_dim	70
+50 	duration_ms	81191509
+
+50.05 	tr_rho	1
+50.05 	S_2	14.8462084763503
+50.05 	OSEE_center	1.72271522617792
+50.05 	max_bond_dim	71
+50.05 	duration_ms	81212704
+
+50.1 	tr_rho	0.999999999918781
+50.1 	S_2	14.8492593409812
+50.1 	OSEE_center	1.71413531214492
+50.1 	max_bond_dim	82
+50.1 	duration_ms	81235536
+
+50.15 	tr_rho	1
+50.15 	S_2	14.8522936591592
+50.15 	OSEE_center	1.70528407583647
+50.15 	max_bond_dim	73
+50.15 	duration_ms	81262617
+
+50.2 	tr_rho	1
+50.2 	S_2	14.8553113540484
+50.2 	OSEE_center	1.69616451300029
+50.2 	max_bond_dim	73
+50.2 	duration_ms	81284163
+
+50.25 	tr_rho	1.00000000084268
+50.25 	S_2	14.8583123802251
+50.25 	OSEE_center	1.68677970363638
+50.25 	max_bond_dim	85
+50.25 	duration_ms	81305118
+
+50.3 	tr_rho	1
+50.3 	S_2	14.8612967253384
+50.3 	OSEE_center	1.67713281151639
+50.3 	max_bond_dim	72
+50.3 	duration_ms	81330562
+
+50.35 	tr_rho	0.999999999999999
+50.35 	S_2	14.8642644023475
+50.35 	OSEE_center	1.66722708341093
+50.35 	max_bond_dim	72
+50.35 	duration_ms	81352735
+
+50.4 	tr_rho	1.00000000046004
+50.4 	S_2	14.8672154585674
+50.4 	OSEE_center	1.65706584823273
+50.4 	max_bond_dim	82
+50.4 	duration_ms	81374413
+
+50.45 	tr_rho	1
+50.45 	S_2	14.8701499685687
+50.45 	OSEE_center	1.64665251626169
+50.45 	max_bond_dim	73
+50.45 	duration_ms	81403192
+
+50.5 	tr_rho	1
+50.5 	S_2	14.8730680307501
+50.5 	OSEE_center	1.63599057847312
+50.5 	max_bond_dim	74
+50.5 	duration_ms	81426873
+
+50.55 	tr_rho	1.00000000032273
+50.55 	S_2	14.8759697712351
+50.55 	OSEE_center	1.62508360595978
+50.55 	max_bond_dim	86
+50.55 	duration_ms	81448552
+
+50.6 	tr_rho	1
+50.6 	S_2	14.8788553390432
+50.6 	OSEE_center	1.61393524921405
+50.6 	max_bond_dim	76
+50.6 	duration_ms	81475092
+
+50.65 	tr_rho	1
+50.65 	S_2	14.8817249024481
+50.65 	OSEE_center	1.6025492367106
+50.65 	max_bond_dim	77
+50.65 	duration_ms	81495753
+
+50.7 	tr_rho	1.00000000035181
+50.7 	S_2	14.8845786507595
+50.7 	OSEE_center	1.59092937432031
+50.7 	max_bond_dim	88
+50.7 	duration_ms	81517072
+
+50.75 	tr_rho	1
+50.75 	S_2	14.8874167901849
+50.75 	OSEE_center	1.57907954477012
+50.75 	max_bond_dim	76
+50.75 	duration_ms	81543004
+
+50.8 	tr_rho	1
+50.8 	S_2	14.8902395392534
+50.8 	OSEE_center	1.56700370697864
+50.8 	max_bond_dim	76
+50.8 	duration_ms	81566377
+
+50.85 	tr_rho	0.999999999956088
+50.85 	S_2	14.8930471305675
+50.85 	OSEE_center	1.55470589539015
+50.85 	max_bond_dim	90
+50.85 	duration_ms	81589264
+
+50.9 	tr_rho	1
+50.9 	S_2	14.895839805305
+50.9 	OSEE_center	1.54219021944158
+50.9 	max_bond_dim	77
+50.9 	duration_ms	81616684
+
+50.95 	tr_rho	1
+50.95 	S_2	14.8986178116061
+50.95 	OSEE_center	1.52946086315364
+50.95 	max_bond_dim	77
+50.95 	duration_ms	81638869
+
+51 	tr_rho	0.999999998541162
+51 	S_2	14.9013814013031
+51 	OSEE_center	1.51652208470018
+51 	max_bond_dim	88
+51 	duration_ms	81659590
+
+51.05 	tr_rho	1
+51.05 	S_2	14.9041308245716
+51.05 	OSEE_center	1.50337821610369
+51.05 	max_bond_dim	76
+51.05 	duration_ms	81685883
+
+51.1 	tr_rho	1
+51.1 	S_2	14.906866338723
+51.1 	OSEE_center	1.49003366305878
+51.1 	max_bond_dim	77
+51.1 	duration_ms	81706879
+
+51.15 	tr_rho	0.999999998148294
+51.15 	S_2	14.9095881878722
+51.15 	OSEE_center	1.47649290472758
+51.15 	max_bond_dim	90
+51.15 	duration_ms	81727531
+
+51.2 	tr_rho	1
+51.2 	S_2	14.9122966081158
+51.2 	OSEE_center	1.46276049366591
+51.2 	max_bond_dim	76
+51.2 	duration_ms	81752357
+
+51.25 	tr_rho	1
+51.25 	S_2	14.914991836677
+51.25 	OSEE_center	1.44884105586979
+51.25 	max_bond_dim	77
+51.25 	duration_ms	81772800
+
+51.3 	tr_rho	0.999999997734017
+51.3 	S_2	14.9176740869679
+51.3 	OSEE_center	1.43473929078579
+51.3 	max_bond_dim	85
+51.3 	duration_ms	81793512
+
+51.35 	tr_rho	1
+51.35 	S_2	14.9203435562697
+51.35 	OSEE_center	1.42045997144432
+51.35 	max_bond_dim	75
+51.35 	duration_ms	81820503
+
+51.4 	tr_rho	1
+51.4 	S_2	14.9232696342597
+51.4 	OSEE_center	1.43139603163325
+51.4 	max_bond_dim	75
+51.4 	duration_ms	81843449
+
+51.45 	tr_rho	0.999999999491245
+51.45 	S_2	14.9261951859684
+51.45 	OSEE_center	1.44211499056019
+51.45 	max_bond_dim	86
+51.45 	duration_ms	81865131
+
+51.5 	tr_rho	0.999999999999999
+51.5 	S_2	14.9291204028447
+51.5 	OSEE_center	1.45261347953556
+51.5 	max_bond_dim	72
+51.5 	duration_ms	81893667
+
+51.55 	tr_rho	0.999999999999999
+51.55 	S_2	14.9320454929096
+51.55 	OSEE_center	1.46288821816555
+51.55 	max_bond_dim	75
+51.55 	duration_ms	81915555
+
+51.6 	tr_rho	0.99999999971924
+51.6 	S_2	14.9349706718598
+51.6 	OSEE_center	1.47293601395031
+51.6 	max_bond_dim	85
+51.6 	duration_ms	81937274
+
+51.65 	tr_rho	1
+51.65 	S_2	14.9378961637587
+51.65 	OSEE_center	1.48275376194503
+51.65 	max_bond_dim	72
+51.65 	duration_ms	81962464
+
+51.7 	tr_rho	1
+51.7 	S_2	14.9408221994131
+51.7 	OSEE_center	1.49233844439049
+51.7 	max_bond_dim	76
+51.7 	duration_ms	81983425
+
+51.75 	tr_rho	1.00000000205893
+51.75 	S_2	14.9437490101669
+51.75 	OSEE_center	1.50168713041394
+51.75 	max_bond_dim	85
+51.75 	duration_ms	82003326
+
+51.8 	tr_rho	0.999999999999999
+51.8 	S_2	14.9466768314375
+51.8 	OSEE_center	1.51079697572746
+51.8 	max_bond_dim	76
+51.8 	duration_ms	82028889
+
+51.85 	tr_rho	1
+51.85 	S_2	14.949605882907
+51.85 	OSEE_center	1.51966522229381
+51.85 	max_bond_dim	76
+51.85 	duration_ms	82049118
+
+51.9 	tr_rho	1.00000000151865
+51.9 	S_2	14.9525363905064
+51.9 	OSEE_center	1.52828919808959
+51.9 	max_bond_dim	86
+51.9 	duration_ms	82070827
+
+51.95 	tr_rho	1
+51.95 	S_2	14.9554685703375
+51.95 	OSEE_center	1.53666631684911
+51.95 	max_bond_dim	76
+51.95 	duration_ms	82095919
+
+52 	tr_rho	1
+52 	S_2	14.9584026180823
+52 	OSEE_center	1.54479407778236
+52 	max_bond_dim	77
+52 	duration_ms	82117671
+
+52.05 	tr_rho	1.00000000663668
+52.05 	S_2	14.9613387247919
+52.05 	OSEE_center	1.55267006540323
+52.05 	max_bond_dim	89
+52.05 	duration_ms	82139477
+
+52.1 	tr_rho	1
+52.1 	S_2	14.964277075675
+52.1 	OSEE_center	1.56029194935826
+52.1 	max_bond_dim	77
+52.1 	duration_ms	82163345
+
+52.15 	tr_rho	1
+52.15 	S_2	14.9672177978686
+52.15 	OSEE_center	1.56765748424533
+52.15 	max_bond_dim	77
+52.15 	duration_ms	82183345
+
+52.2 	tr_rho	0.999999998736939
+52.2 	S_2	14.9701610380134
+52.2 	OSEE_center	1.57476450919591
+52.2 	max_bond_dim	88
+52.2 	duration_ms	82207479
+
+52.25 	tr_rho	1
+52.25 	S_2	14.973106904761
+52.25 	OSEE_center	1.58161094774561
+52.25 	max_bond_dim	77
+52.25 	duration_ms	82236929
+
+52.3 	tr_rho	1
+52.3 	S_2	14.976055490427
+52.3 	OSEE_center	1.58819480829165
+52.3 	max_bond_dim	77
+52.3 	duration_ms	82260100
+
+52.35 	tr_rho	0.999999999248317
+52.35 	S_2	14.9790068542888
+52.35 	OSEE_center	1.59451418380296
+52.35 	max_bond_dim	89
+52.35 	duration_ms	82281773
+
+52.4 	tr_rho	1
+52.4 	S_2	14.981961029794
+52.4 	OSEE_center	1.60056725150282
+52.4 	max_bond_dim	75
+52.4 	duration_ms	82306371
+
+52.45 	tr_rho	1
+52.45 	S_2	14.9849180269004
+52.45 	OSEE_center	1.60635227265933
+52.45 	max_bond_dim	76
+52.45 	duration_ms	82326281
+
+52.5 	tr_rho	0.999999999649002
+52.5 	S_2	14.9878778220295
+52.5 	OSEE_center	1.61186759254285
+52.5 	max_bond_dim	88
+52.5 	duration_ms	82346872
+
+52.55 	tr_rho	0.999999999999999
+52.55 	S_2	14.9908403625847
+52.55 	OSEE_center	1.6171116404237
+52.55 	max_bond_dim	75
+52.55 	duration_ms	82370277
+
+52.6 	tr_rho	1
+52.6 	S_2	14.9938055676513
+52.6 	OSEE_center	1.62208292953387
+52.6 	max_bond_dim	78
+52.6 	duration_ms	82390552
+
+52.65 	tr_rho	0.999999999044096
+52.65 	S_2	14.9967733233637
+52.65 	OSEE_center	1.62678005684744
+52.65 	max_bond_dim	88
+52.65 	duration_ms	82410130
+
+52.7 	tr_rho	1
+52.7 	S_2	14.9997434835966
+52.7 	OSEE_center	1.63120170287626
+52.7 	max_bond_dim	76
+52.7 	duration_ms	82435996
+
+52.75 	tr_rho	0.999999999999999
+52.75 	S_2	15.0027158768816
+52.75 	OSEE_center	1.63534663181591
+52.75 	max_bond_dim	81
+52.75 	duration_ms	82455030
+
+52.8 	tr_rho	0.99999999649323
+52.8 	S_2	15.0056902951023
+52.8 	OSEE_center	1.63921369174709
+52.8 	max_bond_dim	61
+52.8 	duration_ms	82475379
+

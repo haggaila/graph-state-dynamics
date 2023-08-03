@@ -1,0 +1,5 @@
+unique_id,evolution_id,N,solver,t_init,t_final,tau,time_unit,max_dim_rho,cut_off_rho,method,atol,rtol,load_unique_id,force_rho_Hermitian_step,topology,qubits,t_gates
+b2cdcb62bb894c02981b21c191c852fd,716e1f7ec19046c9b39a78017c7909c3,12,mpo,0.0,52.80800000000001,0.05,1e-06,100.0,1e-19,,,,,3.0,127.eagle,"[4, 5, 15, 6, 22, 7, 23, 8, 24, 16, 25, 26]",1.096
+13e7cea845524fec84bec865d20e4f75,cc066102d9024164b80ce16362d93bb6,12,mpo,0.0,52.80800000000001,0.05,1e-06,100.0,1e-19,,,,,3.0,127.eagle,"[4, 5, 15, 6, 22, 7, 23, 8, 24, 16, 25, 26]",1.096
+299f1297db9347e7853fb5eb510c08e5,c881fd5ceae24b67a133c082f36384e6,3,mpo,0.0,99.968,0.05,1e-06,100.0,1e-19,,,,,3.0,127.eagle,"[22, 23, 24]",0.0
+d58e318d2b2c4cb0974ae402d01e3fba,9952b4b8a80744a798ee415970185d11,3,mpo,0.0,150.344,0.05,1e-06,100.0,1e-19,,,,,3.0,127.eagle,"[22, 23, 24]",1.096
