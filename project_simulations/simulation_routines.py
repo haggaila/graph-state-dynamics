@@ -898,7 +898,6 @@ def plot_experiment_simulation(
         p_0_given_0,
         p_0_given_1,
         b_stabilizers,
-        b_plot_z,
     )
     times = times / time_unit + 1 * t_gates
 
