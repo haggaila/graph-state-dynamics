@@ -1,0 +1,12 @@
+qiskit==0.44.0
+qiskit_experiments==0.5.3
+qiskit_ibm_provider==0.6.2
+qiskit_terra==0.25.0
+lmfit==1.2.2
+matplotlib==3.7.2
+numpy==1.25.2
+pandas==2.0.3
+qutip==4.7.2
+rustworkx==0.13.1
+uncertainties==3.1.7
+pyyaml==6.0.1
