@@ -214,4 +214,3 @@ if b_save2file:
     )
     df.to_csv(s_file_path + ".csv", index=False)
     print("Saved to file")
-    make_sound()

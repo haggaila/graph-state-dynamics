@@ -91,16 +91,3 @@ def combine_curve_data(
         data_allocation=data_allocation,
         labels=labels,
     )
-
-
-def make_sound():
-    from platform import system
-
-    if system() == "Darwin":
-        from beepy import beep
-
-        beep(sound=5)
-    elif system() == "Windows":
-        import winsound
-
-        winsound.Beep(1000, 250)
