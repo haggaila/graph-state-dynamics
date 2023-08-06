@@ -25,7 +25,7 @@ s_init_state = "gr"
 
 n_dd_cycles = [0, 1]
 # 0 implies no DD, otherwise the number of sequences between measurements
-b_zz_dd = False
+b_zz_dd = True
 # Whether to add staggered DD for the ZZ interactions
 b_dilute_evolution = True
 # Whether to add a measurements of the DD results at diluted times
