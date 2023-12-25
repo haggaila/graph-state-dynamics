@@ -166,7 +166,9 @@ def run_experiment(
         n_draws=int(10e6),
         n_repeats=n_repeats,
         user_qubit_groups=all_qubits,
+        b_pulse_gates=False,
     )
+    # b_pulse_gates can be set to True for a more accurate estimation in presence of gate error
     SPAM_exp = spam_model.build(backend)
 
     qubit_estimation_exp = []

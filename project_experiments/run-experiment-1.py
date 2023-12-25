@@ -16,9 +16,9 @@ b_just_evolution = False
 shots = 1 * 1024
 # Number of shots per job
 
-s_backend = "ibm_perth"
+s_backend = "ibm_osaka"
 # Choose the relevant backend
-edge_groups_name = "triples"
+edge_groups_name = "rings.127.A"
 # E.g., "pairs" "triples" "rings.27" "rings.127.B"
 s_init_state = "gr"
 # The initial state: "+x" for a product of |+>'s, "gr" for a graph state

@@ -16,7 +16,6 @@ from qiskit.providers import Backend
 from qiskit_experiments.framework import (
     BaseExperiment,
     ParallelExperiment,
-    BatchExperiment,
 )
 
 from project_experiments.partition import partition_qubits
@@ -52,6 +51,9 @@ class BayesianSPAMBuilder:
         transpile_options: Transpile options.
         distance: The graph distance parameter for parallelizing the qubits. A value of 1 indicates
             all qubits in parallel, a value of 2 indicates next-nearest-neighbors are parallel, etc.
+        s_add_suffix: An optional suffix string to add to the experiment results.
+        b_pulse_gates: Whether to use pulse gates. Important if gate errors are not small
+            enough, and in order to meaningfully estimate gate errors.
     """
 
     def __init__(
@@ -67,6 +69,8 @@ class BayesianSPAMBuilder:
         transpile_options: Optional[dict] = None,
         user_qubit_groups: Optional[Sequence[Sequence[Sequence[int]]]] = None,
         distance=2,
+        s_add_suffix: Optional[str] = "",
+        b_pulse_gates=False,
     ):
         if gates is None:
             gates = BayesianSPAMEstimator.BAYESIAN_CPCMG_GATES
@@ -87,35 +91,48 @@ class BayesianSPAMBuilder:
         self._transpile_options = transpile_options
         self._user_qubit_groups = user_qubit_groups
         self._distance = distance
+        self._s_add_suffix = s_add_suffix
+        self._b_pulse_gates = b_pulse_gates
 
-    def build(self, backend: Backend) -> [BaseExperiment]:
+    def build(self, backend: Backend, model=None) -> [BaseExperiment]:
         """Build the batch of parallel experiments according to the qubit groups, constructed
             according to the requested `distance` parameter of the constructor.
 
         Args:
             backend: The backend whose connectivity is used to parallelize the experiments.
+            model: An optional BayesianSPAMEstimator to use - if None, one will be created
+                and initialized.
 
         Returns:
             The experiment for the device.
         """
-        model = BayesianSPAMEstimator(
-            gates=self.gates,
-            parameters=self.parameters,
-            prior_intervals=self.prior_intervals,
-            n_draws=self.n_draws,
-            n_x90p_power=self.n_x90p_power,
-            n_repeats=self.n_repeats,
-        )
-        model.prepare_Bayesian()
+        if model is None:
+            model = BayesianSPAMEstimator(
+                gates=self.gates,
+                parameters=self.parameters,
+                prior_intervals=self.prior_intervals,
+                n_draws=self.n_draws,
+                n_x90p_power=self.n_x90p_power,
+                n_repeats=self.n_repeats,
+            )
+            model.prepare_Bayesian()
 
         qubit_groups = self._user_qubit_groups or partition_qubits(
             backend, self._distance
         )
+        faulty_qubits = backend.properties().faulty_qubits()
         par_exps = []
         for group in qubit_groups:
             exps = []
             for qubit in group:
-                exp = BayesianSPAMExperiment(qubit=qubit[0], model=model)
+                if qubit[0] in faulty_qubits:
+                    continue
+                exp = BayesianSPAMExperiment(
+                    qubit=qubit[0],
+                    model=model,
+                    add_suffix=self._s_add_suffix,
+                    b_pulse_gates=self._b_pulse_gates,
+                )
                 if self._experiment_options:
                     exp.set_experiment_options(**self._experiment_options)
                 if self._analysis_options:

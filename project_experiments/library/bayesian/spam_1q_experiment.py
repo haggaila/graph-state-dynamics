@@ -26,18 +26,33 @@ from uncertainties import ufloat
 class BayesianSPAMExperiment(BaseExperiment):
     """Bayesian estimation experiment for 1Q SPAM and gate errors."""
 
-    def __init__(self, qubit: int, model, backend: Optional[Backend] = None):
+    def __init__(
+        self,
+        qubit: int,
+        model,
+        backend: Optional[Backend] = None,
+        add_suffix="",
+        b_pulse_gates=False,
+    ):
         """Create a new experiment.
 
         Args:
             qubit: Qubit index on which to run estimation.
             backend: Optional, the backend to run the experiment on.
+            add_suffix: An optional suffix string to add to the experiment results.
+            b_pulse_gates: Whether to use pulse gates. Important if gate errors are not small
+                enough, and in order to meaningfully estimate gate errors.
         """
-        super().__init__([qubit], analysis=BayesianSPAMAnalysis(), backend=backend)
+        super().__init__(
+            [qubit],
+            analysis=BayesianSPAMAnalysis(add_suffix=add_suffix),
+            backend=backend,
+        )
         self.set_experiment_options(
             n_x90p_power=model.n_x90p_power,
             gates=model.gates,
             n_repeats=model.n_repeats,
+            b_pulse_gates=b_pulse_gates,
         )
         self.analysis.model = model
 
@@ -46,6 +61,7 @@ class BayesianSPAMExperiment(BaseExperiment):
         options = super()._default_experiment_options()
         options.n_x90p_power = 0
         options.n_repeats = 1
+        options.b_pulse_gates = (False,)
         options.gates = []
         return options
 
@@ -68,13 +84,43 @@ class BayesianSPAMExperiment(BaseExperiment):
         options = self.experiment_options
         gates = options.gates
         n_x90p_power = options.n_x90p_power
+        b_pulse_gates = options.b_pulse_gates
         circuits = []
         pi_2 = np.pi / 2
         n_repeats = options.n_repeats
         r_repeats = range(n_repeats)
+
+        sy_gates = []
+        sy_schedules = []
+        if b_pulse_gates:
+            sx_schedule = self._backend.defaults().instruction_schedule_map.get(
+                "sx", self.physical_qubits[0]
+            )
+            sx = (
+                sx_schedule.filter(instruction_types=[pulse.Play])
+                .instructions[0][1]
+                .pulse
+            )
+            sy_angles = [-pi_2, pi_2, np.pi]
+            sy_names = ["sy", "sydg", "sx2dg"]
+            for i_sy_gate, sy_gate_name in enumerate(sy_names):
+                sy_gates.append(Gate(sy_gate_name, 1, []))
+                with pulse.build() as sy_schedule:
+                    pulse.play(
+                        pulse.Drag(
+                            duration=sx.duration,
+                            amp=sx.amp,
+                            sigma=sx.sigma,
+                            beta=sx.beta,
+                            angle=sx.angle + sy_angles[i_sy_gate],
+                            name=sy_gate_name,
+                        ),
+                        pulse.DriveChannel(self.physical_qubits[0]),
+                    )
+                    sy_schedules.append(sy_schedule)
+
         for i_gate, s_gate in enumerate(gates):
             circ = QuantumCircuit(1, 1)
-
             if s_gate == "x":
                 circ.x(0)
                 circ.barrier()
@@ -83,6 +129,8 @@ class BayesianSPAMExperiment(BaseExperiment):
                     n_len = 1
                 elif s_gate == "x90p^2":
                     n_len = 2
+                elif s_gate == "x90p^5":
+                    n_len = 5
                 elif s_gate == "x90p^4n":
                     n_len = 4 * n_x90p_power
                 elif s_gate == "x90p^(4n+1)":
@@ -90,19 +138,50 @@ class BayesianSPAMExperiment(BaseExperiment):
                 else:
                     raise Exception(f"Unknown/unsupported instruction {s_gate}.")
                 for _ in range(n_len):
-                    # circ.rx(pi_2, 0)
                     circ.sx(0)
                     circ.barrier()
-            elif s_gate == "x90m":
-                # circ.rx(-pi_2, 0)
-                circ.sxdg(0)
-                circ.barrier()
-            elif s_gate == "y90p":
-                circ.ry(pi_2, 0)
-                circ.barrier()
-            elif s_gate == "y90m":
-                circ.ry(-pi_2, 0)
-                circ.barrier()
+            elif s_gate == "x90m" or s_gate == "x90m^5":
+                n_len = 1 if s_gate == "x90m" else 5
+                for _ in range(n_len):
+                    if b_pulse_gates:
+                        circ.append(sy_gates[2], [0])
+                    else:
+                        circ.sxdg(0)
+                    circ.barrier()
+                if b_pulse_gates:
+                    circ.add_calibration(
+                        gate=sy_gates[2],
+                        qubits=self.physical_qubits,
+                        schedule=sy_schedules[2],
+                    )
+            elif s_gate == "y90p" or s_gate == "y90p^5":
+                n_len = 1 if s_gate == "y90p" else 5
+                for _ in range(n_len):
+                    if b_pulse_gates:
+                        circ.append(sy_gates[0], [0])
+                    else:
+                        circ.ry(pi_2, 0)
+                    circ.barrier()
+                if b_pulse_gates:
+                    circ.add_calibration(
+                        gate=sy_gates[0],
+                        qubits=self.physical_qubits,
+                        schedule=sy_schedules[0],
+                    )
+            elif s_gate == "y90m" or s_gate == "y90m^5":
+                n_len = 1 if s_gate == "y90m" else 5
+                for _ in range(n_len):
+                    if b_pulse_gates:
+                        circ.append(sy_gates[1], [0])
+                    else:
+                        circ.ry(-pi_2, 0)
+                    circ.barrier()
+                if b_pulse_gates:
+                    circ.add_calibration(
+                        gate=sy_gates[1],
+                        qubits=self.physical_qubits,
+                        schedule=sy_schedules[1],
+                    )
             elif s_gate == "id":
                 pass
             else:
@@ -126,13 +205,36 @@ class BayesianSPAMExperiment(BaseExperiment):
 
         return circuits
 
+    # def _transpiled_circuits(self) -> List[QuantumCircuit]:
+    #     """Return a list of experiment circuits, transpiled."""
+    #     transpile_opts = copy.copy(self.transpile_options.__dict__)
+    #     # transpile_opts["initial_layout"] = list(self.physical_qubits)
+    #     # transpile_opts["optimization_level"] = 1
+    #     # Transpile level only for this exp.
+    #     transpiled = transpile(self.circuits(), self.backend, **transpile_opts)
+    #
+    #     fig = Figure()
+    #     _ = FigureCanvasSVG(fig)
+    #     ax = fig.subplots(1, 1, sharex=True)
+    #     transpiled[0].draw("mpl", idle_wires=False, ax=ax)
+    #     # if self.storage is not None:
+    #     #     self.storage["transpiled_circuit_figure"] = fig
+    #
+    #     # For debugging:
+    #     # for i_fig in range(6):
+    #     #     fig, ax = plt.subplots(1, 1, sharex=True)
+    #     #     transpiled[i_fig].draw("mpl", idle_wires=False, ax=ax)
+    #     # plt.show()
+    #     return transpiled
+
 
 class BayesianSPAMAnalysis(BaseAnalysis):
     """Analysis of the Bayesian SPAM experiment."""
 
-    def __init__(self):
+    def __init__(self, add_suffix=""):
         super().__init__()
         self.model = None
+        self.add_suffix = add_suffix
 
     def _run_analysis(self, experiment_data):
         # Fetch the probabilities for 00 and 11
@@ -173,10 +275,14 @@ class BayesianSPAMAnalysis(BaseAnalysis):
             var = vars_dict.get(key, 0)
             stddev = np.sqrt(var)
             analysis_results.append(
-                AnalysisResultData(name=key, value=ufloat(value, stddev))
+                AnalysisResultData(
+                    name=key + self.add_suffix, value=ufloat(value, stddev)
+                )
             )
         analysis_results.append(
-            AnalysisResultData(name="Var_P", value=ufloat(result.get("Var_P", 0), 0))
+            AnalysisResultData(
+                name="Var_P" + self.add_suffix, value=ufloat(result.get("Var_P", 0), 0)
+            )
         )
 
         return analysis_results, []

@@ -38,6 +38,10 @@ class BayesianSPAMEstimator:
         "y90p",
         "y90m",
         "x90p^2",
+        "x90p^5",
+        "x90m^5",
+        "y90p^5",
+        "y90m^5",
         "x90p^4n",
         "x90p^(4n+1)",
     ]
@@ -58,7 +62,7 @@ class BayesianSPAMEstimator:
 
     NUM_SUPPORTED_PARAMS = len(SUPPORTED_PARAMETERS)
     """The number of parameters that are supported for estimation (as listed in
-	SUPPORTED_PARAMETERS)."""
+    SUPPORTED_PARAMETERS)."""
 
     PARAM_BOUNDARIES = {
         "pi_x": (-1.0, 1.0),
@@ -72,7 +76,7 @@ class BayesianSPAMEstimator:
         "theta_x90p": (-np.pi / 4, np.pi / 4),
     }
     """Boundaries of the intervals over which the prior (uniform) distribution of each parameter can
-	be defined."""
+    be defined."""
 
     BAYESIAN_QPCM_PARAMETERS = ["x_0", "y_0", "z_0", "pi_z", "pi_0"]
     """The five parameters  for estimation of Quantum Preparation and Classical Measurement errors."""
@@ -85,8 +89,19 @@ class BayesianSPAMEstimator:
         [0.45, 0.6],
     ]
     """Five default parameter priors for estimation corresponding to the parameters defined in
-	BAYESIAN_QPCM_PARAMETERS. May not be suitable for all devices, if their manifested errors
-	are too large."""
+    BAYESIAN_QPCM_PARAMETERS. May not be suitable for all devices, if their manifested errors
+    are too large."""
+
+    BAYESIAN_QPCMp5_PRIORS = [
+        [-0.2, 0.2],
+        [-0.2, 0.2],
+        [0.82, 1.0],
+        [0.4, 0.55],
+        [0.45, 0.6],
+    ]
+    """Five default parameter priors for estimation corresponding to the parameters defined in
+    BAYESIAN_QPCM_PARAMETERS. May not be suitable for all devices, if their manifested errors
+    are too large."""
 
     BAYESIAN_QPCMG_PARAMETERS = [
         "x_0",
@@ -98,7 +113,7 @@ class BayesianSPAMEstimator:
         "theta_x90p",
     ]
     """The seven parameters supported for estimation of Quantum Preparation / Classical Measurement
-	and Gate errors."""
+    and Gate errors."""
 
     BAYESIAN_QPCMG_PRIORS = [
         [-0.1, 0.1],
@@ -110,12 +125,12 @@ class BayesianSPAMEstimator:
         [-0.01, 0.01],
     ]
     """Seven default parameter priors for estimation corresponding to parameters defined in
-	BAYESIAN_QPCMG_PARAMETERS. May not be suitable for all devices, if their manifested errors
-	are too large."""
+    BAYESIAN_QPCMG_PARAMETERS. May not be suitable for all devices, if their manifested errors
+    are too large."""
 
     BAYESIAN_CPCMG_PARAMETERS = ["z_0", "pi_z", "pi_0", "epsilon_x90p", "theta_x90p"]
     """The five parameters supported for estimation of Classical Preparation / Classical Measurement
-	and Gate errors."""
+    and Gate errors."""
 
     BAYESIAN_CPCMG_PRIORS = [
         [0.82, 1.0],
@@ -125,16 +140,20 @@ class BayesianSPAMEstimator:
         [-0.02, 0.02],
     ]
     """Seven default parameter priors for estimation corresponding to parameters defined in
-	BAYESIAN_CPCMG_PARAMETERS. May not be suitable for all devices, if their manifested errors
-	are too large."""
+    BAYESIAN_CPCMG_PARAMETERS. May not be suitable for all devices, if their manifested errors
+    are too large."""
 
     BAYESIAN_DIRECT_GATES = ["id", "x", "x90p", "x90m", "y90p", "y90m"]
     """The six nonconcatenated gates used for estimation using a Bayesian estimation, without
-	gate errors."""
+    gate errors."""
 
     BAYESIAN_QPCM_GATES = ["id", "x", "x90p", "x90m", "y90p", "y90m"]
     """The six nonconcatenated gates used for estimation using a Bayesian estimation, without
-	gate errors."""
+    gate errors."""
+
+    BAYESIAN_QPCMp5_GATES = ["id", "x90p^2", "x90p^5", "x90m^5", "y90p^5", "y90m^5"]
+    """The six nonconcatenated gates used for estimation using a Bayesian estimation, without
+    gate errors."""
 
     BAYESIAN_CPCMG_GATES = ["id", "x90p^2", "x90p", "x90m", "x90p^4n", "x90p^(4n+1)"]
     """The six  gates used for estimation using a Bayesian estimation, without gate errors."""
@@ -190,54 +209,6 @@ class BayesianSPAMEstimator:
         self.n_x90p_power = n_x90p_power
         self.n_repeats = n_repeats
         self.cube = None
-
-    def get_1q_circuits(self, qubit) -> List[QuantumCircuit]:
-        """Return a list of experiment circuits.
-
-        Returns:
-            A list of :class:`QuantumCircuit`.
-
-        Raises:
-            Exception: In case of unsupported gates requested.
-        """
-        gates = self.gates
-
-        circuits = []
-        pi_2 = np.pi / 2
-        for _, s_gate in enumerate(gates):
-            circ = QuantumCircuit(1, 1)
-
-            if s_gate == "x":
-                circ.x(qubit)
-            elif s_gate[0:4] == "x90p":
-                if s_gate == "x90p":
-                    n_len = 1
-                elif s_gate == "x90p^2":
-                    n_len = 2
-                elif s_gate == "x90p^4n":
-                    n_len = 4 * self.n_x90p_power
-                elif s_gate == "x90p^(4n+1)":
-                    n_len = 4 * self.n_x90p_power + 1
-                else:
-                    raise Exception(f"Unknown/unsupported instruction {s_gate}.")
-                for _ in range(n_len):
-                    circ.rx(pi_2, qubit)
-            elif s_gate == "x90m":
-                circ.rx(-pi_2, qubit)
-            elif s_gate == "y90p":
-                circ.ry(pi_2, qubit)
-            elif s_gate == "y90m":
-                circ.ry(pi_2, -qubit)
-            elif s_gate == "id":
-                pass
-            else:
-                raise Exception(f"Unknown/unsupported instruction {s_gate}.")
-            circ.measure(0, 0)
-
-            circ.metadata = {"experiment_type": "Bayesian-spam-1q", "qubits": [qubit]}
-            circuits.append(circ)
-
-        return circuits
 
     def prepare_Bayesian(self):
         """Precomputes the Monte Carlo cube used for Bayesian estimation, enforcing constraints.
@@ -468,28 +439,28 @@ class BayesianSPAMEstimator:
                         + vals[ipiy] * vals[iy0]
                         + vals[ipiz] * vals[iz0]
                     )
-                elif s_gate == "x90p" or s_gate == "x90p^(4n+1)":
+                elif s_gate == "x90p" or s_gate == "x90p^(4n+1)" or s_gate == "x90p^5":
                     p = (
                         vals_pi0
                         + vals[ipix] * vals[ix0]
                         - vals[ipiy] * vals[iz0]
                         + vals[ipiz] * vals[iy0]
                     )
-                elif s_gate == "x90m":
+                elif s_gate == "x90m" or s_gate == "x90m^5":
                     p = (
                         vals_pi0
                         + vals[ipix] * vals[ix0]
                         + vals[ipiy] * vals[iz0]
                         - vals[ipiz] * vals[iy0]
                     )
-                elif s_gate == "y90p":
+                elif s_gate == "y90p" or s_gate == "y90p^5":
                     p = (
                         vals_pi0
                         + vals[ipix] * vals[iz0]
                         + vals[ipiy] * vals[iy0]
                         - vals[ipiz] * vals[ix0]
                     )
-                elif s_gate == "y90m":
+                elif s_gate == "y90m" or s_gate == "y90m^5":
                     p = (
                         vals_pi0
                         - vals[ipix] * vals[iz0]
@@ -639,3 +610,51 @@ class BayesianSPAMEstimator:
             result["cube"] = cube
             result["P"] = P
         return result
+
+    # def get_1q_circuits(self, qubit) -> List[QuantumCircuit]:
+    #     """Return a list of experiment circuits.
+    #
+    #     Returns:
+    #         A list of :class:`QuantumCircuit`.
+    #
+    #     Raises:
+    #         Exception: In case of unsupported gates requested.
+    #     """
+    #     gates = self.gates
+    #
+    #     circuits = []
+    #     pi_2 = np.pi / 2
+    #     for _, s_gate in enumerate(gates):
+    #         circ = QuantumCircuit(1, 1)
+    #
+    #         if s_gate == "x":
+    #             circ.x(qubit)
+    #         elif s_gate[0:4] == "x90p":
+    #             if s_gate == "x90p":
+    #                 n_len = 1
+    #             elif s_gate == "x90p^2":
+    #                 n_len = 2
+    #             elif s_gate == "x90p^4n":
+    #                 n_len = 4 * self.n_x90p_power
+    #             elif s_gate == "x90p^(4n+1)":
+    #                 n_len = 4 * self.n_x90p_power + 1
+    #             else:
+    #                 raise Exception(f"Unknown/unsupported instruction {s_gate}.")
+    #             for _ in range(n_len):
+    #                 circ.rx(pi_2, qubit)
+    #         elif s_gate == "x90m":
+    #             circ.rx(-pi_2, qubit)
+    #         elif s_gate == "y90p":
+    #             circ.ry(pi_2, qubit)
+    #         elif s_gate == "y90m":
+    #             circ.ry(pi_2, -qubit)
+    #         elif s_gate == "id":
+    #             pass
+    #         else:
+    #             raise Exception(f"Unknown/unsupported instruction {s_gate}.")
+    #         circ.measure(0, 0)
+    #
+    #         circ.metadata = {"experiment_type": "Bayesian-spam-1q", "qubits": [qubit]}
+    #         circuits.append(circ)
+    #
+    #     return circuits
