@@ -2,7 +2,7 @@
 
 This repository contains the data of exeperiments and numerical simulations presented in the paper:
 
-_Dissipative Dynamics of Graph-State Stabilizers with Superconducting Qubits_, Liran Shirizly, Grégoire Misguich, Haggai Landa, [arXiv:2308.01860](https://arxiv.org/abs/2308.01860)
+_Dissipative Dynamics of Graph-State Stabilizers with Superconducting Qubits_, Liran Shirizly, Grégoire Misguich, Haggai Landa, [arXiv:2308.01860](https://arxiv.org/abs/2308.01860), [Phys. Rev. Lett. **132**, 010601 (2024)](https://doi.org/10.1103/PhysRevLett.132.010601)
 
 Together with the [data](./output), the complete source code allowing to run the [experiments](./project_experiments) and [simulations](./project_simulations) is included.
 
